@@ -19,7 +19,7 @@ ServerEvents.recipes(event => {
 	event.recipes.summoningrituals.altar("minecraft:ender_eye")
 	.input(Ingredient.of('endrem:witch_pupil', 1))
 	.itemOutput('1x endrem:witch_eye')
-	
+
 	//Exotic Eye
 	event.recipes.summoningrituals.altar("minecraft:ender_eye")
 	.input(Ingredient.of('minecraft:bubble_coral', 1))
@@ -29,118 +29,152 @@ ServerEvents.recipes(event => {
 	.input(Ingredient.of('minecraft:conduit', 2))
 	.input(Ingredient.of('minecraft:glow_ink_sac', 2))
 	.itemOutput('1x endrem:exotic_eye')
-	
+
 	// Extract Materials from Vanilla Weapons & Armors
-	
+
 	// Leather
 	event.recipes.summoningrituals.altar("minecraft:leather_helmet")
 	.itemOutput('1x minecraft:leather')
-	
+	.recipeTime(25)
+
 	event.recipes.summoningrituals.altar("minecraft:leather_chestplate")
 	.itemOutput('1x minecraft:leather')
-	
+	.recipeTime(25)
+
 	event.recipes.summoningrituals.altar("minecraft:leather_leggings")
 	.itemOutput('1x minecraft:leather')
-	
+	.recipeTime(25)
+
 	event.recipes.summoningrituals.altar("minecraft:leather_boots")
 	.itemOutput('1x minecraft:leather')
-	
+	.recipeTime(25)
+
 	// Chainmail
 	event.recipes.summoningrituals.altar("minecraft:chainmail_helmet")
 	.itemOutput('1x minecraft:iron_nugget')
-	
+	.recipeTime(25)
+
 	event.recipes.summoningrituals.altar("minecraft:chainmail_chestplate")
 	.itemOutput('1x minecraft:iron_nugget')
-	
+	.recipeTime(25)
+
 	event.recipes.summoningrituals.altar("minecraft:chainmail_leggings")
 	.itemOutput('1x minecraft:iron_nugget')
-	
+	.recipeTime(25)
+
 	event.recipes.summoningrituals.altar("minecraft:chainmail_boots")
 	.itemOutput('1x minecraft:iron_nugget')
-	
+	.recipeTime(25)
+
 	// Iron
 	event.recipes.summoningrituals.altar("minecraft:iron_helmet")
 	.itemOutput('1x minecraft:iron_ingot')
+	.recipeTime(25)
 
 	event.recipes.summoningrituals.altar("minecraft:iron_chestplate")
 	.itemOutput('1x minecraft:iron_ingot')
+	.recipeTime(25)
 
 	event.recipes.summoningrituals.altar("minecraft:iron_leggings")
 	.itemOutput('1x minecraft:iron_ingot')
+	.recipeTime(25)
 
 	event.recipes.summoningrituals.altar("minecraft:iron_boots")
 	.itemOutput('1x minecraft:iron_ingot')
+	.recipeTime(25)
 
 	event.recipes.summoningrituals.altar("minecraft:iron_sword")
 	.itemOutput('1x minecraft:iron_ingot')
+	.recipeTime(25)
 
 	event.recipes.summoningrituals.altar("minecraft:iron_shovel")
 	.itemOutput('1x minecraft:iron_ingot')
+	.recipeTime(25)
 
 	event.recipes.summoningrituals.altar("minecraft:iron_pickaxe")
 	.itemOutput('1x minecraft:iron_ingot')
+	.recipeTime(25)
 
 	event.recipes.summoningrituals.altar("minecraft:iron_axe")
 	.itemOutput('1x minecraft:iron_ingot')
+	.recipeTime(25)
 
 	event.recipes.summoningrituals.altar("minecraft:iron_hoe")
 	.itemOutput('1x minecraft:iron_ingot')
-	
+	.recipeTime(25)
+
 	// Golden
 	event.recipes.summoningrituals.altar("minecraft:golden_helmet")
 	.itemOutput('1x minecraft:gold_ingot')
-	
+	.recipeTime(25)
+
 	event.recipes.summoningrituals.altar("minecraft:golden_chestplate")
 	.itemOutput('1x minecraft:gold_ingot')
-	
+	.recipeTime(25)
+
 	event.recipes.summoningrituals.altar("minecraft:golden_leggings")
 	.itemOutput('1x minecraft:gold_ingot')
-	
+	.recipeTime(25)
+
 	event.recipes.summoningrituals.altar("minecraft:golden_boots")
 	.itemOutput('1x minecraft:gold_ingot')
-	
+	.recipeTime(25)
+
 	event.recipes.summoningrituals.altar("minecraft:golden_sword")
 	.itemOutput('1x minecraft:gold_ingot')
+	.recipeTime(25)
 
 	event.recipes.summoningrituals.altar("minecraft:golden_shovel")
 	.itemOutput('1x minecraft:gold_ingot')
+	.recipeTime(25)
 
 	event.recipes.summoningrituals.altar("minecraft:golden_pickaxe")
 	.itemOutput('1x minecraft:gold_ingot')
+	.recipeTime(25)
 
 	event.recipes.summoningrituals.altar("minecraft:golden_axe")
 	.itemOutput('1x minecraft:gold_ingot')
+	.recipeTime(25)
 
 	event.recipes.summoningrituals.altar("minecraft:golden_hoe")
 	.itemOutput('1x minecraft:gold_ingot')
-	
+	.recipeTime(25)
+
 	// Diamond
 	event.recipes.summoningrituals.altar("minecraft:diamond_helmet")
 	.itemOutput('1x minecraft:diamond')
-	
+	.recipeTime(25)
+
 	event.recipes.summoningrituals.altar("minecraft:diamond_chestplate")
 	.itemOutput('1x minecraft:diamond')
-	
+	.recipeTime(25)
+
 	event.recipes.summoningrituals.altar("minecraft:diamond_leggings")
 	.itemOutput('1x minecraft:diamond')
-	
+	.recipeTime(25)
+
 	event.recipes.summoningrituals.altar("minecraft:diamond_boots")
 	.itemOutput('1x minecraft:diamond')
-	
+	.recipeTime(25)
+
 	event.recipes.summoningrituals.altar("minecraft:diamond_sword")
 	.itemOutput('1x minecraft:diamond')
+	.recipeTime(25)
 
 	event.recipes.summoningrituals.altar("minecraft:diamond_shovel")
 	.itemOutput('1x minecraft:diamond')
+	.recipeTime(25)
 
 	event.recipes.summoningrituals.altar("minecraft:diamond_pickaxe")
 	.itemOutput('1x minecraft:diamond')
+	.recipeTime(25)
 
 	event.recipes.summoningrituals.altar("minecraft:diamond_axe")
 	.itemOutput('1x minecraft:diamond')
+	.recipeTime(25)
 
 	event.recipes.summoningrituals.altar("minecraft:diamond_hoe")
 	.itemOutput('1x minecraft:diamond')
-	
-	
+	.recipeTime(25)
+
 });
