@@ -15,6 +15,7 @@ ServerEvents.tags('item', event => {
 })
 
 ServerEvents.recipes(event => {
+
     // Witch Eye
 	event.recipes.summoningrituals.altar("minecraft:ender_eye")
 	.input(Ingredient.of('endrem:witch_pupil', 1))
@@ -29,6 +30,13 @@ ServerEvents.recipes(event => {
 	.input(Ingredient.of('minecraft:conduit', 2))
 	.input(Ingredient.of('minecraft:glow_ink_sac', 2))
 	.itemOutput('1x endrem:exotic_eye')
+
+	// Bottle o' Enchanting
+	event.recipes.summoningrituals.altar("minecraft:glass_bottle")
+	.input(Ingredient.of('minecraft:lapis_lazuli', 6))
+	.input(Ingredient.of('minecraft:emerald', 3))
+	.itemOutput('3x minecraft:experience_bottle')
+	.recipeTime(25)
 
 	// Extract Materials from Vanilla Weapons & Armors
 
