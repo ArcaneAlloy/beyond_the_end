@@ -31,6 +31,14 @@ ServerEvents.recipes(event => {
 	.input(Ingredient.of('minecraft:glow_ink_sac', 2))
 	.itemOutput('1x endrem:exotic_eye')
 
+	//Undead Eye
+	event.recipes.summoningrituals.altar("endrem:undead_soul")
+	.input(Ingredient.of('minecraft:bone', 1))
+	.input(Ingredient.of('minecraft:phantom_membrane', 1))
+	.input(Ingredient.of('minecraft:rotten_flesh', 1))
+	.input(Ingredient.of('minecraft:ghast_tear', 1))
+	.itemOutput('1x endrem:undead_eye')
+
 	// Bottle o' Enchanting
 	event.recipes.summoningrituals.altar("minecraft:glass_bottle")
 	.input(Ingredient.of('minecraft:lapis_lazuli', 6))
