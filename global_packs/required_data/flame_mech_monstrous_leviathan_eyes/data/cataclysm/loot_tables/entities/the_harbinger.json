@@ -17,6 +17,17 @@
       "entries": [
         {
           "type": "minecraft:item",
+          "name": "cataclysm:abyss_eye",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "name": "eye",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
           "name": "cataclysm:mech_eye",
           "weight": 1
         }
