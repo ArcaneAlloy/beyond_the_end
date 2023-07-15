@@ -46,6 +46,11 @@ ServerEvents.recipes(event => {
 	.itemOutput('3x minecraft:experience_bottle')
 	.recipeTime(25)
 
+	// Transform Magma Creams into Slimeballs
+	event.recipes.summoningrituals.altar("minecraft:magma_cream")
+	.itemOutput('1x minecraft:slime_ball')
+	.recipeTime(25)
+
 	// Extract Materials from Vanilla Weapons & Armors
 
 	// Leather
