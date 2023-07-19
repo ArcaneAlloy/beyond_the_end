@@ -51,6 +51,11 @@ ServerEvents.recipes(event => {
 	.itemOutput('1x minecraft:slime_ball')
 	.recipeTime(25)
 
+	// Transform Warped Ender Pearls into Ender Pearls
+	event.recipes.summoningrituals.altar("bygonenether:warped_ender_pearl")
+	.itemOutput('1x minecraft:ender_pearl')
+	.recipeTime(25)
+
 	// Extract Materials from Vanilla Weapons & Armors
 
 	// Leather
