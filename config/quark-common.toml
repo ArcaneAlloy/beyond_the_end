@@ -334,7 +334,7 @@
 	"Parrot Eggs" = true
 	"Endermosh Music Disc" = true
 	"Color Runes" = true
-	"Bundle Recipe" = true
+	"Bundle Recipe" = false
 	"Bottled Cloud" = true
 	"Beacon Redirection" = true
 	"Ancient Tomes" = true
