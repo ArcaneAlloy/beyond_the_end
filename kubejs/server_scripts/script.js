@@ -46,6 +46,13 @@ ServerEvents.recipes(event => {
 	.itemOutput('3x minecraft:experience_bottle')
 	.recipeTime(25)
 
+	// Enchanted Golden Apple
+	event.recipes.summoningrituals.altar("minecraft:apple")
+	.input(Ingredient.of('minecraft:experience_bottle', 6))
+	.input(Ingredient.of('minecraft:gold_block', 8))
+	.itemOutput('1x minecraft:enchanted_golden_apple')
+	.recipeTime(25)
+
 	// Transform Magma Creams into Slimeballs
 	event.recipes.summoningrituals.altar("minecraft:magma_cream")
 	.itemOutput('1x minecraft:slime_ball')
