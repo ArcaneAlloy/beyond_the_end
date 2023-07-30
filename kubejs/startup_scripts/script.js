@@ -20,7 +20,7 @@ StartupEvents.registry('item', event => {
 	
 	event.create('endrem:mossy_eye')
 		.displayName('\u00A7dMossy Eye')
-		.tooltip('\u00A77\u00A7oBetween the cracks and the mold the light whisper of the sea can be heard')
+		.tooltip('\u00A77\u00A7oBetween the cracks and the mold the soft whisper of the sea can be heard')
 
 	event.create('endrem:abyss_eye')
 		.displayName('\u00A7dAbyss Eye')
