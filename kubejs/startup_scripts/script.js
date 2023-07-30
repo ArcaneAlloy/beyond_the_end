@@ -48,7 +48,7 @@ StartupEvents.registry('item', event => {
       		.alwaysEdible()//Like golden apples
 	})
 
-	event.create('minecraft:enchanted_iron_apple').food(food => {
+	event.create('minecraft:enchanted_iron_apple').glow(true).food(food => {
 		food
 			.hunger(2)
     		.saturation(3)//This value does not directly translate to saturation points gained
