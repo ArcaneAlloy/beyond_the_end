@@ -27,6 +27,9 @@ ServerEvents.recipes(event => {
 	event.remove({output: 'cataclysm:abyss_eye'})
 	event.remove({output: 'cataclysm:void_eye'})
 
+	// Remove Golden Apples craft recipe
+	event.remove({output: 'minecraft:golden_apple'})
+
 // ====================================================================================================================
 // =============================================== Create Craft Recipes ===============================================
 // ====================================================================================================================
@@ -63,9 +66,28 @@ ServerEvents.recipes(event => {
 
 	// Enchanted Golden Apple
 	event.recipes.summoningrituals.altar("minecraft:apple")
-	.input(Ingredient.of('minecraft:experience_bottle', 6))
+	.input(Ingredient.of('minecraft:gold_ingot', 8))
+	.itemOutput('1x minecraft:golden_apple')
+	.recipeTime(25)
+
+	// Enchanted Golden Apple
+	event.recipes.summoningrituals.altar("minecraft:apple")
+	.input(Ingredient.of('minecraft:experience_bottle', 24))
 	.input(Ingredient.of('minecraft:gold_block', 8))
 	.itemOutput('1x minecraft:enchanted_golden_apple')
+	.recipeTime(25)
+
+	// Iron Apple
+	event.recipes.summoningrituals.altar("minecraft:apple")
+	.input(Ingredient.of('minecraft:iron_ingot', 8))
+	.itemOutput('1x minecraft:iron_apple')
+	.recipeTime(25)
+
+	// Enchanted Iron Apple
+	event.recipes.summoningrituals.altar("minecraft:apple")
+	.input(Ingredient.of('minecraft:experience_bottle', 12))
+	.input(Ingredient.of('minecraft:iron_block', 8))
+	.itemOutput('1x minecraft:enchanted_iron_apple')
 	.recipeTime(25)
 
 	// Transform Magma Creams into Slimeballs
