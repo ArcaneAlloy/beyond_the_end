@@ -41,7 +41,7 @@ StartupEvents.registry('item', event => {
 	event.create('minecraft:iron_apple').food(food => {
 		food
 			.hunger(2)
-    		.saturation(3)//This value does not directly translate to saturation points gained
+    		.saturation(1)//This value does not directly translate to saturation points gained
       		//The real value can be assumed to be:
       		//min(hunger * saturation * 2 + saturation, foodAmountAfterEating)
       		.effect('absorption', 200, 0, 1)
@@ -51,7 +51,7 @@ StartupEvents.registry('item', event => {
 	event.create('minecraft:enchanted_iron_apple').glow(true).food(food => {
 		food
 			.hunger(2)
-    		.saturation(3)//This value does not directly translate to saturation points gained
+    		.saturation(1)//This value does not directly translate to saturation points gained
       		//The real value can be assumed to be:
       		//min(hunger * saturation * 2 + saturation, foodAmountAfterEating)
       		.effect('absorption', 1200, 1, 1)
