@@ -17,7 +17,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "cataclysm:flame_eye",
+          "name": "endrem:flame_eye",
           "weight": 1
         }
       ]

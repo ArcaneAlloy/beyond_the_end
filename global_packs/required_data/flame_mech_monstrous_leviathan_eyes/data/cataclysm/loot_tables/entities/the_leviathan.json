@@ -17,7 +17,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "cataclysm:abyss_eye",
+          "name": "endrem:abyss_eye",
           "weight": 1
         }
       ]

@@ -17,7 +17,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "cataclysm:mech_eye",
+          "name": "endrem:mech_eye",
           "weight": 1
         }
       ]
