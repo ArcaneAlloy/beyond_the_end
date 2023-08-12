@@ -34,9 +34,17 @@ StartupEvents.registry('item', event => {
 		.displayName('\u00A7dMonstrous Eye')
 		.tooltip('\u00A77\u00A7oYou can feel a pulsating heat along with the whisper of the fire')
 
+	event.create('endrem:void_eye').
+		displayName('\u00A7dVoid Eye')
+		.tooltip('\u00A77\u00A7oThe void is pulsing energy emanates from within. Threatening.')
+
 	event.create('endrem:flame_eye').
 		displayName('\u00A7dFlame Eye')
 		.tooltip('\u00A77\u00A7oThe Flame Eye, a symbol of strength and honor.\nUse it with dignity.')
+
+	event.create('endrem:parasite_eye').
+		displayName('\u00A7dParasite Eye')
+		.tooltip('\u00A77\u00A7oAn eye with an empty look that rumbles and vibrates in your hand.')
 
 	event.create('minecraft:iron_apple').food(food => {
 		food

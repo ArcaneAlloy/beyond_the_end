@@ -135,5 +135,11 @@
   "advancements.main.monstrous_eye.description": "§7§oImmerse yourself in the heat of the Nether and defeat the great monstrosity in its forge.",
 
   "advancements.main.flame_eye.title": "We remain in the ashes",
-  "advancements.main.flame_eye.description": "§7§oOnly a hero soul is worthy of victory. Well done."
+  "advancements.main.flame_eye.description": "§7§oOnly a hero soul is worthy of victory. Well done.",
+
+  "advancements.main.void_eye.title": "Far beyond the End",
+  "advancements.main.void_eye.description": "§7§oDefeat the Ender Guardian who awaits you below his citadel",
+
+  "advancements.main.parasite_eye.title": "The Worm in the Apple",
+  "advancements.main.parasite_eye.description": "§7§oFree the void from its parasitic menace"
 }
