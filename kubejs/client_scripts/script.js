@@ -14,5 +14,7 @@ JEIEvents.hideItems(event => {
 	event.hide('cataclysm:flame_eye')
 	event.hide('cataclysm:void_eye')
 	event.hide('cataclysm:monstrous_eye')
-	event.hide('cataclysm:abyss_eye')
+	event.hide('cataclysm:abyss_eye'),
+	event.hide('endrem:wither_eye'),
+	event.hide('alexsmobs:void_worm_eye')
 })
