@@ -2,7 +2,7 @@
 [general]
 	"Max Distance" = 24
 	"Render with Interface Disabled (F1)" = false
-	"Height Above Mob" = 0.6
+	"Height Above Mob" = 0.7
 	"Draw Background" = true
 	"Background Padding" = 2
 	"Background Height" = 6
@@ -14,8 +14,8 @@
 	"Group Armor (condense 5 iron icons into 1 diamond icon)" = true
 	"Color Health Bar by Type (instead of health percentage)" = false
 	"HP Text Height" = 14
-	"Show Max HP" = true
-	"Show Current HP" = true
+	"Show Max HP" = false
+	"Show Current HP" = false
 	"Show HP Percentage" = true
 	"Display on Players" = false
 	"Display on Bosses" = false
