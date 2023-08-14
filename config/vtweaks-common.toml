@@ -11,7 +11,7 @@
 	foodTooltipColor = "#00AA00"
 	#Show food hunger & saturation on item hover
 	#Allowed Values: NEVER, WITH_SHIFT, ALWAYS
-	foodTooltipSetting = "WITH_SHIFT"
+	foodTooltipSetting = "NEVER"
 	#Modifies the color of a tooltip for a food that gives buffs on consumption.
 	#Uses HEX Web Colors which you can pick from here: https://dv2ls.com/colpic
 	foodTooltipPositiveColor = "#AA00AA"
@@ -60,7 +60,7 @@
 [entity]
 	#If set to "OWNER", this will prevent owners of pets from attacking their own pet. If set to "ALL", this prevents all players from attacking anyone's pet
 	#Allowed Values: DISABLED, OWNER, ALL
-	enablePetFriendlyFireTweak = "OWNER"
+	enablePetFriendlyFireTweak = "ALL"
 	#Allows any vtweaks:clear_glass, or glow ink sac, to be activated on an item frame while sneaking to make the item frame transparent or glowing respectively.
 	enableItemFrameTweak = true
 	#The amount of time (in Milliseconds) between plucks. Defaults to 10 minutes.
@@ -80,11 +80,11 @@
 	#Range: > -2147483648
 	peacefulSurfaceMinY = 60
 	#When any Creeper (or entity with EntityType tag #forge:creepers) explodes, all blocks destroyed will plop back into place after a few seconds!
-	ungriefCreepers = true
+	ungriefCreepers = false
 
 [player]
 	#Feather Falling IV or above directs 100% of fall damage to boots
-	enableFeatherFallTweak = true
+	enableFeatherFallTweak = false
 	#Prevents any drops dropped by the player on death from despawning
 	enablePlayerDeathDropSafety = true
 
