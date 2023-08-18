@@ -790,7 +790,7 @@
 	"Ancient Wood" = true
 
 	[world.spiral_spires]
-		Rarity = 200
+		Rarity = 50
 		Radius = 15
 		"Enable Myalite Viaducts" = true
 		#Allowed values: [2,1,024]
