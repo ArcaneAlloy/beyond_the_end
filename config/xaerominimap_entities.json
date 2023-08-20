@@ -18,12 +18,12 @@
     "displayNameWhenIconFails": true,
     "entityNumber": 1000.0,
     "alwaysDisplayNametags": false,
-    "startFadingAt": 0.0,
     "dotSize": 2.0,
+    "startFadingAt": 0.0,
     "renderOverMinimapFrame": 1.0,
     "icons": 1.0,
-    "heightLimit": 20.0,
     "names": 0.0,
+    "heightLimit": 20.0,
     "iconScale": 1.0
   },
   "subCategories": [
@@ -52,8 +52,8 @@
           "protection": true,
           "settingOverrides": {
             "renderOrder": 6.0,
-            "heightLimit": 2050.0,
-            "color": 15.0
+            "color": 15.0,
+            "heightLimit": 2050.0
           },
           "subCategories": [
             {
@@ -97,12 +97,17 @@
             {
               "hardInclude": "nothing",
               "includeList": [
+                "dungeons_mobs:poison_anemone",
+                "dungeons_mobs:poison_quill",
+                "dungeons_mobs:poison_quill_vine",
+                "dungeons_mobs:quick_growing_kelp",
+                "dungeons_mobs:quick_growing_vine",
                 "mimic:mimic"
               ],
               "includeListInSuperCategory": true,
               "excludeMode": "ONLY",
               "excludeList": [],
-              "name": "mimic",
+              "name": "exclude_mobs",
               "protection": false,
               "settingOverrides": {
                 "displayed": false
