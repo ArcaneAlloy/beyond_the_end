@@ -1,0 +1,1394 @@
+[
+	// Dimension Game Stages
+
+    {
+		"mob": ["dungeons_mobs:royal_guard", "dungeons_mobs:skeleton_vanguard", "dungeons_mobs:wraith", "alexsmobs:murmur", "alexsmobs:skreecher"],
+		"gamestage": "nether",
+		"maxlight": 2,
+		"random": 0.5,
+		"result": "allow"
+	},
+    {
+		"mob": ["dungeons_mobs:mage", "dungeons_mobs:illusioner", "alexsmobs:skreecher", "alexsmobs:farseer"],
+		"gamestage": "end",
+		"maxlight": 2,
+		"random": 0.5,
+		"result": "allow"
+	},
+    {
+		"mob": ["dungeons_mobs:royal_guard", "dungeons_mobs:skeleton_vanguard", "dungeons_mobs:mage", "dungeons_mobs:illusioner", "dungeons_mobs:wraith", "alexsmobs:murmur", "alexsmobs:skreecher","alexsmobs:farseer"],
+		"result": "deny"
+	},
+
+	// Normal Difficulty HP
+	{
+		"mob": ["alexsmobs:warped_mosco"],
+		"gamestage": "normal",
+		"result": "allow",
+		"healthmultiply": 2.5,
+		"onjoin": true
+	},
+	{
+		"mob": ["mutantmore:mutant_wither_skeleton"],
+		"gamestage": "normal",
+		"result": "allow",
+		"healthmultiply": 1.76470588235,
+		"onjoin": true
+	},
+	{
+		"mob": ["mutantmore:mutant_blaze"],
+		"gamestage": "normal",
+		"result": "allow",
+		"healthmultiply": 1.16666666667,
+		"onjoin": true
+	},
+	{
+		"mob": ["mutantmore:mutant_shulker"],
+		"gamestage": "normal",
+		"result": "allow",
+		"healthmultiply": 1.33333333333,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:void_worm"],
+		"gamestage": "normal",
+		"result": "allow",
+		"healthmultiply": 2.5,
+		"onjoin": true
+	},
+	
+	// Difficulty Hard Game Stages
+
+	// Bosses
+	{
+		"mob": ["minecraft:elder_guardian"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["meetyourfight:swampjaw"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	// Don't work in Ender Golems!
+	{
+		"mob": ["cataclysm:ender_golem"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["meetyourfight:bellringer"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:warped_mosco"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 2.75,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["mutantmore:mutant_wither_skeleton"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 2.20588235294,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["meetyourfight:dame_fortuna"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:wither"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:ender_guardian"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		// to fix problem that the boss not appears with all the heal
+		"potion": "minecraft:regeneration,70,255",
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:ignis"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["mutantmore:mutant_blaze"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.45833333333,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:void_worm"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 3.125,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["mutantmore:mutant_shulker"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.66666666667,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:netherite_monstrosity"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:the_harbinger"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:the_leviathan"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["meetyourfight:rosalyne"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["meetyourfight:rose_spirit"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:warden"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+
+	// Mobs
+	{
+		"mob": ["minecraft:blaze"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:cave_spider"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:creeper"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:drowned"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:enderman"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:endermite"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:evoker"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:ghast"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:guardian"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:hoglin"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:husk"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:magma_cube"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:phantom"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:piglin"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:piglin_brute"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:pillager"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:ravager"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:shulker"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:skeleton"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:slime"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:spider"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:stray"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:vex"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:vindicator"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:witch"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:wither_skeleton"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:zoglin"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:zombie"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:zombie_villager"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:zombified_piglin"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:alligator_snapping_turtle"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:anaconda"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:anaconda"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:bone_serpent"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:bone_serpent_part"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:centipede_head"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:centipede_body"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:crimson_mosquito"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:crocodile"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:dropbear"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:farseer"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:frilled_shark"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:guster"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:hammerhead_shark"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:mimicube"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:anaconda"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:murmur"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:rocky_roller"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:skelewag"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:skreecher"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:snow_leopard"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:soul_vulture"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:straddler"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:tiger"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:coralssus"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:deepling_angler"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:deepling_brute"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:deepling_priest"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:deepling"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:endermaptera"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:ignited_revenant"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:illusioner"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["neapolitan:plantain_spider"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["quark:forgotten"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["quark:toretoise"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["quark:wraith"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["savage_and_ravage:executioner"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["savage_and_ravage:griefer"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["savage_and_ravage:iceologer"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["savage_and_ravage:skeleton_villager"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["savage_and_ravage:trickster"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["upgrade_aquatic:great_thrasher"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["upgrade_aquatic:thrasher"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["bygonenether:corpor"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["bygonenether:piglin_hunter"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["bygonenether:piglin_prisoner"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["bygonenether:warped_enderman"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["bygonenether:wex"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["bygonenether:wither_skeleton_knight"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["bygonenether:wraither"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:blastling"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:drowned_necromancer"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:frozen_zombie"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:fungus_thrower"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:geomancer"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:iceologer"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:icy_creeper"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:illusioner"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:jungle_zombie"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:leapleaf"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:mage"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:mossy_skeleton"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:mountaineer"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:necromancer"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:poison_anemone"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:poison_quill_vine"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:quick_growing_kelp"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:redstone_golem"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:skeleton_vanguard"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:snareling"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:squall_golem"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:sunken_skeleton"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:watchling"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:wavewhisperer"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:whisperer"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:wildfire"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:windcaller"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:wraith"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:zombified_fungus_thrower"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["illagerrevolutionmod:blade_knight"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["illagerrevolutionmod:illager_beast_tamer"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["illagerrevolutionmod:illager_miner"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["illagerrevolutionmod:illager_scavenger"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["illagerrevolutionmod:mauler"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["illagerrevolutionmod:raker"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["illagerrevolutionmod:scrounger"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["illagerrevolutionmod:wild_ravager"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["mimic:mimic"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["pots_and_mimics:end_pot_crab"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["pots_and_mimics:nether_pot_crab"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["pots_and_mimics:poison_pot_crab"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["pots_and_mimics:pot_crab"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["skeletalremains:charredskeleton"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["skeletalremains:overgrownskeleton"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["skeletalremains:sharpshooterskeleton"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["skeletalremains:sunkenskeleton"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
+		"mob": ["skeletalremains:swampedskeleton"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+
+	// Difficulty Nightmare Game Stages
+
+	// Bosses
+	{
+		"mob": ["minecraft:elder_guardian"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.5,
+		"damagemultiply": 1.35,
+		"onjoin": true
+	},
+	{
+		"mob": ["meetyourfight:swampjaw"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.5,
+		"damagemultiply": 1.35,
+		"onjoin": true
+	},
+	// Don't work in Ender Golems!
+	{
+		"mob": ["cataclysm:ender_golem"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.5,
+		"damagemultiply": 1.35,
+		"onjoin": true
+	},
+	{
+		"mob": ["meetyourfight:bellringer"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.5,
+		"damagemultiply": 1.35,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:warped_mosco"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 3.0,
+		"damagemultiply": 1.35,
+		"onjoin": true
+	},
+	{
+		"mob": ["mutantmore:mutant_wither_skeleton"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.647059,
+		"onjoin": true
+	},
+	{
+		"mob": ["meetyourfight:dame_fortuna"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.5,
+		"damagemultiply": 1.35,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:wither"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.5,
+		"damagemultiply": 1.35,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:ender_guardian"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.5,
+		"damagemultiply": 1.35,
+		// to fix problem that the boss not appears with all the heal
+		"potion": "minecraft:regeneration,75,255",
+		"onjoin": true
+	},
+	{
+		"mob": ["mutantmore:mutant_blaze"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.75,
+		"damagemultiply": 1.35,
+		"onjoin": true
+	},
+	{
+		"mob": ["alexsmobs:void_worm"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 3.75,
+		"damagemultiply": 1.35,
+		"onjoin": true
+	},
+	{
+		"mob": ["mutantmore:mutant_shulker"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2,
+		"damagemultiply": 1.35,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:ignis"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.5,
+		"damagemultiply": 1.35,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:netherite_monstrosity"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.5,
+		"damagemultiply": 1.35,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:the_harbinger"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.5,
+		"damagemultiply": 1.35,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:the_leviathan"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.5,
+		"damagemultiply": 1.35,
+		"onjoin": true
+	},
+	{
+		"mob": ["meetyourfight:rosalyne"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.5,
+		"damagemultiply": 1.35,
+		"onjoin": true
+	},
+	{
+		"mob": ["meetyourfight:rose_spirit"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.5,
+		"damagemultiply": 1.35,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:warden"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.5,
+		"damagemultiply": 1.35,
+		"onjoin": true
+	}
+]
