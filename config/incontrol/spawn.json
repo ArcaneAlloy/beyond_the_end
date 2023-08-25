@@ -19,6 +19,7 @@
 		"mob": ["dungeons_mobs:royal_guard", "dungeons_mobs:mage", "dungeons_mobs:illusioner", "dungeons_mobs:wraith", "alexsmobs:murmur", "alexsmobs:skreecher","alexsmobs:farseer"],
 		"result": "deny"
 	},
+
 	// Banned because its animation is totally messed up
     {
 		"mob": ["dungeons_mobs:skeleton_vanguard"],
@@ -32,6 +33,16 @@
 		"healthmultiply": 2.66666666667,
 		"onjoin": true
 	},
+
+	// Nerf Iron Golems
+	{
+		"mob": ["minecraft:iron_golem"],
+		"result": "allow",
+		"healthmultiply": 0.5,
+		"damagemultiply": 0.5,
+		"onjoin": true
+	},
+
 	// Difficulty Normal Game Stages
 	{
 		"mob": ["alexsmobs:warped_mosco"],
