@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:entity",
+	"pools": [
+		{
+			"name": "runed_blade",
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "illagerrevolutionmod:illagium_alt_runed_blade",
+					"weight": 1
+				}
+			]
+		}
+	]
+}
