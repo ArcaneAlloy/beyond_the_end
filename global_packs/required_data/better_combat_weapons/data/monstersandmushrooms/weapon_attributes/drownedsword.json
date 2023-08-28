@@ -1,0 +1,6 @@
+{
+  "parent": "bettercombat:trident",
+  "attributes": {
+    "category": "trident"
+  }
+}
