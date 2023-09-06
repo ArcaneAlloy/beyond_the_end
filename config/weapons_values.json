@@ -1,0 +1,214 @@
+{
+  "minecraft:wooden_axe": {
+    "attackDamage": 6.0,
+    "attackSpeed": 0.8
+  },
+  "minecraft:golden_axe": {
+    "attackDamage": 6.0,
+    "attackSpeed": 0.8
+  },
+  "alexsmobs:tendom_whip": {
+    "attackDamage": 5.0,
+    "attackSpeed": 1.0
+  },
+  "phantasm:crystalline_axe": {
+    "attackDamage": 6.0,
+    "attackSpeed": 0.9
+  },
+  "minecraft:wooden_sword": {
+    "attackDamage": 4.0,
+    "attackSpeed": 1.6
+  },
+  "minecraft:golden_sword": {
+    "attackDamage": 4.0,
+    "attackSpeed": 1.6
+  },
+  "minecraft:stone_axe": {
+    "attackDamage": 8.0,
+    "attackSpeed": 0.8
+  },
+  "dungeons_plus:warped_axe": {
+    "attackDamage": 8.0,
+    "attackSpeed": 0.8
+  },
+  "monstersandmushrooms:meangreenwand": {
+    "attackDamage": 7.0,
+    "attackSpeed": 1.0
+  },
+  "monstersandmushrooms:endwand": {
+    "attackDamage": 7.0,
+    "attackSpeed": 1.0
+  },
+  "monstersandmushrooms:blazewand": {
+    "attackDamage": 7.0,
+    "attackSpeed": 1.0
+  },
+  "monstersandmushrooms:bugsywand": {
+    "attackDamage": 7.0,
+    "attackSpeed": 1.0
+  },
+  "alexsmobs:skelewag_sword": {
+    "attackDamage": 3.5,
+    "attackSpeed": 2.0
+  },
+  "minecraft:iron_axe": {
+    "attackDamage": 8.0,
+    "attackSpeed": 0.9
+  },
+  "illagerrevolutionmod:illagium_axe": {
+    "attackDamage": 8.0,
+    "attackSpeed": 0.9
+  },
+  "illagerrevolutionmod:junk_axe": {
+    "attackDamage": 3.0,
+    "attackSpeed": 2.5
+  },
+  "cataclysm:tidal_claws": {
+    "attackDamage": 8.0,
+    "attackSpeed": 1.0
+  },
+  "minecraft:stone_sword": {
+    "attackDamage": 5.0,
+    "attackSpeed": 1.6
+  },
+  "minecraft:diamond_axe": {
+    "attackDamage": 8.0,
+    "attackSpeed": 1.0
+  },
+  "phantasm:stellium_axe": {
+    "attackDamage": 10.0,
+    "attackSpeed": 0.9
+  },
+  "minecraft:netherite_axe": {
+    "attackDamage": 9.0,
+    "attackSpeed": 1.0
+  },
+  "illagerrevolutionmod:illagium_runed_blade": {
+    "attackDamage": 8.0,
+    "attackSpeed": 1.2
+  },
+  "minecraft:iron_sword": {
+    "attackDamage": 6.0,
+    "attackSpeed": 1.6
+  },
+  "dungeons_plus:leviathan_blade": {
+    "attackDamage": 6.5,
+    "attackSpeed": 1.5
+  },
+  "illagerrevolutionmod:illagium_sword": {
+    "attackDamage": 6.5,
+    "attackSpeed": 1.6
+  },
+  "meetyourfight:depth_star": {
+    "attackDamage": 11.0,
+    "attackSpeed": 0.9
+  },
+  "minecraft:trident": {
+    "attackDamage": 9.0,
+    "attackSpeed": 1.1
+  },
+  "meetyourfight:cocktail_cutlass": {
+    "attackDamage": 6.5,
+    "attackSpeed": 1.6
+  },
+  "phantasm:crystalline_sword": {
+    "attackDamage": 6.5,
+    "attackSpeed": 1.6
+  },
+  "minecraft:diamond_sword": {
+    "attackDamage": 6.5,
+    "attackSpeed": 1.6
+  },
+  "savage_and_ravage:cleaver_of_beheading": {
+    "attackDamage": 10.50,
+    "attackSpeed": 1.0
+  },
+  "illagerrevolutionmod:illagium_alt_runed_blade": {
+    "attackDamage": 9.0,
+    "attackSpeed": 1.2
+  },
+  "minecraft:netherite_sword": {
+    "attackDamage": 7.0,
+    "attackSpeed": 1.6
+  },
+  "cataclysm:gauntlet_of_guard": {
+    "attackDamage": 10.50,
+    "attackSpeed": 1.1
+  },
+  "cataclysm:infernal_forge": {
+    "attackDamage": 14.50,
+    "attackSpeed": 0.8
+  },
+  "monstersandmushrooms:brutesword": {
+    "attackDamage": 7.50,
+    "attackSpeed": 1.6
+  },
+  "monstersandmushrooms:chorussword": {
+    "attackDamage": 7.50,
+    "attackSpeed": 1.6
+  },
+  "monstersandmushrooms:avalasword": {
+    "attackDamage": 7.50,
+    "attackSpeed": 1.6
+  },
+  "monstersandmushrooms:gnomesword": {
+    "attackDamage": 7.50,
+    "attackSpeed": 1.6
+  },
+  "monstersandmushrooms:drownedsword": {
+    "attackDamage": 7.50,
+    "attackSpeed": 1.6
+  },
+  "phantasm:stellium_sword": {
+    "attackDamage": 7.50,
+    "attackSpeed": 1.6
+  },
+  "mutantmore:blazing_scimitar": {
+    "attackDamage": 8.0,
+    "attackSpeed": 1.5
+  },
+  "meetyourfight:twilights_thorn": {
+    "attackDamage": 6.50,
+    "attackSpeed": 1.9
+  },
+  "cataclysm:gauntlet_of_bulwark": {
+    "attackDamage": 11.50,
+    "attackSpeed": 1.1
+  },
+  "monstersandmushrooms:maggartstaff": {
+    "attackDamage": 9.50,
+    "attackSpeed": 1.4
+  },
+  "monstersandmushrooms:shroomsterstaff": {
+    "attackDamage": 9.50,
+    "attackSpeed": 1.4
+  },
+  "monstersandmushrooms:endstaff": {
+    "attackDamage": 9.50,
+    "attackSpeed": 1.4
+  },
+  "monstersandmushrooms:straystaff": {
+    "attackDamage": 9.50,
+    "attackSpeed": 1.4
+  },
+  "monstersandmushrooms:magmacubestaff": {
+    "attackDamage": 9.50,
+    "attackSpeed": 1.4
+  },
+  "cataclysm:zweiender": {
+    "attackDamage": 11.50,
+    "attackSpeed": 1.2
+  },
+  "cataclysm:final_fractal": {
+    "attackDamage": 11.50,
+    "attackSpeed": 1.2
+  },
+  "cataclysm:the_incinerator": {
+    "attackDamage": 14.50,
+    "attackSpeed": 1.0
+  },
+  "cataclysm:void_forge": {
+    "attackDamage": 18.50,
+    "attackSpeed": 0.8
+  }
+}
