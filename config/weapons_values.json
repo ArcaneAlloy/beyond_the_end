@@ -210,5 +210,117 @@
   "cataclysm:void_forge": {
     "attackDamage": 18.50,
     "attackSpeed": 0.8
+  },
+  "minecraft:wooden_pickaxe": {
+    "attackDamage": 2,
+    "attackSpeed": 0.4
+  },
+  "minecraft:stone_pickaxe": {
+    "attackDamage": 3,
+    "attackSpeed": 0.4
+  },
+  "minecraft:golden_pickaxe": {
+    "attackDamage": 2,
+    "attackSpeed": 0.4
+  },
+  "minecraft:iron_pickaxe": {
+    "attackDamage": 4,
+    "attackSpeed": 0.4
+  },
+  "minecraft:diamond_pickaxe": {
+    "attackDamage": 5,
+    "attackSpeed": 0.4
+  },
+  "minecraft:netherite_pickaxe": {
+    "attackDamage": 6,
+    "attackSpeed": 0.4
+  },
+  "alexsmobs:ghostly_pickaxe": {
+    "attackDamage": 4,
+    "attackSpeed": 0.4
+  },
+  "phantasm:crystalline_pickaxe": {
+    "attackDamage": 2,
+    "attackSpeed": 0.4
+  },
+  "phantasm:stellium_pickaxe": {
+    "attackDamage": 7,
+    "attackSpeed": 0.4
+  },
+  "illagerrevolutionmod:illagium_pickaxe": {
+    "attackDamage": 2,
+    "attackSpeed": 0.4
+  },
+    "minecraft:wooden_hoe": {
+    "attackDamage": 1,
+    "attackSpeed": 0.4
+  },
+  "minecraft:stone_hoe": {
+    "attackDamage": 2,
+    "attackSpeed": 0.4
+  },
+  "minecraft:golden_hoe": {
+    "attackDamage": 1,
+    "attackSpeed": 0.4
+  },
+  "minecraft:iron_hoe": {
+    "attackDamage": 3,
+    "attackSpeed": 0.4
+  },
+  "minecraft:diamond_hoe": {
+    "attackDamage": 4,
+    "attackSpeed": 0.4
+  },
+  "minecraft:netherite_hoe": {
+    "attackDamage": 4,
+    "attackSpeed": 0.4
+  },
+  "phantasm:crystalline_hoe": {
+    "attackDamage": 2,
+    "attackSpeed": 0.4
+  },
+  "phantasm:stellium_hoe": {
+    "attackDamage": 4,
+    "attackSpeed": 0.4
+  },
+  "illagerrevolutionmod:illagium_hoe": {
+    "attackDamage": 1,
+    "attackSpeed": 0.4
+  },
+    "minecraft:wooden_shovel": {
+    "attackDamage": 2.5,
+    "attackSpeed": 0.4
+  },
+  "minecraft:stone_shovel": {
+    "attackDamage": 3.5,
+    "attackSpeed": 0.4
+  },
+  "minecraft:golden_shovel": {
+    "attackDamage": 2.5,
+    "attackSpeed": 0.4
+  },
+  "minecraft:iron_shovel": {
+    "attackDamage": 4.5,
+    "attackSpeed": 0.4
+  },
+  "minecraft:diamond_shovel": {
+    "attackDamage": 5.5,
+    "attackSpeed": 0.4
+  },
+  "minecraft:netherite_shovel": {
+    "attackDamage": 6.5,
+    "attackSpeed": 0.4
+  },
+  "phantasm:crystalline_shovel": {
+    "attackDamage": 2,
+    "attackSpeed": 0.4
+  },
+  "phantasm:stellium_shovel": {
+    "attackDamage": 7.5,
+    "attackSpeed": 0.4
+  },
+  "illagerrevolutionmod:illagium_shovel": {
+    "attackDamage": 5,
+    "attackSpeed": 0.4
   }
 }
