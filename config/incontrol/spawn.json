@@ -1122,6 +1122,14 @@
 		"onjoin": true
 	},
 	{
+		"mob": ["illagerrevolutionmod:soul_sage"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.10,
+		"damagemultiply": 1.10,
+		"onjoin": true
+	},
+	{
 		"mob": ["illagerrevolutionmod:illager_beast_tamer"],
 		"gamestage": "hard",
 		"result": "allow",
@@ -2292,6 +2300,14 @@
 	},
 	{
 		"mob": ["illagerrevolutionmod:blade_knight"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.20,
+		"onjoin": true
+	},
+	{
+		"mob": ["illagerrevolutionmod:soul_sage"],
 		"gamestage": "nightmare",
 		"result": "allow",
 		"healthmultiply": 1.25,
