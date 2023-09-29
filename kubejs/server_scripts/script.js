@@ -100,6 +100,30 @@ ServerEvents.recipes(event => {
 	.itemOutput('1x minecraft:ender_pearl')
 	.recipeTime(25)
 
+	// Fossil Bait
+	event.recipes.summoningrituals.altar("minecraft:tropical_fish")
+	.input(Ingredient.of('minecraft:rotten_flesh', 4))
+	.input(Ingredient.of('minecraft:bone', 2))
+	.input(Ingredient.of('minecraft:spider_eye', 2))
+	.itemOutput('1x altar_of_summoning:fossilbait')
+
+	// Haunted Bell
+	event.recipes.summoningrituals.altar("minecraft:bell")
+	.input(Ingredient.of('minecraft:soul_sand', 8))
+	.itemOutput('1x altar_of_summoning:hauntedbell')
+
+	// Devil's Ante
+	event.recipes.summoningrituals.altar("alexsmobs:blood_sac")
+	.input(Ingredient.of('minecraft:quartz', 8))
+	.itemOutput('1x altar_of_summoning:devilsante')
+
+	// Dusk Key
+	event.recipes.summoningrituals.altar("mimic:mimic_key")
+	.input(Ingredient.of('minecraft:amethyst_shard', 2))
+	.input(Ingredient.of('minecraft:blackstone', 2))
+	.input(Ingredient.of('minecraft:allium', 1))
+	.itemOutput('1x altar_of_summoning:duskkey')
+
 	// Extract Materials from Vanilla Weapons & Armors
 
 	// Leather
