@@ -340,7 +340,7 @@
 	"Pathfinder Maps" = true
 	"Parrot Eggs" = true
 	"Endermosh Music Disc" = true
-	"Color Runes" = true
+	"Color Runes" = false
 	"Bundle Recipe" = false
 	"Bottled Cloud" = true
 	"Beacon Redirection" = true
