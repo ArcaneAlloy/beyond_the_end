@@ -1,0 +1,25 @@
+{
+  "dialogueTimeSec": 25,
+  "coloredTexts": [
+    {
+      "hexColor": "#000000",
+      "text": "Man... I wish I had more time to do nothing. Hehe."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Well hello there, can you spare me some emeralds?"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "I think Slimes are cute... When are not trying to eat you."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Yum I guess I don't sleep enough."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "I'm not lazy, I'm just saving energy for... Later..."
+    }
+  ]
+}

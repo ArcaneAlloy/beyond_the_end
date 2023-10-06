@@ -1,0 +1,33 @@
+{
+  "dialogueTimeSec": 25,
+  "coloredTexts": [
+    {
+      "hexColor": "#000000",
+      "text": "I would really like to obtain a Bone Serpent Tooth to be able to see under the lava, but I have to be careful to not burn myself."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Pufferfish are very useful to create Potions that allow to breathe through water temporarily."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "I hope one day to work alongside Noah. So mysterious, so magical."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "This potions are too strong for you traveler, they will kill you."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "While they look pretty, the potions taste terrible."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Dragon breath? This recipe must be wrong. Where do I get that?"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "How is drinking or throwing a potion supposed to have the same effect?"
+    }
+  ]
+}

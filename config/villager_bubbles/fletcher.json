@@ -1,0 +1,33 @@
+{
+  "dialogueTimeSec": 25,
+  "coloredTexts": [
+    {
+      "hexColor": "#000000",
+      "text": "Attach an Arrow with a Banana and you will create an awesome Bananarrow!"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Attach a Rope with an Arrow to create a Rope Arrow which allow to climb high roofs easliy."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Always use a quiver to keep your arrows in order."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Aim for the impossible. And to your enemy's face."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "There's no such thing as luck, only skill."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "That in your pocket is an arrow?"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "I used to be a great hunter, now i'm just a craftsman."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "dialogueTimeSec": 25,
+  "coloredTexts": [
+    {
+      "hexColor": "#000000",
+      "text": "Do you imagine a world where you have to break leaves to obtain Apples? That would be totally crazy."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "The Iron Apples are not so good than the Golden Apples, but hey, they're cheaper."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "I don't know a person who hasn't jumped over the crops. Incredible."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Eat your greens!"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "I hate those cats, always chasing the chickens."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "The cake is not a lie, is really delicious. But too soft for my taste."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Those golems make a better job than a scarecrow."
+    }
+  ]
+}

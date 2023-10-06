@@ -1,0 +1,17 @@
+{
+  "dialogueTimeSec": 45,
+  "coloredTexts": [
+    {
+      "hexColor": "#000000",
+      "text": "We are not going to let you to destroy our village!"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "It's time to stop you, Illagers!"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Why do you hate us so much?!"
+    }
+  ]
+}

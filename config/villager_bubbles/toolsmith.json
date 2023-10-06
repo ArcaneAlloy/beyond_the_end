@@ -1,0 +1,29 @@
+{
+  "dialogueTimeSec": 25,
+  "coloredTexts": [
+    {
+      "hexColor": "#000000",
+      "text": "The Pickarang is a good tool to obtain items that are far from you."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "A good blacksmith is made by his skill... And good tools."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "I don't understand how a furnace can burn minerals."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "It is said that in the Nether there is a huge and amazing forge."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "How am I supposed to hold lava with a bucket?"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "What a great piece of work you have there. Did you craft it?"
+    }
+  ]
+}
