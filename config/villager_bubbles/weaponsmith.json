@@ -1,0 +1,49 @@
+{
+  "dialogueTimeSec": 25,
+  "coloredTexts": [
+    {
+      "hexColor": "#000000",
+      "text": "Normally the larger the weapon, the more powerful it will be, but at the same time slower."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "The hard work is the true reward."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "What a nice gear you have there Can I take a look?"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Gold, iron, diamonds. I can make all good stuff from those."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Always is good have a weapon in hand. Or maybe two."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Magic? Pff, there's nothing better than a big sharpened heavy axe."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "If you can't see yourself in the reflection of a sword then it's not sharp enough."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "On the battlefield you can only trust your sword!"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Weapons made of stone? Who is the madman?"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "I could be with the grinder all day."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Enchanting weapons? Maybe a flaming sword would be cool."
+    }
+  ]
+}

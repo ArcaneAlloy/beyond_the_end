@@ -1,0 +1,17 @@
+{
+  "dialogueTimeSec": 45,
+  "coloredTexts": [
+    {
+      "hexColor": "#000000",
+      "text": "You are welcome here, adventurer, let us hope you do not disturb our peace here."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "I used to be an adventurer like you. Then I took an arrow in the knee."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Be careful adventurer, there are dangerous creatures out there."
+    }
+  ]
+}

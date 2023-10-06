@@ -1,0 +1,21 @@
+{
+  "dialogueTimeSec": 30,
+  "coloredTexts": [
+    {
+      "hexColor": "#000000",
+      "text": "Please, help us, adventurer!"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "I'm too young to end like this!"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "What have we done to deserve this?!"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Please, leave us alone!"
+    }
+	]
+}

@@ -1,0 +1,33 @@
+{
+  "dialogueTimeSec": 25,
+  "coloredTexts": [
+    {
+      "hexColor": "#000000",
+      "text": "The Longfooted enchantment increases the distance of your rolls"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Creatures can be poisoned with a weapon enchanted with Venomous, but this is useless against undead."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Do you have any interesting tomes to share?"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "I will be a book worm, but I will never fall into uncertainty."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "From little tales to enchanted tomes. Everything is interesting!"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "I know everything, and if I do not, I will."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Ender's Journey? I have never heard of that book. Do you know the author?"
+    }
+  ]
+}
