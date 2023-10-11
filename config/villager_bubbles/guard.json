@@ -1,5 +1,5 @@
 {
-  "dialogueTimeSec": 45,
+  "dialogueTimeSec": 30,
   "coloredTexts": [
     {
       "hexColor": "#000000",
@@ -12,6 +12,34 @@
     {
       "hexColor": "#000000",
       "text": "Be careful adventurer, there are dangerous creatures out there."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Be careful adventurer, danger is around the corner."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "What a nasty Silverfish... Oh wait... It's a cat..."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Always be prepared to fight, the world is unpredictable."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Creepers have me paranoid..... What was that noise!?"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Why do they have to be zombies and skeletons? They terrify me."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "If I were you, I wouldn't mess with the iron golems, Bob hasn't landed yet."
+    },
+    {
+      "hexColor": "#000000",
+      "text": "I will protect this village with my life! So be careful what you do traveler."
     }
   ]
 }

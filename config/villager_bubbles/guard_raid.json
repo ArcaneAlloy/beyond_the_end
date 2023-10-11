@@ -1,5 +1,5 @@
 {
-  "dialogueTimeSec": 45,
+  "dialogueTimeSec": 30,
   "coloredTexts": [
     {
       "hexColor": "#000000",
@@ -12,6 +12,34 @@
     {
       "hexColor": "#000000",
       "text": "Why do you hate us so much?!"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Attack! And let none of them be left standing!"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Ring the bells! Protect this village no matter what!"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "We need all the support possible. Don't just stand there!"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "All civilians inside the houses. Now!"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Take your weapons! They are attacking us!"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "There is no room for failure. Fight with all your might!"
+    },
+    {
+      "hexColor": "#000000",
+      "text": "Let's show them that they are wrong for messing with us!"
     }
   ]
 }
