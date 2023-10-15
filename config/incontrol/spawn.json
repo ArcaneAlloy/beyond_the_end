@@ -1265,6 +1265,22 @@
 		"damagemultiply": 1.10,
 		"onjoin": true
 	},
+	{
+		"mob": ["realmrpg_wyrms:ender_wyrm"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.10,
+		"damagemultiply": 1.10,
+		"onjoin": true
+	},
+	{
+		"mob": ["realmrpg_wyrms:red_wyrm"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.10,
+		"damagemultiply": 1.10,
+		"onjoin": true
+	},
 
 	// Difficulty Nightmare Game Stages
 
@@ -2444,6 +2460,22 @@
 	},
 	{
 		"mob": ["skeletalremains:swampedskeleton"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.20,
+		"onjoin": true
+	},
+	{
+		"mob": ["realmrpg_wyrms:ender_wyrm"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.20,
+		"onjoin": true
+	},
+	{
+		"mob": ["realmrpg_wyrms:red_wyrm"],
 		"gamestage": "nightmare",
 		"result": "allow",
 		"healthmultiply": 1.25,

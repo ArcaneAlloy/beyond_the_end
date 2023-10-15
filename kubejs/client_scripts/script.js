@@ -811,6 +811,10 @@ JEIEvents.hideItems(event => {
 	event.hide('upgrade_aquatic:ochre_kelpy_stone_bricks'),
 	event.hide('upgrade_aquatic:ochre_kelpy_stone_brick_stairs'),
 	event.hide('upgrade_aquatic:ochre_kelpy_stone_brick_slab'),
-	event.hide('upgrade_aquatic:ochre_kelpy_stone_brick_vertical_slab')
+	event.hide('upgrade_aquatic:ochre_kelpy_stone_brick_vertical_slab'),
+
+	// Hide Realm RPG Wyrm items
+	event.hide('realmrpg_wyrms:red_wyrm_spawn_egg'),
+	event.hide('realmrpg_wyrms:ender_wyrm_spawn_egg')
 
 })
