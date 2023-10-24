@@ -1,0 +1,10 @@
+
+[General]
+	#Prevent these BLOCKS from being interacted with entirely (Only works if configured on client as well as server). If dimensions are desired, syntax is "modid:block$dimensions"
+	no-interact = ["minecraft:bedrock", "minecraft:air", "create:millstone", "create:gearbox", "create:shaft", "create:cogwheel", "create:large_cogwheel", "create:mechanical_pump", "create:mechanical_mixer", "create:fluid_pipe", "create:spout", "create:depot", "create:fluid_tank", "create:copper_valve_handle", "create:chute", "create:display_link", "create:mechanical_saw", "create:redstone_link", "create:blaze_burner", "create:schematicannon", "create:flywheel", "create:encased_fan", "minecraft:anvil", "minecraft:chipped_anvil", "minecraft:damaged_anvil", "minecraft:enchanting_table", "minecraft:brewing_stand", "cataclysm:mechanical_fusion_anvil", "minecraft:smithing_table"]
+	#BLOCK id's in this list will not be harvestable. If dimensions are desired, syntax is "modid:block$dimension"
+	no-harvest = ["minecraft:bedrock", "minecraft:air", "create:millstone", "create:gearbox", "create:shaft", "create:cogwheel", "create:large_cogwheel", "create:mechanical_pump", "create:mechanical_mixer", "create:copper_valve_handle", "create:fluid_pipe", "create:spout", "create:depot", "create:fluid_tank", "create:chute", "create:display_link", "create:hand_crank", "create:mechanical_saw", "create:redstone_link", "create:blaze_burner", "create:schematicannon", "create:flywheel", "create:encased_fan"]
+	#BLOCK id's in this list will not be placeable and
+	#will not spawn in the world nor return to the player. If dimensions are desired, syntax is "modid:block$dimensions"
+	no-place = ["minecraft:bedrock", "minecraft:air", "create:millstone", "create:gearbox", "create:shaft", "create:cogwheel", "create:large_cogwheel", "create:mechanical_pump", "create:mechanical_mixer", "create:copper_valve_handle", "create:fluid_pipe", "create:spout", "create:depot", "create:fluid_tank", "create:chute", "create:display_link", "create:hand_crank", "create:mechanical_saw", "create:redstone_link", "create:blaze_burner", "create:schematicannon", "create:flywheel", "create:encased_fan"]
+

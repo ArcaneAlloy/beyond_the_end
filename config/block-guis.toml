@@ -1,5 +1,0 @@
-
-["BlockGuis Configuration"]
-	#List of banned blocks gui
-	banned_items = ["minecraft:chipped_anvil", "minecraft:enchanting_table", "minecraft:brewing_stand", "cataclysm:mechanical_fusion_anvil", "minecraft:smithing_table", "minecraft:anvil", "minecraft:damaged_anvil"]
-
