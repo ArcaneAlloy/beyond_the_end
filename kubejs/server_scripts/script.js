@@ -605,6 +605,10 @@ ServerEvents.recipes(event => {
 	.itemOutput('1x minecraft:leather')
 	.recipeTime(25)
 
+	event.recipes.summoningrituals.altar("minecraft:leather_horse_armor")
+	.itemOutput('1x minecraft:leather')
+	.recipeTime(25)
+
 	// Chainmail
 	event.recipes.summoningrituals.altar("minecraft:chainmail_helmet")
 	.itemOutput('1x minecraft:iron_nugget')
@@ -659,6 +663,10 @@ ServerEvents.recipes(event => {
 	.itemOutput('1x minecraft:iron_ingot')
 	.recipeTime(25)
 
+	event.recipes.summoningrituals.altar("minecraft:iron_horse_armor")
+	.itemOutput('1x minecraft:iron_ingot')
+	.recipeTime(25)
+
 	// Golden
 	event.recipes.summoningrituals.altar("minecraft:golden_helmet")
 	.itemOutput('1x minecraft:gold_ingot')
@@ -696,6 +704,10 @@ ServerEvents.recipes(event => {
 	.itemOutput('1x minecraft:gold_ingot')
 	.recipeTime(25)
 
+	event.recipes.summoningrituals.altar("minecraft:golden_horse_armor")
+	.itemOutput('1x minecraft:gold_ingot')
+	.recipeTime(25)
+
 	// Diamond
 	event.recipes.summoningrituals.altar("minecraft:diamond_helmet")
 	.itemOutput('1x minecraft:diamond')
@@ -730,6 +742,10 @@ ServerEvents.recipes(event => {
 	.recipeTime(25)
 
 	event.recipes.summoningrituals.altar("minecraft:diamond_hoe")
+	.itemOutput('1x minecraft:diamond')
+	.recipeTime(25)
+
+	event.recipes.summoningrituals.altar("minecraft:diamond_horse_armor")
 	.itemOutput('1x minecraft:diamond')
 	.recipeTime(25)
 
