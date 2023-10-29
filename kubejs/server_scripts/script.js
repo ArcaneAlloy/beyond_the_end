@@ -497,12 +497,12 @@ ServerEvents.recipes(event => {
 // ====================================================================================================================
 
     // Witch Eye
-	event.recipes.summoningrituals.altar("minecraft:ender_eye")
+	event.recipes.summoningrituals.altar("minecraft:ender_pearl")
 	.input(Ingredient.of('endrem:witch_pupil', 1))
 	.itemOutput('1x endrem:witch_eye')
 
 	//Exotic Eye
-	event.recipes.summoningrituals.altar("minecraft:ender_eye")
+	event.recipes.summoningrituals.altar("minecraft:ender_pearl")
 	.input(Ingredient.of('minecraft:bubble_coral', 1))
 	.input(Ingredient.of('minecraft:fire_coral', 1))
 	.input(Ingredient.of('minecraft:horn_coral', 1))
