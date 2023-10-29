@@ -124,7 +124,7 @@
         "attempts": 1,
         "amount": {
           "minimum": 1,
-          "maximum": 2
+          "maximum": 1
         },
         "conditions": {
           "dimension": "minecraft:the_nether",
@@ -132,7 +132,7 @@
           "maxdist": 100,
           "minheight": 30,
           "maxheight": 180,
-          "maxthis": 10
+          "maxthis": 3
         }
       }
 ]
