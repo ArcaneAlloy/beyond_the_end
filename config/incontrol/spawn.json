@@ -2,21 +2,21 @@
 	// Dimension Game Stages
 
     {
-		"mob": ["dungeons_mobs:royal_guard", "dungeons_mobs:wraith", "alexsmobs:murmur", "alexsmobs:skreecher"],
+		"mob": ["dungeons_mobs:wraith", "alexsmobs:murmur", "alexsmobs:skreecher"],
 		"gamestage": "nether",
 		"maxlight": 2,
 		"random": 0.5,
 		"result": "allow"
 	},
     {
-		"mob": ["dungeons_mobs:mage", "dungeons_mobs:illusioner", "alexsmobs:skreecher", "alexsmobs:farseer"],
+		"mob": ["alexsmobs:farseer"],
 		"gamestage": "end",
 		"maxlight": 2,
 		"random": 0.5,
 		"result": "allow"
 	},
     {
-		"mob": ["dungeons_mobs:royal_guard", "dungeons_mobs:mage", "dungeons_mobs:illusioner", "dungeons_mobs:wraith", "alexsmobs:murmur", "alexsmobs:skreecher","alexsmobs:farseer"],
+		"mob": ["dungeons_mobs:wraith", "alexsmobs:murmur", "alexsmobs:skreecher","alexsmobs:farseer"],
 		"result": "deny"
 	},
 
