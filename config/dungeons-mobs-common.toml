@@ -81,21 +81,21 @@
 	#they will replace their equivalent Illager type (Vindicator, Evoker, Ravager) in raids taking place in their allowed biomes. [true / false]
 	enableBiomeSpecificRaiders = false
 	#Enable the addition of Mountaineers to raids. [true / false]
-	enableMountaineersInRaids = false
+	enableMountaineersInRaids = true
 	#Enable the addition of Armored Mountaineers to raids. [true / false]
 	enableArmoredMountaineersInRaids = false
 	#Enable the addition of Royal Guards to raids. [true / false]
-	enableRoyalGuardsInRaids = false
+	enableRoyalGuardsInRaids = true
 	#Enable the addition of Geomancers to raids. [true / false]
 	enableGeomancersInRaids = true
 	#Enable the addition of Illusioners to raids. [true / false]
-	enableIllusionersInRaids = false
+	enableIllusionersInRaids = true
 	#Enable the addition of Mages to raids. [true / false]
-	enableMagesInRaids = false
+	enableMagesInRaids = true
 	#Enable the addition of Iceologers to raids. [true / false]
 	enableIceologersInRaids = false
 	#Enable the addition of Windcallers to raids. [true / false]
-	enableWindcallersInRaids = false
+	enableWindcallersInRaids = true
 	#Enable the addition of Armored Pillagers to raids. [true / false]
 	enableArmoredPillagersInRaids = true
 	#Enable the addition of Squall Golems to raids. [true / false]

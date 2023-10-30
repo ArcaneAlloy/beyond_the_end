@@ -63,7 +63,7 @@
           "mindist": 24,
           "maxdist": 100,
           "minheight": -60,
-          "maxheight": 200,
+          "maxheight": 50,
           "maxthis": 10
         }
       },
@@ -80,7 +80,7 @@
           "mindist": 24,
           "maxdist": 100,
           "minheight": -60,
-          "maxheight": 200,
+          "maxheight": 50,
           "maxthis": 10
         }
       },
