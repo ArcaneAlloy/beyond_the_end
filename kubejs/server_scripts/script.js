@@ -211,6 +211,7 @@ ServerEvents.recipes(event => {
 	event.remove({output: 'minecraft:brewing_stand'})
 	event.remove({output: 'minecraft:smithing_table'})
 	event.remove({output: 'cataclysm:mechanical_fusion_anvil'})
+	event.remove({output: 'cataclysm:abyssal_sacrifice'})
 
 	// Remove Monsters & Mushrooms recipes
 	event.remove({output: 'monstersandmushrooms:bugsy_helmet'})
@@ -585,6 +586,18 @@ ServerEvents.recipes(event => {
 	.input(Ingredient.of('minecraft:blackstone', 2))
 	.input(Ingredient.of('minecraft:allium', 1))
 	.itemOutput('1x altar_of_summoning:duskkey')
+
+	// Abyssal Sacrifice
+	event.recipes.summoningrituals.altar("minecraft:heart_of_the_sea")
+	.input(Ingredient.of('cataclysm:athame', 1))
+	.input(Ingredient.of('minecraft:nautilus_shell', 1))
+	.input(Ingredient.of('cataclysm:crystallized_coral', 1))
+	.input(Ingredient.of('minecraft:diamond_block', 1))
+	.input(Ingredient.of('minecraft:iron_block', 1))
+	.input(Ingredient.of('minecraft:emerald_block', 1))
+	.input(Ingredient.of('minecraft:gold_block', 1))
+	.input(Ingredient.of('minecraft:amethyst_block', 1))
+	.itemOutput('1x cataclysm:abyssal_sacrifice')
 
 	// Extract Materials from Vanilla Weapons & Armors
 
