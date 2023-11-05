@@ -306,9 +306,9 @@
     "five": "None",
     "pigstep": "None",
     "end": "Both",
-    "end_creative1": "Creative",
-    "end_creative2": "Creative",
-    "end_creative3": "Creative",
-    "end_creative4": "Creative"
+    "end_creative1": "Both",
+    "end_creative2": "Both",
+    "end_creative3": "Both",
+    "end_creative4": "Both"
   }
 }
