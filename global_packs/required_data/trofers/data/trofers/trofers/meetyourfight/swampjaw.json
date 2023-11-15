@@ -1,0 +1,36 @@
+{
+  "colors": {
+    "accent": "#606060",
+    "base": "#606060"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "meetyourfight"
+    }
+  ],
+  "display": {
+    "scale": 0.4
+  },
+  "effects": {
+    "rewards": {
+      "cooldown": 9600,
+      "lootTable": "trofers:trophies/swampjaw"
+    },
+    "sound": {
+      "soundEvent": "meetyourfight:entity.swampjaw.idle"
+    }
+  },
+  "entity": {
+    "type": "meetyourfight:swampjaw"
+  },
+  "name": {
+    "color": "#20FCCE",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.swampjaw"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "colors": {
+    "accent": "#606060",
+    "base": "#606060"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "minecraft"
+    }
+  ],
+  "display": {
+    "scale": 0.4
+  },
+  "effects": {
+    "rewards": {
+      "cooldown": 9600,
+      "lootTable": "trofers:trophies/wither"
+    },
+    "sound": {
+      "soundEvent": "minecraft:entity.wither.ambient"
+    }
+  },
+  "entity": {
+    "type": "minecraft:wither"
+  },
+  "name": {
+    "color": "#20FCCE",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.wither.ambient"
+      }
+    ]
+  }
+}
