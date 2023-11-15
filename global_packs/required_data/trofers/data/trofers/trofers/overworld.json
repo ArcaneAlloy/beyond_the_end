@@ -1,0 +1,36 @@
+{
+  "colors": {
+    "accent": "#606060",
+    "base": "#606060"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "minecraft"
+    }
+  ],
+  "display": {
+    "scale": 0.5
+  },
+  "effects": {
+    "rewards": {
+      "cooldown": 9600,
+      "lootTable": "trofers:trophies/overworld"
+    },
+    "sound": {
+      "soundEvent": "minecraft:entity.creeper.primed"
+    }
+  },
+  "entity": {
+    "type": "minecraft:creeper"
+  },
+  "name": {
+    "color": "#20FCCE",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.creeper"
+      }
+    ]
+  }
+}

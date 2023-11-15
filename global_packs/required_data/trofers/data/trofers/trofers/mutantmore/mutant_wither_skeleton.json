@@ -1,0 +1,36 @@
+{
+  "colors": {
+    "accent": "#606060",
+    "base": "#606060"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "mutantmore"
+    }
+  ],
+  "display": {
+    "scale": 0.4
+  },
+  "effects": {
+    "rewards": {
+      "cooldown": 9600,
+      "lootTable": "trofers:trophies/mutant_wither_skeleton"
+    },
+    "sound": {
+      "soundEvent": "mutantmore:entity.mutant_wither_skeleton.roar"
+    }
+  },
+  "entity": {
+    "type": "mutantmore:mutant_wither_skeleton"
+  },
+  "name": {
+    "color": "#20FCCE",
+    "translate": "trophy.trofers.composed",
+    "with": [
+      {
+        "translate": "entity.mutant_wither_skeleton"
+      }
+    ]
+  }
+}
