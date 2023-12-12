@@ -56,8 +56,8 @@
     "attackSpeed": 0.9
   },
   "illagerrevolutionmod:illagium_axe": {
-    "attackDamage": 8.0,
-    "attackSpeed": 0.9
+    "attackDamage": 8.5,
+    "attackSpeed": 1.0
   },
   "illagerrevolutionmod:junk_axe": {
     "attackDamage": 3.0,
@@ -84,7 +84,7 @@
     "attackSpeed": 1.0
   },
   "illagerrevolutionmod:illagium_runed_blade": {
-    "attackDamage": 8.0,
+    "attackDamage": 9.0,
     "attackSpeed": 1.2
   },
   "minecraft:iron_sword": {
@@ -96,8 +96,8 @@
     "attackSpeed": 1.5
   },
   "illagerrevolutionmod:illagium_sword": {
-    "attackDamage": 6.5,
-    "attackSpeed": 1.6
+    "attackDamage": 7,
+    "attackSpeed": 1.5
   },
   "meetyourfight:depth_star": {
     "attackDamage": 11.0,
@@ -124,7 +124,7 @@
     "attackSpeed": 1.0
   },
   "illagerrevolutionmod:illagium_alt_runed_blade": {
-    "attackDamage": 9.0,
+    "attackDamage": 9.5,
     "attackSpeed": 1.2
   },
   "minecraft:netherite_sword": {
@@ -322,5 +322,229 @@
   "illagerrevolutionmod:illagium_shovel": {
     "attackDamage": 5,
     "attackSpeed": 0.4
+  },
+  "dungeons_gear:boneclub": {
+    "attackDamage": 9.5,
+    "attackSpeed": 0.9
+  },
+  "dungeons_gear:great_hammer": {
+    "attackDamage": 10,
+    "attackSpeed": 0.8
+  },
+  "dungeons_gear:bone_cudgel": {
+    "attackDamage": 10,
+    "attackSpeed": 0.8
+  },
+  "dungeons_gear:battlestaff": {
+    "attackDamage": 5.5,
+    "attackSpeed": 1.5
+  },
+  "dungeons_gear:gauntlet": {
+    "attackDamage": 3,
+    "attackSpeed": 2.9
+  },
+  "dungeons_gear:cutlass": {
+    "attackDamage": 5,
+    "attackSpeed": 1.8
+  },
+  "dungeons_gear:tempest_knife": {
+    "attackDamage": 4,
+    "attackSpeed": 2.3
+  },
+  "dungeons_gear:spear": {
+    "attackDamage": 5.5,
+    "attackSpeed": 1.7
+  },
+  "dungeons_gear:soul_knife": {
+    "attackDamage": 4.5,
+    "attackSpeed": 2.1
+  },
+  "dungeons_gear:anchor": {
+    "attackDamage": 10.5,
+    "attackSpeed": 0.9
+  },
+  "dungeons_gear:truthseeker": {
+    "attackDamage": 4.5,
+    "attackSpeed": 2.1
+  },
+  "dungeons_gear:katana": {
+    "attackDamage": 5,
+    "attackSpeed": 1.9
+  },
+  "dungeons_gear:rapier": {
+    "attackDamage": 5,
+    "attackSpeed": 1.9
+  },
+  "dungeons_gear:dagger": {
+    "attackDamage": 4,
+    "attackSpeed": 2.4
+  },
+  "dungeons_gear:fighters_binding": {
+    "attackDamage": 3,
+    "attackSpeed": 3.2
+  },
+  "dungeons_gear:sickle": {
+    "attackDamage": 6,
+    "attackSpeed": 1.6
+  },
+  "dungeons_gear:stormlander": {
+    "attackDamage": 12,
+    "attackSpeed": 0.8
+  },
+  "dungeons_gear:hawkbrand": {
+    "attackDamage": 6.5,
+    "attackSpeed": 1.5
+  },
+  "dungeons_gear:glaive": {
+    "attackDamage": 6.5,
+    "attackSpeed": 1.5
+  },
+  "dungeons_gear:soul_scythe": {
+    "attackDamage": 7.5,
+    "attackSpeed": 1.3
+  },
+  "dungeons_gear:mace": {
+    "attackDamage": 7,
+    "attackSpeed": 1.4
+  },
+  "dungeons_gear:flail": {
+    "attackDamage": 7,
+    "attackSpeed": 1.4
+  },
+  "dungeons_gear:shear_dagger": {
+    "attackDamage": 4.5,
+    "attackSpeed": 2.2
+  },
+  "dungeons_gear:claymore": {
+    "attackDamage": 9,
+    "attackSpeed": 1.1
+  },
+  "dungeons_gear:nameless_blade": {
+    "attackDamage": 6,
+    "attackSpeed": 1.7
+  },
+  "dungeons_gear:fortune_spear": {
+    "attackDamage": 6,
+    "attackSpeed": 1.7
+  },
+  "dungeons_gear:resolute_tempest_knife": {
+    "attackDamage": 4.5,
+    "attackSpeed": 2.3
+  },
+  "dungeons_gear:chill_gale_knife": {
+    "attackDamage": 4.5,
+    "attackSpeed": 2.3
+  },
+  "dungeons_gear:whirlwind": {
+    "attackDamage": 11.50,
+    "attackSpeed": 0.9
+  },
+  "dungeons_gear:encrusted_anchor": {
+    "attackDamage": 11.50,
+    "attackSpeed": 0.9
+  },
+  "dungeons_gear:the_last_laugh": {
+    "attackDamage": 6.5,
+    "attackSpeed": 1.6
+  },
+  "dungeons_gear:dancers_sword": {
+    "attackDamage": 6.50,
+    "attackSpeed": 1.6
+  },
+  "dungeons_gear:hammer_of_gravity": {
+    "attackDamage": 13,
+    "attackSpeed": 0.8
+  },
+  "dungeons_gear:frost_scythe": {
+    "attackDamage": 8,
+    "attackSpeed": 1.3
+  },
+  "dungeons_gear:dark_katana": {
+    "attackDamage": 5.5,
+    "attackSpeed": 1.9
+  },
+  "dungeons_gear:bee_stinger": {
+    "attackDamage": 5.5,
+    "attackSpeed": 1.9
+  },
+  "dungeons_gear:great_axeblade": {
+    "attackDamage": 9.5,
+    "attackSpeed": 1.1
+  },
+  "dungeons_gear:broadsword": {
+    "attackDamage": 9.5,
+    "attackSpeed": 1.1
+  },
+  "dungeons_gear:frost_slayer": {
+    "attackDamage": 9.5,
+    "attackSpeed": 1.1
+  },
+  "dungeons_gear:mauler": {
+    "attackDamage": 3.50,
+    "attackSpeed": 3.0
+  },
+  "dungeons_gear:suns_grace": {
+    "attackDamage": 7.5,
+    "attackSpeed": 1.4
+  },
+  "dungeons_gear:eternal_knife": {
+    "attackDamage": 5,
+    "attackSpeed": 2.1
+  },
+  "dungeons_gear:battlestaff_of_terror": {
+    "attackDamage": 7,
+    "attackSpeed": 1.5
+  },
+  "dungeons_gear:grave_bane": {
+    "attackDamage": 7,
+    "attackSpeed": 1.5
+  },
+  "dungeons_gear:fang_of_frost": {
+    "attackDamage": 5.5,
+    "attackSpeed": 2.0
+  },
+  "dungeons_gear:freezing_foil": {
+    "attackDamage": 5.5,
+    "attackSpeed": 2.0
+  },
+  "dungeons_gear:heartstealer": {
+    "attackDamage": 10.0,
+    "attackSpeed": 1.1
+  },
+  "dungeons_gear:whispering_spear": {
+    "attackDamage": 6.5,
+    "attackSpeed": 1.7
+  },
+  "dungeons_gear:jailors_scythe": {
+    "attackDamage": 8.5,
+    "attackSpeed": 1.3
+  },
+  "dungeons_gear:soul_fist": {
+    "attackDamage": 4,
+    "attackSpeed": 2.8
+  },
+  "dungeons_gear:nightmares_bite": {
+    "attackDamage": 7,
+    "attackSpeed": 1.6
+  },
+  "dungeons_gear:cursed_axe": {
+    "attackDamage": 12.50,
+    "attackSpeed": 0.9
+  },
+  "dungeons_gear:growing_staff": {
+    "attackDamage": 7.5,
+    "attackSpeed": 1.5
+  },
+  "dungeons_gear:venom_glaive": {
+    "attackDamage": 7.5,
+    "attackSpeed": 1.5
+  },
+  "dungeons_gear:masters_katana": {
+    "attackDamage": 6,
+    "attackSpeed": 1.9
+  },
+  "dungeons_gear:sinister_sword": {
+    "attackDamage": 7,
+    "attackSpeed": 1.7
   }
 }
