@@ -212,116 +212,116 @@
     "attackSpeed": 0.8
   },
   "minecraft:wooden_pickaxe": {
-    "attackDamage": 2,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "minecraft:stone_pickaxe": {
-    "attackDamage": 3,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "minecraft:golden_pickaxe": {
-    "attackDamage": 2,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "minecraft:iron_pickaxe": {
-    "attackDamage": 4,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "minecraft:diamond_pickaxe": {
-    "attackDamage": 5,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "minecraft:netherite_pickaxe": {
-    "attackDamage": 6,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 00
   },
   "alexsmobs:ghostly_pickaxe": {
-    "attackDamage": 4,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "phantasm:crystalline_pickaxe": {
-    "attackDamage": 2,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "phantasm:stellium_pickaxe": {
-    "attackDamage": 7,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "illagerrevolutionmod:illagium_pickaxe": {
-    "attackDamage": 2,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
     "minecraft:wooden_hoe": {
-    "attackDamage": 1,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "minecraft:stone_hoe": {
-    "attackDamage": 2,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "minecraft:golden_hoe": {
-    "attackDamage": 1,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "minecraft:iron_hoe": {
-    "attackDamage": 3,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "minecraft:diamond_hoe": {
-    "attackDamage": 4,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "minecraft:netherite_hoe": {
-    "attackDamage": 4,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "phantasm:crystalline_hoe": {
-    "attackDamage": 2,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "phantasm:stellium_hoe": {
-    "attackDamage": 4,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "illagerrevolutionmod:illagium_hoe": {
-    "attackDamage": 1,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
     "minecraft:wooden_shovel": {
-    "attackDamage": 2.5,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "minecraft:stone_shovel": {
-    "attackDamage": 3.5,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "minecraft:golden_shovel": {
-    "attackDamage": 2.5,
+    "attackDamage": 0,
     "attackSpeed": 0.4
   },
   "minecraft:iron_shovel": {
-    "attackDamage": 4.5,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "minecraft:diamond_shovel": {
-    "attackDamage": 5.5,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "minecraft:netherite_shovel": {
-    "attackDamage": 6.5,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "phantasm:crystalline_shovel": {
-    "attackDamage": 2,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "phantasm:stellium_shovel": {
-    "attackDamage": 7.5,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "illagerrevolutionmod:illagium_shovel": {
-    "attackDamage": 5,
-    "attackSpeed": 0.4
+    "attackDamage": 0,
+    "attackSpeed": 0
   },
   "dungeons_gear:boneclub": {
     "attackDamage": 9.5,
@@ -546,5 +546,81 @@
   "dungeons_gear:sinister_sword": {
     "attackDamage": 7,
     "attackSpeed": 1.7
+  },
+  "dungeons_gear:twin_bow": {
+    "attackDamage": 0,
+    "attackSpeed": 0.0
+  },
+  "dungeons_gear:haunted_bow": {
+    "attackDamage": 0,
+    "attackSpeed": 0.0
+  },
+  "dungeons_gear:bow_of_lost_souls": {
+    "attackDamage": 0,
+    "attackSpeed": 0.0
+  },
+  "dungeons_gear:shivering_bow": {
+    "attackDamage": 0,
+    "attackSpeed": 0.0
+  },
+  "dungeons_gear:elite_power_bow": {
+    "attackDamage": 0,
+    "attackSpeed": 0.0
+  },
+  "dungeons_gear:sabrewing": {
+    "attackDamage": 0,
+    "attackSpeed": 0.0
+  },
+  "dungeons_gear:echo_of_the_valley": {
+    "attackDamage": 0,
+    "attackSpeed": 0.0
+  },
+  "dungeons_gear:slayer_crossbow": {
+    "attackDamage": 0,
+    "attackSpeed": 0.0
+  },
+  "dungeons_gear:lightning_harp_crossbow": {
+    "attackDamage": 0,
+    "attackSpeed": 0.0
+  },
+  "dungeons_gear:imploding_crossbow": {
+    "attackDamage": 0,
+    "attackSpeed": 0.0
+  },
+  "dungeons_gear:corrupted_crossbow": {
+    "attackDamage": 0,
+    "attackSpeed": 0.0
+  },
+  "dungeons_gear:soul_hunter_crossbow": {
+    "attackDamage": 0,
+    "attackSpeed": 0.0
+  },
+  "dungeons_gear:baby_crossbow": {
+    "attackDamage": 0,
+    "attackSpeed": 0.0
+  },
+  "dungeons_gear:nautical_crossbow": {
+    "attackDamage": 0,
+    "attackSpeed": 0.0
+  },
+  "dungeons_gear:bonebow": {
+    "attackDamage": 0,
+    "attackSpeed": 0.0
+  },
+  "dungeons_mobs:mountaineer_axe": {
+    "attackDamage": 0,
+    "attackSpeed": 0.0
+  },
+  "dungeons_mobs:gold_mountaineer_axe": {
+    "attackDamage": 0,
+    "attackSpeed": 0.0
+  },
+  "dungeons_mobs:diamond_mountaineer_axe": {
+    "attackDamage": 0,
+    "attackSpeed": 0.0
+  },
+  "cataclysm:athame": {
+    "attackDamage": 4.50,
+    "attackSpeed": 2.3
   }
 }
