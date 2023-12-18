@@ -233,7 +233,7 @@
   },
   "minecraft:netherite_pickaxe": {
     "attackDamage": 0,
-    "attackSpeed": 00
+    "attackSpeed": 0
   },
   "alexsmobs:ghostly_pickaxe": {
     "attackDamage": 0,
@@ -622,5 +622,13 @@
   "cataclysm:athame": {
     "attackDamage": 4.50,
     "attackSpeed": 2.3
+  },
+  "cataclysm:meath_shredder": {
+    "attackDamage": 9.50,
+    "attackSpeed": 1.3
+  },
+  "cataclysm:khopesh": {
+    "attackDamage": 7,
+    "attackSpeed": 1.4
   }
 }
