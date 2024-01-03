@@ -215,6 +215,14 @@
 		"onjoin": true
 	},
 	{
+		"mob": ["cataclysm:ancient_remnant"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.15,
+		"onjoin": true
+	},
+	{
 		"mob": ["meetyourfight:rosalyne"],
 		"gamestage": "hard",
 		"result": "allow",
@@ -722,6 +730,38 @@
 	},
 	{
 		"mob": ["cataclysm:ignited_revenant"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.10,
+		"damagemultiply": 1.10,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:deepling_warlock"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.10,
+		"damagemultiply": 1.10,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:koboleton"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.10,
+		"damagemultiply": 1.10,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:the_prowler"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.10,
+		"damagemultiply": 1.10,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:the_watcher"],
 		"gamestage": "hard",
 		"result": "allow",
 		"healthmultiply": 1.10,
@@ -1416,6 +1456,14 @@
 		"onjoin": true
 	},
 	{
+		"mob": ["cataclysm:ancient_remnant"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.5,
+		"damagemultiply": 1.35,
+		"onjoin": true
+	},
+	{
 		"mob": ["meetyourfight:rosalyne"],
 		"gamestage": "nightmare",
 		"result": "allow",
@@ -1923,6 +1971,38 @@
 	},
 	{
 		"mob": ["cataclysm:ignited_revenant"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.20,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:deepling_warlock"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.20,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:koboleton"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.20,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:the_prowler"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.25,
+		"damagemultiply": 1.20,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:the_watcher"],
 		"gamestage": "nightmare",
 		"result": "allow",
 		"healthmultiply": 1.25,
