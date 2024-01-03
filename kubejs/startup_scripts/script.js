@@ -56,6 +56,11 @@ StartupEvents.registry('item', event => {
 		.tooltip('\u00A77\u00A7oAn eye with an empty look that rumbles and vibrates in your hand.')
 		.fireResistant(true)
 
+	event.create('endrem:desert_eye')
+		.displayName('\u00A7dDesert Eye')
+		.tooltip('\u00A77\u00A7oIts bright pupil reflects the vestiges of a very ancient era.')
+		.fireResistant(true)
+
 	event.create('minecraft:iron_apple').food(food => {
 		food
 			.hunger(2)

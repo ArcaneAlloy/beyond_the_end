@@ -26,6 +26,7 @@ ServerEvents.recipes(event => {
 	event.remove({output: 'cataclysm:monstrous_eye'})
 	event.remove({output: 'cataclysm:abyss_eye'})
 	event.remove({output: 'cataclysm:void_eye'})
+	event.remove({output: 'cataclysm:desert_eye'})
 
 	// Remove Golden Apples craft recipe
 	event.remove({output: 'minecraft:golden_apple'})

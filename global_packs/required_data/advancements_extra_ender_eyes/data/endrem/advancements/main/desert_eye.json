@@ -1,0 +1,37 @@
+{
+  "parent": "endrem:main/root",
+  "display": {
+    "icon": {
+      "item": "endrem:desert_eye"
+    },
+    "title": {
+      "translate": "advancements.main.desert_eye.title"
+    },
+    "description": {
+      "translate": "advancements.main.desert_eye.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "desert_eye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "endrem:desert_eye"
+              ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "desert_eye"
+    ]
+  ]
+}

@@ -9,7 +9,7 @@
 	#Range: 0.0 ~ 24.0
 	render_distance = 24.0
 	#Overrides an item's beam color with hex color. Must follow the specific format: (registryname=hexcolor) Or (#tagname=hexcolor). Example: "minecraft:stone=0xFFFFFF". This also accepts modids.
-	color_overrides = ["endrem:evil_eye=0x800080", "endrem:parasite_eye=0x800080", "endrem:flame_eye=0x800080", "endrem:void_eye=0x800080", "endrem:monstrous_eye=0x800080", "endrem:mech_eye=0x800080", "endrem:abyss_eye=0x800080", "endrem:cursed_eye=0x800080", "endrem:rogue_eye=0x800080", "endrem:old_eye=0x800080", "endrem:nether_eye=0x800080", "endrem:corrupted_eye=0x800080", "endrem:lost_eye=0x800080", "endrem:cold_eye=0x800080", "endrem:black_eye=0x800080", "endrem:mossy_eye=0x800080", "endrem:lucky_eye=0x800080", "endrem:soul_eye=0x800080", "endrem:sculk_eye=0x800080", "endrem:exotic_eye=0x800080", "endrem:undead_eye=0x800080", "endrem:witch_eye=0x800080", "endrem:magical_eye=0x800080", "endrem:guardian_eye=0x800080", "endrem:witch_pupil=0x800080", "endrem:undead_soul=0x800080"]
+	color_overrides = ["endrem:evil_eye=0x800080", "endrem:parasite_eye=0x800080", "endrem:flame_eye=0x800080", "endrem:void_eye=0x800080", "endrem:monstrous_eye=0x800080", "endrem:mech_eye=0x800080", "endrem:abyss_eye=0x800080", "endrem:cursed_eye=0x800080", "endrem:rogue_eye=0x800080", "endrem:old_eye=0x800080", "endrem:nether_eye=0x800080", "endrem:corrupted_eye=0x800080", "endrem:lost_eye=0x800080", "endrem:cold_eye=0x800080", "endrem:black_eye=0x800080", "endrem:mossy_eye=0x800080", "endrem:lucky_eye=0x800080", "endrem:soul_eye=0x800080", "endrem:sculk_eye=0x800080", "endrem:exotic_eye=0x800080", "endrem:undead_eye=0x800080", "endrem:witch_eye=0x800080", "endrem:magical_eye=0x800080", "endrem:guardian_eye=0x800080", "endrem:witch_pupil=0x800080", "endrem:undead_soul=0x800080", "endrem:desert_eye=0x800080"]
 
 	#Beam Configuration
 	["Loot Beams".Beam]
@@ -34,7 +34,7 @@
 		#If the Loot Beam should be glowing.
 		glowing_beam = true
 		#If the Loot Beam should have a glow effect around the base of the item.
-		glow_effect = false
+		glow_effect = true
 		#The radius of the glow effect.
 		#Range: 1.0E-5 ~ 1.0
 		glow_effect_radius = 0.5
@@ -74,7 +74,7 @@
 		#If Loot Beams should only be rendered on equipment. (Equipment includes: Swords, Tools, Armor, Shields, Bows, Crossbows, Tridents, Arrows, and Fishing Rods)
 		only_equipment = false
 		#Registry names of items that Loot Beams should render on. Example: "minecraft:stone", "minecraft:iron_ingot", You can also specify modids for a whole mod's items.
-		whitelist = ["endrem:evil_eye", "endrem:parasite_eye", "endrem:flame_eye", "endrem:void_eye", "endrem:monstrous_eye", "endrem:mech_eye", "endrem:abyss_eye", "endrem:cursed_eye", "endrem:rogue_eye", "endrem:old_eye", "endrem:nether_eye", "endrem:corrupted_eye", "endrem:lost_eye", "endrem:cold_eye", "endrem:black_eye", "endrem:mossy_eye", "endrem:lucky_eye", "endrem:soul_eye", "endrem:sculk_eye", "endrem:exotic_eye", "endrem:undead_eye", "endrem:witch_eye", "endrem:magical_eye", "endrem:guardian_eye", "endrem:witch_pupil", "endrem:undead_soul"]
+		whitelist = ["endrem:evil_eye", "endrem:parasite_eye", "endrem:flame_eye", "endrem:void_eye", "endrem:monstrous_eye", "endrem:mech_eye", "endrem:abyss_eye", "endrem:cursed_eye", "endrem:rogue_eye", "endrem:old_eye", "endrem:nether_eye", "endrem:corrupted_eye", "endrem:lost_eye", "endrem:cold_eye", "endrem:black_eye", "endrem:mossy_eye", "endrem:lucky_eye", "endrem:soul_eye", "endrem:sculk_eye", "endrem:exotic_eye", "endrem:undead_eye", "endrem:witch_eye", "endrem:magical_eye", "endrem:guardian_eye", "endrem:witch_pupil", "endrem:undead_soul", "endrem:desert_eye"]
 		#Registry names of items that Loot Beams should NOT render on. This has priority over everything. You can also specify modids for a whole mod's items.
 		blacklist = []
 
