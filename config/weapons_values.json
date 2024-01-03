@@ -172,43 +172,43 @@
     "attackSpeed": 1.9
   },
   "cataclysm:gauntlet_of_bulwark": {
-    "attackDamage": 11.50,
+    "attackDamage": 12.50,
     "attackSpeed": 1.1
   },
   "monstersandmushrooms:maggartstaff": {
     "attackDamage": 9.50,
-    "attackSpeed": 1.4
+    "attackSpeed": 1.3
   },
   "monstersandmushrooms:shroomsterstaff": {
     "attackDamage": 9.50,
-    "attackSpeed": 1.4
+    "attackSpeed": 1.3
   },
   "monstersandmushrooms:endstaff": {
     "attackDamage": 9.50,
-    "attackSpeed": 1.4
+    "attackSpeed": 1.3
   },
   "monstersandmushrooms:straystaff": {
     "attackDamage": 9.50,
-    "attackSpeed": 1.4
+    "attackSpeed": 1.3
   },
   "monstersandmushrooms:magmacubestaff": {
     "attackDamage": 9.50,
-    "attackSpeed": 1.4
+    "attackSpeed": 1.3
   },
   "cataclysm:zweiender": {
     "attackDamage": 11.50,
     "attackSpeed": 1.2
   },
   "cataclysm:final_fractal": {
-    "attackDamage": 11.50,
+    "attackDamage": 12.50,
     "attackSpeed": 1.2
   },
   "cataclysm:the_incinerator": {
-    "attackDamage": 14.50,
-    "attackSpeed": 1.0
+    "attackDamage": 12.50,
+    "attackSpeed": 1.1
   },
   "cataclysm:void_forge": {
-    "attackDamage": 18.50,
+    "attackDamage": 17.50,
     "attackSpeed": 0.8
   },
   "minecraft:wooden_pickaxe": {
@@ -624,11 +624,31 @@
     "attackSpeed": 2.3
   },
   "cataclysm:meath_shredder": {
-    "attackDamage": 9.50,
-    "attackSpeed": 1.3
+    "attackDamage": 11,
+    "attackSpeed": 1.2
   },
   "cataclysm:khopesh": {
     "attackDamage": 7,
     "attackSpeed": 1.4
+  },
+  "celestisynth:poltergeist": {
+    "attackDamage": 15,
+    "attackSpeed": 0.9
+  },
+  "celestisynth:crescentia": {
+    "attackDamage": 8.50,
+    "attackSpeed": 1.6
+  },
+  "celestisynth:solaris": {
+    "attackDamage": 8.50,
+    "attackSpeed": 1.6
+  },
+  "celestisynth:breezebreaker": {
+    "attackDamage": 7.50,
+    "attackSpeed": 1.8
+  },
+  "celestisynth:aquaflora": {
+    "attackDamage": 7.50,
+    "attackSpeed": 1.8
   }
 }
