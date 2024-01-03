@@ -138,8 +138,11 @@
   "advancements.main.flame_eye.description": "§7§oOnly a hero soul is worthy of victory. Well done.",
 
   "advancements.main.void_eye.title": "Far beyond the End",
-  "advancements.main.void_eye.description": "§7§oDefeat the Ender Guardian who awaits you below his citadel",
+  "advancements.main.void_eye.description": "§7§oDefeat the Ender Guardian who awaits you below his citadel.",
 
   "advancements.main.parasite_eye.title": "The Worm in the Apple",
-  "advancements.main.parasite_eye.description": "§7§oFree the void from its parasitic menace"
+  "advancements.main.parasite_eye.description": "§7§oFree the void from its parasitic menace.",
+
+  "advancements.main.desert_eye.title": "This belongs in a museum",
+  "advancements.main.desert_eye.description": "§7§oDefeat the Ancient Remnant and extinguish it forever."
 }

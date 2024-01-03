@@ -16,7 +16,9 @@ JEIEvents.hideItems(event => {
 	event.hide('cataclysm:void_eye')
 	event.hide('cataclysm:monstrous_eye')
 	event.hide('cataclysm:abyss_eye'),
+	event.hide('cataclysm:desert_eye'),
 	event.hide('endrem:wither_eye'),
+	event.hide('endrem:old_eye'),
 	event.hide('alexsmobs:void_worm_eye'),
 	
 	// Hide Altar of Summoning
