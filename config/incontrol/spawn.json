@@ -84,6 +84,14 @@
 
 	// Bosses
 	{
+		"mob": ["cataclysm:amethyst_crab"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
 		"mob": ["minecraft:elder_guardian"],
 		"gamestage": "hard",
 		"result": "allow",
@@ -1325,6 +1333,14 @@
 	// Difficulty Nightmare Game Stages
 
 	// Bosses
+	{
+		"mob": ["cataclysm:amethyst_crab"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
 	{
 		"mob": ["minecraft:elder_guardian"],
 		"gamestage": "nightmare",
