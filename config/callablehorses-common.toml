@@ -5,7 +5,7 @@
 	#Personal Horses get deleted if they're killed
 	deathIsPermanent = false
 	#If the horse can be called in every dimension
-	callableInEveryDimension = true
+	callableInEveryDimension = false
 	#Whitelist for dimensions where horses can be called. callableInEveryDimension needs to be false!
 	callableDimsWhitelist = ["minecraft:overworld"]
 	#Maximum block distance from last horse where new horse can be called. Set to -1 to disable range.
