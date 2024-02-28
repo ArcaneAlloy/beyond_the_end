@@ -1274,46 +1274,6 @@
 		"onjoin": true
 	},
 	{
-		"mob": ["skeletalremains:charredskeleton"],
-		"gamestage": "hard",
-		"result": "allow",
-		"healthmultiply": 1.50,
-		"damagemultiply": 1.50,
-		"onjoin": true
-	},
-	{
-		"mob": ["skeletalremains:overgrownskeleton"],
-		"gamestage": "hard",
-		"result": "allow",
-		"healthmultiply": 1.50,
-		"damagemultiply": 1.50,
-		"onjoin": true
-	},
-	{
-		"mob": ["skeletalremains:sharpshooterskeleton"],
-		"gamestage": "hard",
-		"result": "allow",
-		"healthmultiply": 1.50,
-		"damagemultiply": 1.50,
-		"onjoin": true
-	},
-	{
-		"mob": ["skeletalremains:sunkenskeleton"],
-		"gamestage": "hard",
-		"result": "allow",
-		"healthmultiply": 1.50,
-		"damagemultiply": 1.50,
-		"onjoin": true
-	},
-	{
-		"mob": ["skeletalremains:swampedskeleton"],
-		"gamestage": "hard",
-		"result": "allow",
-		"healthmultiply": 1.50,
-		"damagemultiply": 1.50,
-		"onjoin": true
-	},
-	{
 		"mob": ["realmrpg_wyrms:ender_wyrm"],
 		"gamestage": "hard",
 		"result": "allow",
@@ -2516,46 +2476,6 @@
 	},
 	{
 		"mob": ["pots_and_mimics:pot_crab"],
-		"gamestage": "nightmare",
-		"result": "allow",
-		"healthmultiply": 2.0,
-		"damagemultiply": 2.0,
-		"onjoin": true
-	},
-	{
-		"mob": ["skeletalremains:charredskeleton"],
-		"gamestage": "nightmare",
-		"result": "allow",
-		"healthmultiply": 2.0,
-		"damagemultiply": 2.0,
-		"onjoin": true
-	},
-	{
-		"mob": ["skeletalremains:overgrownskeleton"],
-		"gamestage": "nightmare",
-		"result": "allow",
-		"healthmultiply": 2.0,
-		"damagemultiply": 2.0,
-		"onjoin": true
-	},
-	{
-		"mob": ["skeletalremains:sharpshooterskeleton"],
-		"gamestage": "nightmare",
-		"result": "allow",
-		"healthmultiply": 2.0,
-		"damagemultiply": 2.0,
-		"onjoin": true
-	},
-	{
-		"mob": ["skeletalremains:sunkenskeleton"],
-		"gamestage": "nightmare",
-		"result": "allow",
-		"healthmultiply": 2.0,
-		"damagemultiply": 2.0,
-		"onjoin": true
-	},
-	{
-		"mob": ["skeletalremains:swampedskeleton"],
 		"gamestage": "nightmare",
 		"result": "allow",
 		"healthmultiply": 2.0,
