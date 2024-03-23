@@ -703,6 +703,34 @@ ServerEvents.recipes(event => {
 	.input(Ingredient.of('minecraft:amethyst_block', 1))
 	.itemOutput('1x cataclysm:abyssal_sacrifice')
 
+	// Chests
+	event.shapeless('minecraft:chest', ['1x upgrade_aquatic:driftwood_chest']),
+	event.shapeless('minecraft:chest', ['1x upgrade_aquatic:river_chest']),
+	event.shapeless('minecraft:chest', ['1x woodworks:oak_chest']),
+	event.shapeless('minecraft:chest', ['1x woodworks:spruce_chest']),
+	event.shapeless('minecraft:chest', ['1x woodworks:birch_chest']),
+	event.shapeless('minecraft:chest', ['1x woodworks:jungle_chest']),
+	event.shapeless('minecraft:chest', ['1x woodworks:acacia_chest']),
+	event.shapeless('minecraft:chest', ['1x woodworks:dark_oak_chest']),
+	event.shapeless('minecraft:chest', ['1x woodworks:mangrove_chest']),
+	event.shapeless('minecraft:chest', ['1x woodworks:crimson_chest']),
+	event.shapeless('minecraft:chest', ['1x woodworks:warped_chest']),
+	event.shapeless('minecraft:chest', ['1x woodworks:spruce_chest']),
+
+	// Trapped Chests
+	event.shapeless('minecraft:trapped_chest', ['1x upgrade_aquatic:driftwood_trapped_chest']),
+	event.shapeless('minecraft:trapped_chest', ['1x upgrade_aquatic:river_trapped_chest']),
+	event.shapeless('minecraft:trapped_chest', ['1x woodworks:oak_trapped_chest']),
+	event.shapeless('minecraft:trapped_chest', ['1x woodworks:spruce_trapped_chest']),
+	event.shapeless('minecraft:trapped_chest', ['1x woodworks:birch_trapped_chest']),
+	event.shapeless('minecraft:trapped_chest', ['1x woodworks:jungle_trapped_chest']),
+	event.shapeless('minecraft:trapped_chest', ['1x woodworks:acacia_trapped_chest']),
+	event.shapeless('minecraft:trapped_chest', ['1x woodworks:dark_oak_trapped_chest']),
+	event.shapeless('minecraft:trapped_chest', ['1x woodworks:mangrove_trapped_chest']),
+	event.shapeless('minecraft:trapped_chest', ['1x woodworks:crimson_trapped_chest']),
+	event.shapeless('minecraft:trapped_chest', ['1x woodworks:warped_trapped_chest']),
+	event.shapeless('minecraft:trapped_chest', ['1x woodworks:spruce_trapped_chest']),
+
 	// Extract Materials from Vanilla Weapons & Armors
 
 	// Leather
