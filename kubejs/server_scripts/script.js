@@ -784,6 +784,10 @@ ServerEvents.recipes(event => {
 	.itemOutput('1x minecraft:iron_ingot')
 	.recipeTime(25)
 
+	event.recipes.summoningrituals.altar("minecraft:minecart")
+	.itemOutput('1x minecraft:iron_ingot')
+	.recipeTime(25)
+
 	// Golden
 	event.recipes.summoningrituals.altar("minecraft:golden_helmet")
 	.itemOutput('1x minecraft:gold_ingot')
