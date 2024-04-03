@@ -9,14 +9,9 @@
       },
       "entries": [
         {
-          "name": "minecraft:golden_apple",
+          "name": "minecraft:iron_apple",
           "type": "minecraft:item",
-          "weight": 15
-        },
-        {
-          "name": "minecraft:enchanted_golden_apple",
-          "type": "minecraft:item",
-          "weight": 2
+          "weight": 3
         },
         {
           "name": "minecraft:music_disc_13",
@@ -34,12 +29,12 @@
           "weight": 20
         },
         {
-          "name": "minecraft:diamond_hoe",
+          "name": "minecraft:iron_hoe",
           "type": "minecraft:item",
           "weight": 15
         },
         {
-          "name": "minecraft:diamond_chestplate",
+          "name": "minecraft:iron_chestplate",
           "type": "minecraft:item",
           "weight": 5
         },

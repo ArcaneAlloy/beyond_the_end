@@ -9,12 +9,7 @@
       },
       "entries": [
         {
-          "name": "minecraft:golden_apple",
-          "type": "minecraft:item",
-          "weight": 15
-        },
-        {
-          "name": "minecraft:enchanted_golden_apple",
+          "name": "minecraft:iron_apple",
           "type": "minecraft:item",
           "weight": 2
         },
@@ -34,19 +29,19 @@
           "weight": 20
         },
         {
-          "name": "minecraft:diamond_hoe",
+          "name": "minecraft:iron_hoe",
           "type": "minecraft:item",
           "weight": 15
         },
         {
-          "name": "minecraft:diamond_chestplate",
+          "name": "minecraft:iron_chestplate",
           "type": "minecraft:item",
           "weight": 5
         },
         {
           "name": "minecraft:book",
           "type": "minecraft:item",
-          "weight": 10,
+          "weight": 3,
           "functions": [
             {
               "function": "minecraft:enchant_randomly"
