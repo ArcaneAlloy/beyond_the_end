@@ -632,15 +632,16 @@ ServerEvents.recipes(event => {
 	.recipeTime(25)
 
 	// Enchanted Golden Apple
-	event.recipes.summoningrituals.altar("minecraft:apple")
+	event.recipes.summoningrituals.altar("minecraft:iron_apple")
 	.input(Ingredient.of('minecraft:gold_ingot', 8))
 	.itemOutput('1x minecraft:golden_apple')
 	.recipeTime(25)
 
 	// Enchanted Golden Apple
-	event.recipes.summoningrituals.altar("minecraft:apple")
+	event.recipes.summoningrituals.altar("minecraft:enchanted_iron_apple")
 	.input(Ingredient.of('minecraft:experience_bottle', 24))
 	.input(Ingredient.of('minecraft:gold_block', 8))
+	.input(Ingredient.of('minecraft:diamond_block', 1))
 	.itemOutput('1x minecraft:enchanted_golden_apple')
 	.recipeTime(25)
 
