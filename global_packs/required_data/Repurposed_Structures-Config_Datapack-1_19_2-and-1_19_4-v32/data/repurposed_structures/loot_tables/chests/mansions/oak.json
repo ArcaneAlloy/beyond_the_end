@@ -9,14 +9,9 @@
       },
       "entries": [
         {
-          "name": "minecraft:golden_apple",
+          "name": "minecraft:iron_apple",
           "type": "minecraft:item",
-          "weight": 15
-        },
-        {
-          "name": "minecraft:enchanted_golden_apple",
-          "type": "minecraft:item",
-          "weight": 2
+          "weight": 3
         },
         {
           "name": "minecraft:music_disc_13",
@@ -34,64 +29,19 @@
           "weight": 20
         },
         {
-          "name": "minecraft:diamond_hoe",
+          "name": "minecraft:iron_hoe",
           "type": "minecraft:item",
           "weight": 15
         },
         {
-          "name": "minecraft:diamond_chestplate",
+          "name": "minecraft:iron_chestplate",
           "type": "minecraft:item",
           "weight": 5
         },
         {
           "name": "minecraft:book",
           "type": "minecraft:item",
-          "weight": 10,
-          "functions": [
-            {
-              "function": "minecraft:enchant_randomly"
-            }
-          ]
-        }
-      ]
-    },: "minecraft:enchanted_golden_apple",
-          "type": "minecraft:item",
-          "weight": 2
-        },
-        {
-          "name": "minecraft:music_disc_13",
-          "type": "minecraft:item",
-          "weight": 15
-        },
-        {
-          "name": "minecraft:music_disc_cat",
-          "type": "minecraft:item",
-          "weight": 15
-        },
-        {
-          "name": "minecraft:name_tag",
-          "type": "minecraft:item",
-          "weight": 20
-        },
-        {
-          "name": "minecraft:chainmail_chestplate",
-          "type": "minecraft:item",
-          "weight": 10
-        },
-        {
-          "name": "minecraft:diamond_hoe",
-          "type": "minecraft:item",
-          "weight": 15
-        },
-        {
-          "name": "minecraft:diamond_chestplate",
-          "type": "minecraft:item",
-          "weight": 5
-        },
-        {
-          "name": "minecraft:book",
-          "type": "minecraft:item",
-          "weight": 10,
+          "weight": 3,
           "functions": [
             {
               "function": "minecraft:enchant_randomly"
@@ -138,12 +88,12 @@
           ]
         },
         {
-          "name": "minecraft:bread",
+          "name": "minecraft:mushroom_stew",
           "type": "minecraft:item",
           "weight": 20
         },
         {
-          "name": "minecraft:wheat",
+          "name": "minecraft:slime_ball",
           "type": "minecraft:item",
           "weight": 20,
           "functions": [
@@ -223,7 +173,7 @@
           ]
         },
         {
-          "name": "minecraft:apple",
+          "name": "minecraft:carrot",
           "type": "minecraft:item",
           "weight": 10,
           "functions": [
@@ -328,7 +278,7 @@
           "functions": [
             {
               "function":"set_nbt",
-              "tag":"{BlockEntityTag:{Patterns:[{Pattern:bt,Color:5},{Pattern:sku,Color:0},{Pattern:sku,Color:12},{Pattern:sku,Color:15},{Pattern:bs,Color:15},{Pattern:rs,Color:15},{Pattern:ls,Color:15},{Pattern:bo,Color:12},{Pattern:tts,Color:5},{Pattern:tts,Color:15},{Pattern:bts,Color:5},{Pattern:bts,Color:15}]}}"
+              "tag":"{BlockEntityTag:{Patterns:[{Pattern:bt,Color:5},{Pattern:sku,Color:0},{Pattern:sku,Color:12},{Pattern:sku,Color:15},{Pattern:bs,Color:15},{Pattern:ls,Color:15},{Pattern:rs,Color:15},{Pattern:bo,Color:14},{Pattern:tts,Color:5},{Pattern:tts,Color:15},{Pattern:bts,Color:5},{Pattern:bts,Color:15}]}}"
             }
           ]
         },
