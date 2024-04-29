@@ -34,12 +34,19 @@
 		"onjoin": true
 	},
 
-	// Nerf Iron Golems
+	// Buff Guards and Villagers Mobs for Raids
 	{
-		"mob": ["minecraft:iron_golem"],
+		"mob": ["guardvillagers:guard"],
 		"result": "allow",
-		"healthmultiply": 0.5,
-		"damagemultiply": 0.5,
+		"healthmultiply": 10.0,
+		"damagemultiply": 1.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:villager"],
+		"result": "allow",
+		"healthmultiply": 10.0,
+		"damagemultiply": 1.0,
 		"onjoin": true
 	},
 
@@ -77,6 +84,80 @@
 		"gamestage": "normal",
 		"result": "allow",
 		"healthmultiply": 2.5,
+		"onjoin": true
+	},
+
+	// Nerf some Raid Mobs
+	{
+		"mob": ["illagerrevolutionmod:mauler"],
+		"gamestage": "normal",
+		"result": "allow",
+		"healthmultiply": 0.5,
+		"damagemultiply": 0.75,
+		"onjoin": true
+	},
+	{
+		"mob": ["illagerrevolutionmod:raker"],
+		"gamestage": "normal",
+		"result": "allow",
+		"healthmultiply": 1.0,
+		"damagemultiply": 0.75,
+		"onjoin": true
+	},
+	{
+		"mob": ["minecraft:vindicator"],
+		"gamestage": "normal",
+		"result": "allow",
+		"healthmultiply": 1.0,
+		"damagemultiply": 0.75,
+		"onjoin": true
+	},
+	{
+		"mob": ["illagerrevolutionmod:blade_knight"],
+		"gamestage": "normal",
+		"result": "allow",
+		"healthmultiply": 1.0,
+		"damagemultiply": 0.75,
+		"onjoin": true
+	},
+	{
+		"mob": ["illagerrevolutionmod:fallen_knight"],
+		"gamestage": "normal",
+		"result": "allow",
+		"healthmultiply": 1.0,
+		"damagemultiply": 0.75,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:royal_guard"],
+		"gamestage": "normal",
+		"result": "allow",
+		"healthmultiply": 1.0,
+		"damagemultiply": 0.75,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:redstone_golem"],
+		"gamestage": "normal",
+		"result": "allow",
+		"healthmultiply": 0.5,
+		"damagemultiply": 0.75,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:squall_golem"],
+		"gamestage": "normal",
+		"result": "allow",
+		"healthmultiply": 0.5,
+		"damagemultiply": 0.75,
+		"onjoin": true
+	},
+	{
+		"mob": ["illagerrevolutionmod:soul_sage"],
+		"gamestage": "normal",
+		"result": "disallow",
+		"healthmultiply": 1.0,
+		"damagemultiply": 1.0,
 		"onjoin": true
 	},
 	
@@ -445,7 +526,7 @@
 		"gamestage": "hard",
 		"result": "allow",
 		"healthmultiply": 1.50,
-		"damagemultiply": 1.50,
+		"damagemultiply": 1.25,
 		"onjoin": true
 	},
 	{
@@ -1068,8 +1149,8 @@
 		"mob": ["dungeons_mobs:redstone_golem"],
 		"gamestage": "hard",
 		"result": "allow",
-		"healthmultiply": 1.50,
-		"damagemultiply": 1.50,
+		"healthmultiply": 1.00,
+		"damagemultiply": 1.25,
 		"onjoin": true
 	},
 	// Banned because its animation is totally messed up
@@ -1093,8 +1174,8 @@
 		"mob": ["dungeons_mobs:squall_golem"],
 		"gamestage": "hard",
 		"result": "allow",
-		"healthmultiply": 1.50,
-		"damagemultiply": 1.50,
+		"healthmultiply": 1.00,
+		"damagemultiply": 1.25,
 		"onjoin": true
 	},
 	{
@@ -1166,15 +1247,31 @@
 		"gamestage": "hard",
 		"result": "allow",
 		"healthmultiply": 1.50,
-		"damagemultiply": 1.50,
+		"damagemultiply": 1.25,
+		"onjoin": true
+	},
+	{
+		"mob": ["illagerrevolutionmod:fallen_knight"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.25,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:royal_guard"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.5,
+		"damagemultiply": 1.25,
 		"onjoin": true
 	},
 	{
 		"mob": ["illagerrevolutionmod:soul_sage"],
 		"gamestage": "hard",
 		"result": "allow",
-		"healthmultiply": 1.50,
-		"damagemultiply": 1.50,
+		"healthmultiply": 1.00,
+		"damagemultiply": 1.00,
 		"onjoin": true
 	},
 	{
@@ -1205,8 +1302,8 @@
 		"mob": ["illagerrevolutionmod:mauler"],
 		"gamestage": "hard",
 		"result": "allow",
-		"healthmultiply": 1.50,
-		"damagemultiply": 1.50,
+		"healthmultiply": 1,
+		"damagemultiply": 1,
 		"onjoin": true
 	},
 	{
@@ -1214,7 +1311,7 @@
 		"gamestage": "hard",
 		"result": "allow",
 		"healthmultiply": 1.50,
-		"damagemultiply": 1.50,
+		"damagemultiply": 1.25,
 		"onjoin": true
 	},
 	{
@@ -1654,7 +1751,7 @@
 		"gamestage": "nightmare",
 		"result": "allow",
 		"healthmultiply": 2.0,
-		"damagemultiply": 2.0,
+		"damagemultiply": 1.75,
 		"onjoin": true
 	},
 	{
@@ -2277,8 +2374,8 @@
 		"mob": ["dungeons_mobs:redstone_golem"],
 		"gamestage": "nightmare",
 		"result": "allow",
-		"healthmultiply": 2.0,
-		"damagemultiply": 2.0,
+		"healthmultiply": 1.5,
+		"damagemultiply": 1.75,
 		"onjoin": true
 	},
 	// Banned because its animation is totally messed up
@@ -2302,8 +2399,8 @@
 		"mob": ["dungeons_mobs:squall_golem"],
 		"gamestage": "nightmare",
 		"result": "allow",
-		"healthmultiply": 2.0,
-		"damagemultiply": 2.0,
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.75,
 		"onjoin": true
 	},
 	{
@@ -2375,15 +2472,31 @@
 		"gamestage": "nightmare",
 		"result": "allow",
 		"healthmultiply": 2.0,
-		"damagemultiply": 2.0,
+		"damagemultiply": 1.75,
+		"onjoin": true
+	},
+	{
+		"mob": ["illagerrevolutionmod:fallen_knight"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.00,
+		"damagemultiply": 1.75,
+		"onjoin": true
+	},
+	{
+		"mob": ["dungeons_mobs:royal_guard"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 1.75,
 		"onjoin": true
 	},
 	{
 		"mob": ["illagerrevolutionmod:soul_sage"],
 		"gamestage": "nightmare",
 		"result": "allow",
-		"healthmultiply": 2.0,
-		"damagemultiply": 2.0,
+		"healthmultiply": 1.5,
+		"damagemultiply": 1.5,
 		"onjoin": true
 	},
 	{
@@ -2414,8 +2527,8 @@
 		"mob": ["illagerrevolutionmod:mauler"],
 		"gamestage": "nightmare",
 		"result": "allow",
-		"healthmultiply": 2.0,
-		"damagemultiply": 2.0,
+		"healthmultiply": 1.5,
+		"damagemultiply": 1.25,
 		"onjoin": true
 	},
 	{
@@ -2423,7 +2536,7 @@
 		"gamestage": "nightmare",
 		"result": "allow",
 		"healthmultiply": 2.0,
-		"damagemultiply": 2.0,
+		"damagemultiply": 1.75,
 		"onjoin": true
 	},
 	{
