@@ -52,6 +52,15 @@
 
 	// Difficulty Normal Game Stages
 	{
+		"mob": ["minecraft:warden"],
+		"gamestage": "normal",
+		"result": "allow",
+		"healthmultiply": 0.50,
+		"damagemultiply": 0.50,
+		"onjoin": true,
+		"potion": "minecraft:slowness,99999,0"
+	},
+	{
 		"mob": ["alexsmobs:warped_mosco"],
 		"gamestage": "normal",
 		"result": "allow",
@@ -331,8 +340,8 @@
 		"mob": ["minecraft:warden"],
 		"gamestage": "hard",
 		"result": "allow",
-		"healthmultiply": 1.50,
-		"damagemultiply": 1.50,
+		"healthmultiply": 1.0,
+		"damagemultiply": 1.0,
 		"onjoin": true
 	},
 
@@ -1556,8 +1565,8 @@
 		"mob": ["minecraft:warden"],
 		"gamestage": "nightmare",
 		"result": "allow",
-		"healthmultiply": 2.0,
-		"damagemultiply": 2.0,
+		"healthmultiply": 1.5,
+		"damagemultiply": 1.5,
 		"onjoin": true
 	},
 
