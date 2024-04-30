@@ -101,23 +101,7 @@
           ],
           "name": "minecraft:emerald"
         },		
-        {
-          "type": "minecraft:item",
-          "weight": 1,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "type": "minecraft:uniform",
-                "min": 1.0,
-                "max": 1.0
-              },
-              "add": false
-            }
-          ],
-          "name": "phantasm:stellium_ingot"
-        },
-		{
+		    {
           "type": "minecraft:item",
           "weight": 8,
           "functions": [
