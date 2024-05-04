@@ -1,0 +1,6 @@
+
+["Tune Sonic Boom Config"]
+	#Multiplier for the damage dealt by the Warden's Sonic Boom attack
+	#Range: 0.0 ~ 10000.0
+	sonicBoomDamageMultiplier = 0.5
+
