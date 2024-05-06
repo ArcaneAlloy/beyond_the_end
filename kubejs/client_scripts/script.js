@@ -139,20 +139,6 @@ JEIEvents.hideItems(event => {
 	event.hide('skinnedlanterns:present_red_lantern_block'),
 	event.hide('skinnedlanterns:present_red_soul_lantern_block'),
 	
-	// Hide Gliders 
-	event.hide('vc_gliders:paraglider_wood'),
-	event.hide('vc_gliders:paraglider_iron'),
-	event.hide('vc_gliders:paraglider_gold'),
-	event.hide('vc_gliders:paraglider_diamond'),
-	event.hide('vc_gliders:paraglider_netherite'),
-	//event.hide('vc_gliders:copper_upgrade'),
-	//event.hide('vc_gliders:nether_upgrade'),
-	event.hide('vc_gliders:reinforced_paper'),
-	event.hide('vc_gliders:reinforced_paper_iron'),
-	event.hide('vc_gliders:reinforced_paper_gold'),
-	event.hide('vc_gliders:reinforced_paper_diamond'),
-	event.hide('vc_gliders:reinforced_paper_netherite'),
-	
 	// Hide Supplementaries
 	event.hide('supplementaries:bamboo_spikes'),
 	event.hide('supplementaries:bamboo_spikes_tipped'),
