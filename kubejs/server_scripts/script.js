@@ -144,20 +144,6 @@ ServerEvents.recipes(event => {
 	event.remove({output: 'skinnedlanterns:present_green_soul_lantern_block'})
 	event.remove({output: 'skinnedlanterns:present_red_lantern_block'})
 	event.remove({output: 'skinnedlanterns:present_red_soul_lantern_block'})
-
-	// Remove Paraglider recipes
-	event.remove({output: 'vc_gliders:paraglider_wood'})
-	event.remove({output: 'vc_gliders:paraglider_iron'})
-	event.remove({output: 'vc_gliders:paraglider_gold'})
-	event.remove({output: 'vc_gliders:paraglider_diamond'})
-	event.remove({output: 'vc_gliders:paraglider_netherite'})
-	event.remove({output: 'vc_gliders:copper_upgrade'})
-	event.remove({output: 'vc_gliders:nether_upgrade'})
-	event.remove({output: 'vc_gliders:reinforced_paper'})
-	event.remove({output: 'vc_gliders:reinforced_paper_iron'})
-	event.remove({output: 'vc_gliders:reinforced_paper_gold'})
-	event.remove({output: 'vc_gliders:reinforced_paper_diamond'})
-	event.remove({output: 'vc_gliders:reinforced_paper_netherite'})
 	
 	// Remove Supplementaries recipes
 	event.remove({output: 'supplementaries:bamboo_spikes'})
