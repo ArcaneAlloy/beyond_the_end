@@ -61,13 +61,56 @@ StartupEvents.registry('item', event => {
 		.tooltip('\u00A77\u00A7oIts bright pupil reflects the vestiges of a very ancient era.')
 		.fireResistant(true)
 
+	event.create('minecraft:shulker_head')
+		.displayName('\u00A7dShulker Head')
+		.tooltip('\u00A77\u00A7oThis is a test description.')
+
+	event.create('minecraft:netherite_scrap_stick')
+		.displayName('\u00A7dNetherite Scrap Stick')
+		.tooltip('\u00A77\u00A7oThis is a test description.')
+		.fireResistant(true)
+
+	event.create('dungeons_mobs:wildfire_core')
+		.displayName('\u00A7dWildfire Core')
+		.tooltip('\u00A77\u00A7oThis is a test description.')
+		.fireResistant(true)
+
+	event.create('minecraft:slime_core')
+		.displayName('\u00A7dSlime Core')
+		.tooltip('\u00A77\u00A7oThis is a test description.')
+
+	event.create('alexsmobs:chorus_dust')
+		.displayName('\u00A7dChorus Dust')
+		.tooltip('\u00A77\u00A7oThis is a test description.')
+
+	event.create('alexsmobs:ectoplasm')
+		.displayName('\u00A7dEctoplasm')
+		.tooltip('\u00A77\u00A7oThis is a test description.')
+
+	event.create('mutantmore:mutant_blaze_core_fragment')
+		.displayName('\u00A7dMutant Blaze Core Fragment')
+		.tooltip('\u00A77\u00A7oThis is a test description.')
+		.fireResistant(true)
+
+	event.create('cataclysm:void_core_fragment')
+		.displayName('\u00A7dVoid Core Fragment')
+		.tooltip('\u00A77\u00A7oThis is a test description.')
+
+	event.create('alexsmobs:warped_eye')
+		.displayName('\u00A7dWarped Eye')
+		.tooltip('\u00A77\u00A7oThis is a test description.')
+
+	event.create('dungeons_mobs:wind_essence')
+		.displayName('\u00A7dWind Essence')
+		.tooltip('\u00A77\u00A7oThis is a test description.')		
+
 	event.create('minecraft:iron_apple').food(food => {
 		food
 			.hunger(2)
     		.saturation(1)//This value does not directly translate to saturation points gained
       		//The real value can be assumed to be:
       		//min(hunger * saturation * 2 + saturation, foodAmountAfterEating)
-      		.effect('absorption', 200, 0, 1)
+      		.effect('absorption', 600, 0, 1)
       		.alwaysEdible()//Like golden apples
 	})
 
