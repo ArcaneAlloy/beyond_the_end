@@ -59,7 +59,7 @@ StartupEvents.registry('item', event => {
 	event.create('endrem:desert_eye')
 		.displayName('\u00A7dDesert Eye')
 		.tooltip('\u00A77\u00A7oIts bright pupil reflects the vestiges of a very ancient era.')
-		.fireResistant(true)
+		.fireResistant(true)	
 
 	event.create('minecraft:iron_apple').food(food => {
 		food
@@ -67,7 +67,7 @@ StartupEvents.registry('item', event => {
     		.saturation(1)//This value does not directly translate to saturation points gained
       		//The real value can be assumed to be:
       		//min(hunger * saturation * 2 + saturation, foodAmountAfterEating)
-      		.effect('absorption', 200, 0, 1)
+      		.effect('absorption', 600, 0, 1)
       		.alwaysEdible()//Like golden apples
 	})
 
