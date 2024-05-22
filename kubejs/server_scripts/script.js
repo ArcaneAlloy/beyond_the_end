@@ -33,6 +33,26 @@ ServerEvents.recipes(event => {
 
 	// Remove Experience Obelisk items recipes
 	event.remove({output: 'experienceobelisk:xpobelisk'})
+	event.remove({output: 'experienceobelisk:cognitive_flux'})
+	event.remove({output: 'experienceobelisk:cognitive_amalgam'})
+	event.remove({output: 'experienceobelisk:cognitive_alloy'})
+	event.remove({output: 'experienceobelisk:cognitive_crystal'})
+	event.remove({output: 'experienceobelisk:astute_assembly'})
+	event.remove({output: 'experienceobelisk:cognitive_sword'})
+	event.remove({output: 'experienceobelisk:cognitive_shovel'})
+	event.remove({output: 'experienceobelisk:cognitive_pickaxe'})
+	event.remove({output: 'experienceobelisk:cognitive_axe'})
+	event.remove({output: 'experienceobelisk:cognitive_hoe'})
+	event.remove({output: 'experienceobelisk:attunement_staff'})
+	event.remove({output: 'experienceobelisk:enlightened_amulet'})
+	event.remove({output: 'experienceobelisk:experience_fountain'})
+	event.remove({output: 'experienceobelisk:precision_dispeller'})
+	event.remove({output: 'experienceobelisk:cognitive_alloy_block'})
+	event.remove({output: 'experienceobelisk:cognitive_crystal_block'})
+	event.remove({output: 'experienceobelisk:accelerator'})
+	event.remove({output: 'experienceobelisk:linear_accelerator'})
+	event.remove({output: 'experienceobelisk:whisperglass'})
+	event.remove({output: 'experienceobelisk:cognitium'})
 
 	// Remove Target Dummy recipe
 	event.remove({output: 'dummmmmmy:dummy_crafting'})
