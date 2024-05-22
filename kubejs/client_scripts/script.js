@@ -12,9 +12,9 @@ JEIEvents.hideItems(event => {
 
 	// Hide original Ender Eyes
 	event.hide('cataclysm:mech_eye')
-	event.hide('cataclysm:flame_eye')
-	event.hide('cataclysm:void_eye')
-	event.hide('cataclysm:monstrous_eye')
+	event.hide('cataclysm:flame_eye'),
+	event.hide('cataclysm:void_eye'),
+	event.hide('cataclysm:monstrous_eye'),
 	event.hide('cataclysm:abyss_eye'),
 	event.hide('cataclysm:desert_eye'),
 	event.hide('endrem:wither_eye'),
@@ -27,6 +27,26 @@ JEIEvents.hideItems(event => {
 	// Hide Experience Obelisk Items
 	event.hide('experienceobelisk:experience_obelisk'),
 	event.hide('experienceobelisk:cognitium_bucket'),
+	event.hide('experienceobelisk:cognitive_flux'),
+	event.hide('experienceobelisk:cognitive_amalgam'),
+	event.hide('experienceobelisk:cognitive_alloy'),
+	event.hide('experienceobelisk:cognitive_crystal'),
+	event.hide('experienceobelisk:astute_assembly'),
+	event.hide('experienceobelisk:cognitive_sword'),
+	event.hide('experienceobelisk:cognitive_shovel'),
+	event.hide('experienceobelisk:cognitive_pickaxe'),
+	event.hide('experienceobelisk:cognitive_axe'),
+	event.hide('experienceobelisk:cognitive_hoe'),
+	event.hide('experienceobelisk:attunement_staff'),
+	event.hide('experienceobelisk:enlightened_amulet'),
+	event.hide('experienceobelisk:experience_fountain'),
+	event.hide('experienceobelisk:precision_dispeller'),
+	event.hide('experienceobelisk:cognitive_alloy_block'),
+	event.hide('experienceobelisk:cognitive_crystal_block'),
+	event.hide('experienceobelisk:accelerator'),
+	event.hide('experienceobelisk:linear_accelerator'),
+	event.hide('experienceobelisk:whisperglass'),
+	event.hide('experienceobelisk:cognitium'),
 	
 	// Hide Target Dummy
 	event.hide('dummmmmmy:target_dummy'),
