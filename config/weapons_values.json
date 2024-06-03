@@ -172,7 +172,7 @@
     "attackSpeed": 1.9
   },
   "cataclysm:gauntlet_of_bulwark": {
-    "attackDamage": 12.50,
+    "attackDamage": 13.50,
     "attackSpeed": 1.1
   },
   "monstersandmushrooms:maggartstaff": {
@@ -200,15 +200,15 @@
     "attackSpeed": 1.2
   },
   "cataclysm:final_fractal": {
-    "attackDamage": 12.50,
+    "attackDamage": 13.50,
     "attackSpeed": 1.2
   },
   "cataclysm:the_incinerator": {
-    "attackDamage": 12.50,
+    "attackDamage": 13.50,
     "attackSpeed": 1.1
   },
   "cataclysm:void_forge": {
-    "attackDamage": 17.50,
+    "attackDamage": 19,
     "attackSpeed": 0.8
   },
   "minecraft:wooden_pickaxe": {
@@ -624,7 +624,7 @@
     "attackSpeed": 2.3
   },
   "cataclysm:meath_shredder": {
-    "attackDamage": 11,
+    "attackDamage": 11.50,
     "attackSpeed": 1.2
   },
   "cataclysm:khopesh": {
@@ -632,23 +632,23 @@
     "attackSpeed": 1.4
   },
   "celestisynth:poltergeist": {
-    "attackDamage": 15,
+    "attackDamage": 16,
     "attackSpeed": 0.9
   },
   "celestisynth:crescentia": {
-    "attackDamage": 8.50,
+    "attackDamage": 9,
     "attackSpeed": 1.6
   },
   "celestisynth:solaris": {
-    "attackDamage": 8.50,
+    "attackDamage": 9,
     "attackSpeed": 1.6
   },
   "celestisynth:breezebreaker": {
-    "attackDamage": 7.50,
+    "attackDamage": 8,
     "attackSpeed": 1.8
   },
   "celestisynth:aquaflora": {
-    "attackDamage": 7.50,
+    "attackDamage": 8,
     "attackSpeed": 1.8
   }
 }
