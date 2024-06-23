@@ -77,7 +77,7 @@
 	EnderGuardianDamageMultiplier = 1.0
 	#EnderGuardian's DamageCap
 	#Range: 0 ~ 1000000
-	EnderGuardianDamageCap = 22
+	EnderGuardianDamageCap = 0
 	#Ender guardian's block breaking ignore the MobGriefing
 	EnderguardianBlockBreaking = true
 	#Guardian's Immune to Long distance attack range.
@@ -126,7 +126,7 @@
 	MonstrosityDamageMultiplier = 1.0
 	#Monstrosity's DamageCap
 	#Range: 0 ~ 1000000
-	MonstrosityDamageCap = 22
+	MonstrosityDamageCap = 0
 	#Monstrosity's bodyBlocking verdict
 	NetheritemonstrosityBodyBloking = true
 	#Monstrosity's attack Hp Damage
@@ -164,7 +164,7 @@
 	"Ignis's prevent attacks from far away Range" = 15.0
 	#Ignis's DamageCap
 	#Range: 0 ~ 1000000
-	IgnisDamageCap = 20
+	IgnisDamageCap = 0
 	#Ignis's cracked block breaking ignore the MobGriefing
 	IgnisBlockBreaking = true
 	#Ignis's Healing Multiplier
@@ -191,7 +191,7 @@
 	"The Harbinger's prevent attacks from far away Range" = 35.0
 	#Harbinger's DamageCap
 	#Range: 0 ~ 1000000
-	"The Harbinger DamageCap" = 22
+	"The Harbinger DamageCap" = 0
 	#Harbinger's lasers can light a fire in MobGriefing
 	"The Harbinger Light A Fire" = true
 	#The Harbinger's charge attack Hp Damage
@@ -265,7 +265,7 @@
 	"Leviathan's Tentacle Hp Damage" = 0.03
 	#Leviathan's DamageCap
 	#Range: 0 ~ 1000000
-	LeviathanDamageCap = 20
+	LeviathanDamageCap = 0
 	#Leviathan's block breaking ignore the MobGriefing
 	LeviathanBlockBreaking = true
 	#Leviathan Immune Out of Water
@@ -350,7 +350,7 @@
 	"Ancient Remnant's prevent attacks from far away Range" = 15.0
 	#Ancient Remnant's DamageCap
 	#Range: 0 ~ 1000000
-	AncientRemnantCap = 21
+	AncientRemnantCap = 0
 	#Ancient Remnant's block breaking ignore the MobGriefing
 	AncientRemnantBlockBreaking = true
 	#Remnant's Charge Hp Damage
