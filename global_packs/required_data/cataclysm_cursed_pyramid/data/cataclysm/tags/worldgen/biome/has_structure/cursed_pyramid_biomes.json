@@ -1,0 +1,13 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:desert",
+    "terralith:lush_desert",
+    "terralith:desert_canyon",
+    "terralith:ancient_sands",
+    "minecraft:badlands",
+    "minecraft:wooded_badlands",
+    "minecraft:eroded_badlands",
+    "#c:desert"
+  ]
+}
