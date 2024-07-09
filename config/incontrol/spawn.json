@@ -150,6 +150,33 @@
 		"damagemultiply": 1.0,
 		"onjoin": true
 	},
+
+	// Fix Raid problems with some Dungeons Mobs generation inside caves
+	{
+		"mob": ["savage_and_ravage:iceologer"],
+		"seesky": false,
+		"result": "deny"
+	},
+	{
+		"mob": ["dungeons_mobs:iceologer"],
+		"seesky": false,
+		"result": "deny"
+	},
+	{
+		"mob": ["dungeons_mobs:windcaller"],
+		"seesky": false,
+		"result": "deny"
+	},
+	{
+		"mob": ["dungeons_mobs:mountaineer"],
+		"seesky": false,
+		"result": "deny"
+	},
+	{
+		"mob": ["dungeons_mobs:geomancer"],
+		"seesky": false,
+		"result": "deny"
+	},
 	
 	// Difficulty Hard Game Stages
 
