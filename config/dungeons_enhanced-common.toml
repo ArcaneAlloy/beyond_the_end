@@ -256,7 +256,7 @@
 		# Percent chance of generating in an allowed chunk.
 		# Default: 82
 		#Range: 0 ~ 100
-		probability = 82
+		probability = 0
 
 	[elders_temple.structures]
 
