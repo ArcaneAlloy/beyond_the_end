@@ -296,7 +296,7 @@
 		# Percent chance of generating in an allowed chunk.
 		# Default: 68
 		#Range: 0 ~ 100
-		probability = 68
+		probability = 0
 
 	[fishing_ship.structures]
 
