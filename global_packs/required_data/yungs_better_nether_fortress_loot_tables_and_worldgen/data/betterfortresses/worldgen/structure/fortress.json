@@ -4,7 +4,7 @@
   "step": "surface_structures",
   "start_pool": "betterfortresses:starts",
   "start_jigsaw_name": "betterfortresses:anchor",
-  "size": 16,
+  "size": 8,
   "enhanced_terrain_adaptation": {
     "type": "yungsapi:custom",
     "carves": true,
@@ -35,9 +35,9 @@
         },
         {
           "type": "dungeons_mobs:wildfire",
-          "weight": 1,
-          "minCount": 1,
-          "maxCount": 1
+          "weight": 5,
+          "minCount": 2,
+          "maxCount": 2
         },
         {
           "type": "minecraft:zombified_piglin",
