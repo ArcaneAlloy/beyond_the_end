@@ -3,10 +3,6 @@
     {
       "structure": "idas:labyrinth",
       "weight": 1
-    },
-    {
-      "structure": "idas:bazaar",
-      "weight": 1
     }
   ],
   "placement": {
