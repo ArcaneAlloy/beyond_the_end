@@ -3,7 +3,7 @@
   "start_pool": "idas:haunted_manor/haunted_manor1",
   "change_pool_mods": "iceandfire",
   "new_pool": "idas:haunted_manor/if_haunted_manor1",
-  "size": 4,
+  "size": 0,
   "terrain_height_radius_check": 3,
   "allowed_terrain_height_range": 10,
   "biomes": "#idas:has_structure/hauntedhouse_biomes",
@@ -13,6 +13,7 @@
   "start_height": {
     "absolute": 0
   },
+  "replace" : true,
   "spawn_overrides": {
     "monster": {
       "bounding_box": "full",
