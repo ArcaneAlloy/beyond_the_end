@@ -132,8 +132,8 @@
     "attackSpeed": 1.6
   },
   "cataclysm:gauntlet_of_guard": {
-    "attackDamage": 10.50,
-    "attackSpeed": 1.1
+    "attackDamage": 4.50,
+    "attackSpeed": 2.6
   },
   "cataclysm:infernal_forge": {
     "attackDamage": 14.50,
@@ -156,8 +156,8 @@
     "attackSpeed": 1.6
   },
   "monstersandmushrooms:drownedsword": {
-    "attackDamage": 7.50,
-    "attackSpeed": 1.6
+    "attackDamage": 7.00,
+    "attackSpeed": 1.7
   },
   "phantasm:stellium_sword": {
     "attackDamage": 7.50,
@@ -172,8 +172,8 @@
     "attackSpeed": 1.9
   },
   "cataclysm:gauntlet_of_bulwark": {
-    "attackDamage": 13.50,
-    "attackSpeed": 1.1
+    "attackDamage": 6.0,
+    "attackSpeed": 2.4
   },
   "monstersandmushrooms:maggartstaff": {
     "attackDamage": 9.50,
@@ -379,6 +379,10 @@
     "attackDamage": 4,
     "attackSpeed": 2.4
   },
+  "dungeons_gear:moon_dagger": {
+    "attackDamage": 5,
+    "attackSpeed": 2.1
+  },
   "dungeons_gear:fighters_binding": {
     "attackDamage": 3,
     "attackSpeed": 3.2
@@ -508,7 +512,7 @@
     "attackSpeed": 2.0
   },
   "dungeons_gear:heartstealer": {
-    "attackDamage": 13.0,
+    "attackDamage": 10.0,
     "attackSpeed": 1.1
   },
   "dungeons_gear:whispering_spear": {

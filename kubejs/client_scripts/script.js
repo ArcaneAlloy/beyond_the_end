@@ -24,6 +24,16 @@ JEIEvents.hideItems(event => {
 	// Hide Altar of Summoning
 	event.hide('altar_of_summoning:altarofsummoning'),
 	
+	// Hide Celestisynth
+	event.hide('celestisynth:supernal_netherite_ingot'),
+	event.hide('celestisynth:celestial_core'),
+	event.hide('celestisynth:celestial_core_heated'),
+	event.hide('celestisynth:celestial_netherite_ingot'),
+	event.hide('celestisynth:celestial_crafting_table')
+	event.hide('celestisynth:eyebomination'),
+	event.hide('celestisynth:starstruck_scrap'),
+	event.hide('celestisynth:starstruck_feather'),
+	
 	// Hide Experience Obelisk Items
 	event.hide('experienceobelisk:experience_obelisk'),
 	event.hide('experienceobelisk:cognitium_bucket'),
@@ -51,6 +61,20 @@ JEIEvents.hideItems(event => {
 	// Hide Target Dummy
 	event.hide('dummmmmmy:target_dummy'),
 	
+	// Hide Target Dummy
+	event.hide('jumbofurnace:jumbo_furnace'),
+
+	// Hide Savage and Ravage
+	event.hide('savage_and_ravage:blast_proof_plating'),
+
+	// Hide Illager Revolution Mod
+	event.hide('illagerrevolutionmod:rune_tablet_undying_flesh'),
+	event.hide('illagerrevolutionmod:rune_tablet_undying_bone'),
+	event.hide('illagerrevolutionmod:rune_fragment_bone'),
+	event.hide('illagerrevolutionmod:rune_fragment_flesh'),
+	event.hide('illagerrevolutionmod:rune_fragment_undying'),
+	event.hide('illagerrevolutionmod:rune_table_block'),
+
 	// Hide Skinned Lanterns
 	event.hide('skinnedlanterns:pufferfish_lantern_block'),
 	event.hide('skinnedlanterns:zombie_lantern_block'),
@@ -159,10 +183,24 @@ JEIEvents.hideItems(event => {
 	event.hide('skinnedlanterns:present_red_lantern_block'),
 	event.hide('skinnedlanterns:present_red_soul_lantern_block'),
 	
+	// Hide Paraglider
+	event.hide('paraglider:goddess_statue'),
+	event.hide('paraglider:kakariko_goddess_statue'),
+	event.hide('paraglider:goron_goddess_statue'),
+	event.hide('paraglider:rito_goddess_statue'),
+	event.hide('paraglider:horned_statue'),
+	event.hide('paraglider:essence'),
+	event.hide('paraglider:anti_vessel'),
+	event.hide('paraglider:spirit_orb'),
+	event.hide('paraglider:stamina_vessel'),
+	
 	// Hide Supplementaries
 	event.hide('supplementaries:bamboo_spikes'),
 	event.hide('supplementaries:bamboo_spikes_tipped'),
 	event.hide('supplementaries:slingshot'),
+	event.hide('supplementaries:safe'),
+	event.hide('supplementaries:key'),
+	event.hide('suppsquared:heavy_key'),
 	
 	// Hide Simple Hats
 	event.hide('simplehats:haticon'),
@@ -564,6 +602,10 @@ JEIEvents.hideItems(event => {
 	event.hide('cataclysm:modern_remnant_spawn_egg'),
 	event.hide('cataclysm:the_prowler_spawn_egg'),
 	event.hide('cataclysm:the_watcher_spawn_egg'),
+	event.hide('cataclysm:coral_golem_spawn_egg'),
+	event.hide('cataclysm:ignited_berserker_spawn_egg'),
+	event.hide('cataclysm:kobolediator_spawn_egg'),
+	event.hide('cataclysm:wadjet_spawn_egg'),
 	event.hide('guardvillagers:guard_spawn_egg'),
 	event.hide('guardvillagers:illusioner_spawn_egg'),
 	event.hide('guardvillagers:iron_golem_spawn_egg'),
@@ -763,6 +805,12 @@ JEIEvents.hideItems(event => {
 	event.hide('minecraft:smithing_table'),
 	event.hide('cataclysm:mechanical_fusion_anvil'),
 
+	// Hide Cataclysm items
+	event.hide('cataclysm:ignitium_elytra_chestplate'),
+	event.hide('cataclysm:enderite_ingot'),
+	event.hide('cataclysm:bone_reptile_helmet'),
+	event.hide('cataclysm:bone_reptile_chestplate'),
+	
 	// Hide Monsters & Mushrooms items
 	event.hide('monstersandmushrooms:bugsy_helmet'),
 	event.hide('monstersandmushrooms:bugsy_chestplate'),
@@ -795,12 +843,32 @@ JEIEvents.hideItems(event => {
 	event.hide('monstersandmushrooms:icy_deepslate_tiles'),
 	event.hide('monstersandmushrooms:polished_amethyst'),
 
+	event.hide('monstersandmushrooms:straystaff'),
+	event.hide('monstersandmushrooms:avalasword'),
+	event.hide('monstersandmushrooms:drownedsword'),
+	event.hide('monstersandmushrooms:brutesword'),
+	event.hide('monstersandmushrooms:chorussword'),
+	event.hide('monstersandmushrooms:gnomesword'),
+	event.hide('monstersandmushrooms:endstaff'),
+
+	// Hide Revised Phantoms items
+	event.hide('revised_phantoms:phantom_wings_chestplate'),
+	event.hide('revised_phantoms:phantom_knife'),
+
+	// Hide Moving Elevators items
+	event.hide('movingelevators:elevator_block'),
+	event.hide('movingelevators:display_block'),
+	event.hide('movingelevators:button_block'),
+	event.hide('meaddon:button_block_updown'),
+	event.hide('meaddon:button_block_middle'),
+
 	// Hide Alexsmobs items
 	event.hide('alexsmobs:transmutation_table'),
 	event.hide('alexsmobs:tarantula_hawk_elytra'),
 	event.hide('alexsmobs:tarantula_hawk_wing'),
-	// If we remove this item this whole script is not running
-	//event.hide('alexsmobs:endolocator'}
+	event.hide('alexsmobs:endolocator'),
+	event.hide('alexsmobs:dimensional_carver'),
+	event.hide('alexsmobs:shattered_dimensional_carver'),
 
 	// Hide Structure GEL items
 	event.hide('structure_gel:red_gel'),
@@ -858,6 +926,13 @@ JEIEvents.hideItems(event => {
 	// Hide Realm RPG Wyrm items
 	event.hide('realmrpg_wyrms:red_wyrm_spawn_egg'),
 	event.hide('realmrpg_wyrms:ender_wyrm_spawn_egg'),
+
+	// Hide Shieldexp items
+	event.hide('shieldexp:paragon_shield'),
+
+	// Hide Mutant More items
+	event.hide('mutantmore:mutant_wither_skeleton_rib_cage'),
+	event.hide('mutantmore:mutant_wither_skeleton_arms'),
 
 	// Hide Create Items
 	event.hide('create:schematicannon'),
@@ -1309,6 +1384,10 @@ JEIEvents.hideItems(event => {
 	event.hide('create:cut_veridium_brick_slab'),
 	event.hide('create:layered_veridium'),
 	event.hide('create:veridium_pillar'),
+	event.hide('create:copper_diving_helmet'),
+	event.hide('create:netherite_diving_helmet'),
+	event.hide('create:copper_diving_boots'),
+	event.hide('create:netherite_diving_boots'),
 
 	// Hide Occultism Items
 	event.hide('occultism:dictionary_of_spirits'),
@@ -1528,5 +1607,21 @@ JEIEvents.hideItems(event => {
 	event.hide('dungeons_gear:firebolt_thrower'),
 	event.hide('dungeons_gear:burst_crossbow'),
 	event.hide('dungeons_gear:dual_crossbow'),
-	event.hide('dungeons_gear:harpoon_crossbow')
+	event.hide('dungeons_gear:harpoon_crossbow'),
+	event.hide('dungeons_gear:baby_crossbow'),
+
+	event.hide('dungeons_gear:wolf_helmet'),
+	event.hide('dungeons_gear:wolf_chestplate'),
+	event.hide('dungeons_gear:wolf_leggings'),
+	event.hide('dungeons_gear:wolf_boots'),
+	
+	event.hide('dungeons_gear:fox_helmet'),
+	event.hide('dungeons_gear:fox_chestplate'),
+	event.hide('dungeons_gear:fox_leggings'),
+	event.hide('dungeons_gear:fox_boots'),
+
+	event.hide('dungeons_gear:arctic_fox_helmet'),
+	event.hide('dungeons_gear:arctic_fox_chestplate'),
+	event.hide('dungeons_gear:arctic_fox_leggings'),
+	event.hide('dungeons_gear:arctic_fox_boots')
 })
