@@ -20,6 +20,67 @@ ServerEvents.recipes(event => {
 // =============================================== Remove Craft Recipes ===============================================
 // ====================================================================================================================
 
+	// Remove Vanilla craft recipes
+	event.remove({id: 'minecraft:netherite_sword_smithing'})
+	event.remove({id: 'minecraft:netherite_axe_smithing'})
+	event.remove({id: 'minecraft:netherite_pickaxe_smithing'})
+	event.remove({id: 'minecraft:netherite_hoe_smithing'})
+	event.remove({id: 'minecraft:netherite_shovel_smithing'})
+	event.remove({id: 'minecraft:netherite_sword_smithing'})
+	event.remove({id: 'minecraft:netherite_helmet_smithing'})
+	event.remove({id: 'minecraft:netherite_chestplate_smithing'})
+	event.remove({id: 'minecraft:netherite_leggings_smithing'})
+	event.remove({id: 'minecraft:netherite_boots_smithing'})
+
+	event.remove({id: 'minecraft:leather_helmet'})
+	event.remove({id: 'minecraft:leather_chestplate'})
+	event.remove({id: 'minecraft:leather_leggings'})
+	event.remove({id: 'minecraft:leather_boots'})
+
+	event.remove({id: 'minecraft:golden_sword'})
+	event.remove({id: 'minecraft:golden_shovel'})
+	event.remove({id: 'minecraft:golden_pickaxe'})
+	event.remove({id: 'minecraft:golden_axe'})
+	event.remove({id: 'minecraft:golden_hoe'})
+	event.remove({id: 'minecraft:golden_helmet'})
+	event.remove({id: 'minecraft:golden_chestplate'})
+	event.remove({id: 'minecraft:golden_leggings'})
+	event.remove({id: 'minecraft:golden_boots'})
+
+	event.remove({id: 'minecraft:iron_sword'})
+	event.remove({id: 'minecraft:iron_shovel'})
+	event.remove({id: 'minecraft:iron_pickaxe'})
+	event.remove({id: 'minecraft:iron_axe'})
+	event.remove({id: 'minecraft:iron_hoe'})
+	event.remove({id: 'minecraft:iron_helmet'})
+	event.remove({id: 'minecraft:iron_chestplate'})
+	event.remove({id: 'minecraft:iron_leggings'})
+	event.remove({id: 'minecraft:iron_boots'})
+	
+	event.remove({id: 'minecraft:diamond_sword'})
+	event.remove({id: 'minecraft:diamond_shovel'})
+	event.remove({id: 'minecraft:diamond_pickaxe'})
+	event.remove({id: 'minecraft:diamond_axe'})
+	event.remove({id: 'minecraft:diamond_hoe'})
+	event.remove({id: 'minecraft:diamond_helmet'})
+	event.remove({id: 'minecraft:diamond_chestplate'})
+	event.remove({id: 'minecraft:diamond_leggings'})
+	event.remove({id: 'minecraft:diamond_boots'})
+
+	event.remove({id: 'minecraft:bow'})
+	event.remove({id: 'minecraft:crossbow'})
+
+	event.remove({id: 'minecraft:shield'})
+
+	// Remove Bigextras recipes
+	event.remove({id: 'bigextras:strong_bow'})
+	event.remove({id: 'bigextras:strong_crossbow'})
+
+	// Remove End Remastered Ender Eyes craft recipes
+	event.remove({output: 'endrem:witch_eye'})
+	event.remove({output: 'endrem:undead_eye'})
+	event.remove({output: 'endrem:exotic_eye'})
+
 	// Remove Cataclysm Ender Eyes craft recipes
 	event.remove({output: 'cataclysm:mech_eye'})
 	event.remove({output: 'cataclysm:flame_eye'})
@@ -27,6 +88,21 @@ ServerEvents.recipes(event => {
 	event.remove({output: 'cataclysm:abyss_eye'})
 	event.remove({output: 'cataclysm:void_eye'})
 	event.remove({output: 'cataclysm:desert_eye'})
+
+	// Remove Celestisynth craft recipes
+	event.remove({id: 'celestisynth:supernal_netherite_ingot_smithing_from_core'})
+	event.remove({id: 'celestisynth:supernal_netherite_ingot_smithing'})
+
+	event.remove({output: 'celestisynth:celestial_core'})
+	event.remove({output: 'celestisynth:celestial_core_heated'})
+	event.remove({output: 'celestisynth:celestial_netherite_ingot'})
+	event.remove({output: 'celestisynth:celestial_crafting_table'})
+	event.remove({ id: 'celestisynth:rainfall_serenity' }),
+	event.remove({ id: 'celestisynth:aquaflora' }),
+	event.remove({ id: 'celestisynth:poltergeist' }),
+	event.remove({ id: 'celestisynth:breezebreaker' }),
+	event.remove({ id: 'celestisynth:crescentia' }),
+	event.remove({ id: 'celestisynth:solaris' }),
 
 	// Remove Golden Apples craft recipe
 	event.remove({output: 'minecraft:golden_apple'})
@@ -165,9 +241,25 @@ ServerEvents.recipes(event => {
 	event.remove({output: 'skinnedlanterns:present_red_lantern_block'})
 	event.remove({output: 'skinnedlanterns:present_red_soul_lantern_block'})
 	
+	// Remove Paraglider recipes
+	event.remove({id: 'paraglider:cosmetic/goddess_statue'})
+	event.remove({id: 'paraglider:cosmetic/kakariko_goddess_statue'})
+	event.remove({id: 'paraglider:cosmetic/goron_goddess_statue'})
+	event.remove({id: 'paraglider:cosmetic/rito_goddess_statue'})
+	event.remove({id: 'paraglider:horned_goddess_statue'})
+	
 	// Remove Supplementaries recipes
 	event.remove({output: 'supplementaries:bamboo_spikes'})
 	event.remove({output: 'supplementaries:slingshot'})
+	event.remove({id: 'supplementaries:wrench'})
+	event.remove({id: 'supplementaries:safe'})
+	event.remove({id: 'supplementaries:key'})
+	event.remove({id: 'suppsquared:heavy_key'})
+
+	// Remove Quark recipes
+	event.remove({id: 'quark:tools/crafting/pickarang_heart'})
+	event.remove({id: 'quark:tools/smithing/flamerang_smithing'})
+	event.remove({id: 'quark:tools/smithing/echorang_smithing'})
 
 	// Remove Waystones recipes
 	event.remove({output: 'waystones:waystone'})
@@ -199,6 +291,11 @@ ServerEvents.recipes(event => {
 	event.remove({output: 'waystones:warp_dust'})
 	event.remove({output: 'waystones:attuned_shard'})
 
+	// Remove Moving Elevators recipes
+	event.remove({output: 'movingelevators:elevator_block'})
+	event.remove({output: 'movingelevators:display_block'})
+	event.remove({output: 'movingelevators:button_block'})
+	
 	// Remove Meet Your Fight recipes
 	event.remove({output: 'meetyourfight:haunted_bell'})
 	event.remove({output: 'meetyourfight:passages_toll'})
@@ -206,6 +303,9 @@ ServerEvents.recipes(event => {
 	event.remove({output: 'meetyourfight:fossil_bait'})
 	event.remove({output: 'meetyourfight:dusk_key'})
 	event.remove({output: 'meetyourfight:haunted_bell'})
+	event.remove({id: 'meetyourfight:depth_star'})
+	event.remove({id: 'meetyourfight:cocktail_cutlass'})
+	event.remove({id: 'meetyourfight:twilights_thorn'})
 
 	// Remove Straw Statue recipes
 	event.remove({output: 'strawstatues:straw_statue'})
@@ -219,6 +319,19 @@ ServerEvents.recipes(event => {
 	event.remove({output: 'minecraft:smithing_table'})
 	event.remove({output: 'cataclysm:mechanical_fusion_anvil'})
 	event.remove({output: 'cataclysm:abyssal_sacrifice'})
+	event.remove({id: 'cataclysm:smithing/ignitium_helmet'})
+	event.remove({id: 'cataclysm:smithing/ignitium_chestplate'})
+	event.remove({id: 'cataclysm:smithing/ignitium_leggings'})
+	event.remove({id: 'cataclysm:smithing/ignitium_boots'})
+	event.remove({id: 'cataclysm:smithing/monstrous_helm'})
+	event.remove({id: 'cataclysm:meat_shredder'})
+	event.remove({id: 'cataclysm:laser_gatling'})
+	event.remove({id: 'cataclysm:wither_assault_shoulder_weapon'})
+	event.remove({id: 'cataclysm:bulwark_of_the_flame'})
+	event.remove({id: 'cataclysm:the_incinerator'})
+	event.remove({id: 'cataclysm:bloom_stone_pauldrons'})
+	event.remove({id: 'cataclysm:bone_reptile_helmet'})
+	event.remove({id: 'cataclysm:bone_reptile_chestplate'})
 
 	// Remove Monsters & Mushrooms recipes
 	event.remove({output: 'monstersandmushrooms:bugsy_helmet'})
@@ -246,14 +359,133 @@ ServerEvents.recipes(event => {
 	event.remove({output: 'monstersandmushrooms:icy_deepslate_tiles'})
 	event.remove({output: 'monstersandmushrooms:polished_amethyst'})
 
+	event.remove({id: 'monstersandmushrooms:meangreenwand'})
+	event.remove({id: 'monstersandmushrooms:endwand'})
+	event.remove({id: 'monstersandmushrooms:blazewand'})
+	event.remove({id: 'monstersandmushrooms:magmacubestaff'})
+	event.remove({id: 'monstersandmushrooms:straystaff'})
+	event.remove({id: 'monstersandmushrooms:endstaff'})
+
+	event.remove({id: 'monstersandmushrooms:avala_helmet'})
+	event.remove({id: 'monstersandmushrooms:avala_chestplate'})
+	event.remove({id: 'monstersandmushrooms:avala_leggings'})
+	event.remove({id: 'monstersandmushrooms:avala_boots'})
+
+	event.remove({id: 'monstersandmushrooms:end_helmet'})
+	event.remove({id: 'monstersandmushrooms:end_chestplate'})
+	event.remove({id: 'monstersandmushrooms:end_leggings'})
+	event.remove({id: 'monstersandmushrooms:end_boots'})
+
+	event.remove({id: 'monstersandmushrooms:evoker_helmet'})
+	event.remove({id: 'monstersandmushrooms:evoker_chestplate'})
+	event.remove({id: 'monstersandmushrooms:evoker_leggings'})
+	event.remove({id: 'monstersandmushrooms:evoker_boots'})
+
+	event.remove({id: 'monstersandmushrooms:gnome_helmet'})
+	event.remove({id: 'monstersandmushrooms:gnome_chestplate'})
+	event.remove({id: 'monstersandmushrooms:gnome_leggings'})
+	event.remove({id: 'monstersandmushrooms:gnome_boots'})
+
+	event.remove({id: 'monstersandmushrooms:goat_helmet'})
+	event.remove({id: 'monstersandmushrooms:goat_chestplate'})
+	event.remove({id: 'monstersandmushrooms:goat_leggings'})
+	event.remove({id: 'monstersandmushrooms:goat_boots'})
+
+	event.remove({id: 'monstersandmushrooms:guardian_helmet'})
+	event.remove({id: 'monstersandmushrooms:guardian_chestplate'})
+	event.remove({id: 'monstersandmushrooms:guardian_leggings'})
+	event.remove({id: 'monstersandmushrooms:guardian_boots'})
+
+	event.remove({id: 'monstersandmushrooms:wither_helmet'})
+	event.remove({id: 'monstersandmushrooms:wither_chestplate'})
+	event.remove({id: 'monstersandmushrooms:wither_leggings'})
+	event.remove({id: 'monstersandmushrooms:wither_boots'})
+
+	event.remove({id: 'monstersandmushrooms:warden_helmet'})
+	event.remove({id: 'monstersandmushrooms:warden_chestplate'})
+	event.remove({id: 'monstersandmushrooms:warden_leggings'})
+	event.remove({id: 'monstersandmushrooms:warden_boots'})
+
+	event.remove({id: 'monstersandmushrooms:avalasword'})
+	event.remove({id: 'monstersandmushrooms:drownedsword'})
+	event.remove({id: 'monstersandmushrooms:brutesword'})
+	event.remove({id: 'monstersandmushrooms:chorussword'})
+	event.remove({id: 'monstersandmushrooms:gnomesword'})
+	event.remove({id: 'monstersandmushrooms:chorussword'})
+	
 	// Remove Alexsmobs recipes
 	event.remove({output: 'alexsmobs:transmutation_table'})
 	event.remove({output: 'alexsmobs:tarantula_hawk_elytra'})
 	event.remove({output: 'alexsmobs:tarantula_hawk_wing'})
 	event.remove({output: 'alexsmobs:tattered_tarantula_hawk_wing'})
 	event.remove({output: 'alexsmobs:endolocator'})
+	event.remove({output: 'alexsmobs:dimensional_carver'})
+	event.remove({output: 'alexsmobs:shattered_dimensional_carver'})
+	event.remove({id: 'alexsmobs:blood_sprayer' })
+	event.remove({id: 'alexsmobs:hemolymph_blaster' })
+	event.remove({id: 'alexsmobs:spiked_turtle_shell'})
+	event.remove({id: 'alexsmobs:roadrunner_boots'})
+	event.remove({id: 'alexsmobs:frontier_cap_alt'})
+	event.remove({id: 'alexsmobs:frontier_cap'})
+	event.remove({id: 'alexsmobs:crocodile_chestplate'})
+	event.remove({id: 'alexsmobs:centipede_leggings'})
+	event.remove({id: 'alexsmobs:pocket_sand'})
+	event.remove({id: 'alexsmobs:straddleboard'})
+	event.remove({id: 'alexsmobs:emu_leggings'})
+	event.remove({id: 'alexsmobs:shield_of_the_deep'})
+	event.remove({id: 'alexsmobs:froststalker_helmet'})
+	event.remove({id: 'alexsmobs:rocky_chestplate'})
+	event.remove({id: 'alexsmobs:squid_grapple'})
+	event.remove({id: 'alexsmobs:flying_fish_boots'})
+	event.remove({id: 'alexsmobs:tendon_whip'})
 
-	// Remove Upgrade Aquatic unoobtainable item recipes
+	// Remove Jumbo Furnace Mod recipes
+	event.remove({id: 'jumbofurnace:jumbo_furnace'})
+	
+	// Remove Illager Revolution Mod recipes
+	event.remove({id: 'illagerrevolutionmod:flesh_undying_rune'})
+	event.remove({id: 'illagerrevolutionmod:bone_undying_rune'})
+	event.remove({id: 'illagerrevolutionmod:rune_table'})
+	event.remove({id: 'illagerrevolutionmod:illagium_apple'})
+
+	// Remove Full Turtle Armor recipes
+	event.remove({id: 'fullturtlearmor:turtle_chestplate'})
+	event.remove({id: 'fullturtlearmor:turtle_leggings'})
+	event.remove({id: 'fullturtlearmor:turtle_boots'})
+	
+	// Remove Savage and Ravage item recipes
+	event.remove({id: 'savage_and_ravage:griefer_helmet'})
+	event.remove({id: 'savage_and_ravage:griefer_chestplate'})
+	event.remove({id: 'savage_and_ravage:griefer_leggings'})
+	event.remove({id: 'savage_and_ravage:griefer_boots'})
+	event.remove({id: 'savage_and_ravage:blast_proof_plating'})
+
+	// Remove Mutant More item recipes
+	event.remove({id: 'mutantmore:blazing_scimitar'})
+	event.remove({id: 'mutantmore:wither_bomb'})
+	event.remove({id: 'mutantmore:mutant_wither_skeleton_rib_cage'})
+	event.remove({id: 'mutantmore:mutant_wither_skeleton_arms'})
+	event.remove({id: 'mutantmore:mutant_wither_skeleton_chestplate'})
+	event.remove({id: 'mutantmore:mutant_wither_skeleton_leggings'})
+	event.remove({id: 'mutantmore:mutant_wither_skeleton_boots'})
+	event.remove({id: 'mutantmore:mutant_blaze_shields'})
+	event.remove({id: 'mutantmore:mutant_shulker_shield'})
+
+	// Remove Shieldexp item recipes
+	event.remove({id: 'shieldexp:golden_shield'})
+	event.remove({id: 'shieldexp:iron_shield'})
+	event.remove({id: 'shieldexp:diamond_shield'})
+	event.remove({id: 'shieldexp:netherite_shield_smithing'})
+	event.remove({id: 'shieldexp:griefer_shield'})
+
+	// Remove Upgrade Aquatic item recipes
+	event.remove({id: 'upgrade_aquatic:trident'})
+
+	// Remove Revised Phantom craft recipes
+	event.remove({id: 'revised_phantoms:wings_recipe'})
+	event.remove({id: 'revised_phantoms:phantom_knife_recipe'})
+
+	// Remove Upgrade Aquatic unobtainable item recipes
 	event.remove({output: 'upgrade_aquatic:tongue_kelp'})
 	event.remove({output: 'upgrade_aquatic:tongue_kelp_block'})
 	event.remove({output: 'upgrade_aquatic:thorny_kelp_block'})
@@ -498,6 +730,13 @@ ServerEvents.recipes(event => {
 	event.remove({output: 'create:small_rose_quartz_tiles'})
 	event.remove({output: 'create:honey_bucket'})
 	event.remove({output: 'create:chocolate_bucket'})
+	event.remove({output: 'create:copper_diving_helmet'})
+	event.remove({output: 'create:copper_diving_boots'})
+
+	event.remove({id: 'create:crafting/appliances/netherite_diving_boots'})
+	event.remove({id: 'create:crafting/appliances/netherite_diving_boots_from_netherite'})
+	event.remove({id: 'create:crafting/appliances/netherite_diving_helmet'})
+	event.remove({id: 'create:crafting/appliances/netherite_diving_helmet_from_netherite'})
 	
 	// Remove Occultism item recipes
 	event.remove({output: 'occultism:dictionary_of_spirits'})
@@ -635,6 +874,12 @@ ServerEvents.recipes(event => {
 	.input(Ingredient.of('minecraft:lapis_lazuli', 6))
 	.input(Ingredient.of('minecraft:emerald', 3))
 	.itemOutput('3x minecraft:experience_bottle')
+	.recipeTime(25)
+
+	// Illagium Apple
+	event.recipes.summoningrituals.altar("minecraft:golden_apple")
+	.input(Ingredient.of('illagerrevolutionmod:illagium', 8))
+	.itemOutput('1x illagerrevolutionmod:illagium_apple')
 	.recipeTime(25)
 
 	// Enchanted Golden Apple
