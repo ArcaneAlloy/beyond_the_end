@@ -352,7 +352,79 @@
 		"damagemultiply": 1.0,
 		"onjoin": true
 	},
-
+	{
+		"mob": ["twilightforest:alpha_yeti"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:naga"],
+		"gamestage": "hard",
+		"result": "allow",
+		// We can't add it more health
+		//"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:lich"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:minoshroom"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:hydra"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:knight_phantom"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:hydra"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:ur_ghast"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:snow_queen"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
 	// Mobs
 	{
 		"mob": ["minecraft:blaze"],
@@ -1403,6 +1475,318 @@
 		"damagemultiply": 1.50,
 		"onjoin": true
 	},
+	{
+		"mob": ["twilightforest:adherent"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:armored_giant"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:blockchain_goblin"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:carminite_broodling"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:carminite_ghastguard"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:carminite_ghastling"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:carminite_golem"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:death_tome"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:fire_beetle"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:giant_miner"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:harbinger_cube"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:hedge_spider"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:helmet_crab"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:hostile_wolf"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:ice_crystal"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:king_spider"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:carminite_golem"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:lich_minion"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:lower_goblin_knight"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:maze_slime"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:minotaur"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:mist_wolf"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:mosquito_swarm"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:pinch_beetle"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:redcap_sapper"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:rising_zombie"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:roving_cube"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:skeleton_druid"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:slime_beetle"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:snow_guardian"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:stable_ice_core"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:swarm_spider"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:towerwood_borer"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:troll"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:unstable_ice_core"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:upper_goblin_knight"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:winter_wolf"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:wraith"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:yeti"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
 
 	// Difficulty Nightmare Game Stages
 
@@ -1577,7 +1961,79 @@
 		"damagemultiply": 1.5,
 		"onjoin": true
 	},
-
+	{
+		"mob": ["twilightforest:alpha_yeti"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:naga"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		// We can't add it more health
+		//"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:lich"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:minoshroom"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:hydra"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:knight_phantom"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:hydra"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:ur_ghast"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:snow_queen"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
 	// Mobs
 	{
 		"mob": ["minecraft:blaze"],
@@ -2622,6 +3078,286 @@
 	},
 	{
 		"mob": ["realmrpg_wyrms:red_wyrm"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:adherent"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:armored_giant"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:blockchain_goblin"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:carminite_broodling"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:carminite_ghastguard"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:carminite_ghastling"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:carminite_golem"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:death_tome"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:fire_beetle"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:giant_miner"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:harbinger_cube"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:hedge_spider"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:helmet_crab"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:hostile_wolf"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:ice_crystal"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:king_spider"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:carminite_golem"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:lich_minion"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:lower_goblin_knight"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:maze_slime"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:minotaur"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:mist_wolf"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:mosquito_swarm"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:pinch_beetle"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:redcap_sapper"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:rising_zombie"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:roving_cube"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:skeleton_druid"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:slime_beetle"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:snow_guardian"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:stable_ice_core"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:swarm_spider"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:towerwood_borer"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:troll"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.0,
+		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["twilightforest:unstable_ice_core"],
 		"gamestage": "nightmare",
 		"result": "allow",
 		"healthmultiply": 2.0,
