@@ -654,5 +654,45 @@
   "celestisynth:aquaflora": {
     "attackDamage": 8,
     "attackSpeed": 1.8
+  },
+  "twilightforest:ironwood_shovel": {
+    "attackDamage": 0,
+    "attackSpeed": 1
+  },
+  "twilightforest:ironwood_pickaxe": {
+    "attackDamage": 0,
+    "attackSpeed": 1.2
+  },
+  "twilightforest:ironwood_hoe": {
+    "attackDamage": 0,
+    "attackSpeed": 3
+  },
+  "twilightforest:fiery_pickaxe": {
+    "attackDamage": 0,
+    "attackSpeed": 1.2
+  },
+  "twilightforest:steeleaf_shovel": {
+    "attackDamage": 0,
+    "attackSpeed": 1
+  },
+  "twilightforest:steeleaf_pickaxe": {
+    "attackDamage": 0,
+    "attackSpeed": 1.2
+  },
+  "twilightforest:steeleaf_hoe": {
+    "attackDamage": 0,
+    "attackSpeed": 3
+  },
+  "twilightforest:mazebreaker_pickaxe": {
+    "attackDamage": 0,
+    "attackSpeed": 1.2
+  },
+  "twilightforest:giant_pickaxe": {
+    "attackDamage": 0,
+    "attackSpeed": 0.5
+  },
+  "twilightforest:knightmetal_pickaxe": {
+    "attackDamage": 0,
+    "attackSpeed": 1.2
   }
 }
