@@ -1656,6 +1656,7 @@ JEIEvents.hideItems(event => {
 	event.hide('twilightforest:naga_boss_spawner'),
 	event.hide('twilightforest:uncrafting_table'),
 	event.hide('twilightforest:crumble_horn'),
+	event.hide('twilightforest:ore_magnet'),
 
 	// Hide Dynamic Trees
 	event.hide('dynamictrees:staff'),
