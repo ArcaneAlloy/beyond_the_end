@@ -129,6 +129,19 @@ ServerEvents.recipes(event => {
 	event.remove({output: 'experienceobelisk:linear_accelerator'})
 	event.remove({output: 'experienceobelisk:whisperglass'})
 	event.remove({output: 'experienceobelisk:cognitium'})
+	event.remove({output: 'experienceobelisk:forgotten_dust_block'})
+	event.remove({output: 'experienceobelisk:infected_archivers_bookshelf'})
+	event.remove({output: 'experienceobelisk:infected_enchanted_bookshelf'})
+	event.remove({output: 'experienceobelisk:infected_bookshelf'})
+	event.remove({output: 'experienceobelisk:archivers_bookshelf'})
+	event.remove({output: 'experienceobelisk:enchanted_bookshelf'})
+	event.remove({output: 'experienceobelisk:molecular_metamorpher'})
+	event.remove({output: 'experienceobelisk:metamorpher/experience_jelly'})
+	event.remove({output: 'experienceobelisk:bibliophage'})
+	event.remove({output: 'experienceobelisk:daydream_bottle'})
+	event.remove({output: 'experienceobelisk:nightmare_bottle'})
+	event.remove({output: 'experienceobelisk:forgotten_dust'})
+	event.remove({output: 'experienceobelisk:primordial_assembly'})
 
 	// Remove Target Dummy recipe
 	event.remove({output: 'dummmmmmy:dummy_crafting'})
@@ -737,6 +750,9 @@ ServerEvents.recipes(event => {
 	event.remove({id: 'create:crafting/appliances/netherite_diving_boots_from_netherite'})
 	event.remove({id: 'create:crafting/appliances/netherite_diving_helmet'})
 	event.remove({id: 'create:crafting/appliances/netherite_diving_helmet_from_netherite'})
+	
+	// Remove Twilight Forest item recipes
+	event.remove({output: 'twilightforest:uncrafting_table'})
 	
 	// Remove Occultism item recipes
 	event.remove({output: 'occultism:dictionary_of_spirits'})
