@@ -870,6 +870,9 @@ JEIEvents.hideItems(event => {
 	event.hide('cataclysm:enderite_ingot'),
 	event.hide('cataclysm:bone_reptile_helmet'),
 	event.hide('cataclysm:bone_reptile_chestplate'),
+	event.hide('cataclysm:ancient_metal_nugget'),
+	event.hide('cataclysm:ancient_metal_ingot'),
+	event.hide('cataclysm:ancient_metal_block'),
 	
 	// Hide Monsters & Mushrooms items
 	event.hide('monstersandmushrooms:bugsy_helmet'),
@@ -1657,6 +1660,9 @@ JEIEvents.hideItems(event => {
 	event.hide('twilightforest:uncrafting_table'),
 	event.hide('twilightforest:crumble_horn'),
 	event.hide('twilightforest:ore_magnet'),
+	event.hide('twilightforest:fiery_ingot'),
+	event.hide('twilightforest:fiery_block'),
+	event.hide('twilightforest:fiery_tears'),
 
 	// Hide Dynamic Trees
 	event.hide('dynamictrees:staff'),
