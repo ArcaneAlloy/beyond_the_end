@@ -2,16 +2,16 @@
   "structures": [
     {
       "structure": "idas:wizard_tower",
-      "weight": 2
+      "weight": 1
     }
   ],
   "placement": {
     "salt": 169480670,
-    "spacing": 20,
-    "separation": 12,
+    "spacing": 30,
+    "separation": 18,
     "type": "integrated_api:advanced_random_spread",
     "super_exclusion_zone": {
-      "chunk_count": 2,
+      "chunk_count": 3,
       "other_set": "#idas:common_avoid"
     }
   }
