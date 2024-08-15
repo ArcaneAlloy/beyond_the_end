@@ -770,6 +770,7 @@ ServerEvents.recipes(event => {
 	event.remove({id: 'twilightforest:equipment/knightmetal_sword'})
 	event.remove({id: 'twilightforest:equipment/knightmetal_axe'})
 	event.remove({id: 'twilightforest:equipment/knightmetal_pickaxe'})
+	event.remove({id: 'twilightforest:equipment/knightmetal_ring'})
 
 	event.remove({id: 'twilightforest:equipment/steeleaf_boots'})
 	event.remove({id: 'twilightforest:equipment/steeleaf_leggings'})

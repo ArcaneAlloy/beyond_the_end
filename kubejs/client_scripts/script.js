@@ -72,9 +72,6 @@ JEIEvents.hideItems(event => {
 	event.hide('experienceobelisk:primordial_assembly'),
 	
 	// Hide Target Dummy
-	event.hide('dummmmmmy:target_dummy'),
-	
-	// Hide Target Dummy
 	event.hide('jumbofurnace:jumbo_furnace'),
 
 	// Hide Savage and Ravage
@@ -1663,6 +1660,7 @@ JEIEvents.hideItems(event => {
 	event.hide('twilightforest:fiery_ingot'),
 	event.hide('twilightforest:fiery_block'),
 	event.hide('twilightforest:fiery_tears'),
+	event.hide('twilightforest:knightmetal_ring'),
 
 	// Hide Dynamic Trees
 	event.hide('dynamictrees:staff'),
