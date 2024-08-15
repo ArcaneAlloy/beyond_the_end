@@ -71,6 +71,7 @@ ServerEvents.recipes(event => {
 	event.remove({id: 'minecraft:crossbow'})
 
 	event.remove({id: 'minecraft:shield'})
+	event.remove({id: 'minecraft:shears'})
 
 	// Remove Bigextras recipes
 	event.remove({id: 'bigextras:strong_bow'})
@@ -462,6 +463,7 @@ ServerEvents.recipes(event => {
 	event.remove({id: 'illagerrevolutionmod:illagium_apple'})
 
 	// Remove Full Turtle Armor recipes
+	event.remove({id: 'minecraft:turtle_helmet'})
 	event.remove({id: 'fullturtlearmor:turtle_chestplate'})
 	event.remove({id: 'fullturtlearmor:turtle_leggings'})
 	event.remove({id: 'fullturtlearmor:turtle_boots'})
@@ -753,6 +755,66 @@ ServerEvents.recipes(event => {
 	
 	// Remove Twilight Forest item recipes
 	event.remove({output: 'twilightforest:uncrafting_table'})
+	event.remove({id: 'twilightforest:equipment/naga_chestplate'})
+	event.remove({id: 'twilightforest:equipment/naga_leggings'})
+
+	event.remove({id: 'twilightforest:equipment/block_and_chain'})
+	event.remove({id: 'twilightforest:equipment/knightmetal_shield'})
+
+	event.remove({id: 'twilightforest:equipment/knightmetal_boots'})
+	event.remove({id: 'twilightforest:equipment/knightmetal_leggings'})
+	event.remove({id: 'twilightforest:equipment/knightmetal_chestplate'})
+	event.remove({id: 'twilightforest:equipment/knightmetal_helmet'})
+	event.remove({id: 'twilightforest:equipment/knightmetal_sword'})
+	event.remove({id: 'twilightforest:equipment/knightmetal_axe'})
+	event.remove({id: 'twilightforest:equipment/knightmetal_pickaxe'})
+
+	event.remove({id: 'twilightforest:equipment/steeleaf_boots'})
+	event.remove({id: 'twilightforest:equipment/steeleaf_leggings'})
+	event.remove({id: 'twilightforest:equipment/steeleaf_chestplate'})
+	event.remove({id: 'twilightforest:equipment/steeleaf_helmet'})
+	event.remove({id: 'twilightforest:equipment/steeleaf_sword'})
+	event.remove({id: 'twilightforest:equipment/steeleaf_axe'})
+	event.remove({id: 'twilightforest:equipment/steeleaf_pickaxe'})
+	event.remove({id: 'twilightforest:equipment/steeleaf_hoe'})
+	event.remove({id: 'twilightforest:equipment/steeleaf_shovel'})
+
+	event.remove({id: 'twilightforest:equipment/ironwood_boots'})
+	event.remove({id: 'twilightforest:equipment/ironwood_leggings'})
+	event.remove({id: 'twilightforest:equipment/ironwood_chestplate'})
+	event.remove({id: 'twilightforest:equipment/ironwood_helmet'})
+	event.remove({id: 'twilightforest:equipment/ironwood_sword'})
+	event.remove({id: 'twilightforest:equipment/ironwood_axe'})
+	event.remove({id: 'twilightforest:equipment/ironwood_pickaxe'})
+	event.remove({id: 'twilightforest:equipment/ironwood_hoe'})
+	event.remove({id: 'twilightforest:equipment/ironwood_shovel'})
+
+	event.remove({id: 'twilightforest:compressed_blocks/reversed/fiery_block_to_ingot'})
+	event.remove({id: 'twilightforest:compressed_blocks/fiery_block'})
+	event.remove({id: 'twilightforest:equipment/fiery_ingot_crafting'})
+	event.remove({id: 'twilightforest:equipment/fiery_boots'})
+	event.remove({id: 'twilightforest:equipment/fiery_leggings'})
+	event.remove({id: 'twilightforest:equipment/fiery_chestplate'})
+	event.remove({id: 'twilightforest:equipment/fiery_helmet'})
+	event.remove({id: 'twilightforest:equipment/fiery_pickaxe'})
+	event.remove({id: 'twilightforest:equipment/fiery_sword'})
+
+	event.remove({id: 'twilightforest:equipment/fiery_fiery_boots'})
+	event.remove({id: 'twilightforest:equipment/fiery_fiery_leggings'})
+	event.remove({id: 'twilightforest:equipment/fiery_fiery_chestplate'})
+	event.remove({id: 'twilightforest:equipment/fiery_fiery_helmet'})
+	event.remove({id: 'twilightforest:equipment/fiery_iron_pickaxe'})
+	event.remove({id: 'twilightforest:equipment/fiery_iron_sword'})
+
+	event.remove({id: 'twilightforest:equipment/arctic_boots'})
+	event.remove({id: 'twilightforest:equipment/arctic_leggings'})
+	event.remove({id: 'twilightforest:equipment/arctic_chestplate'})
+	event.remove({id: 'twilightforest:equipment/arctic_helmet'})
+
+	event.remove({id: 'twilightforest:equipment/yeti_boots'})
+	event.remove({id: 'twilightforest:equipment/yeti_leggings'})
+	event.remove({id: 'twilightforest:equipment/yeti_chestplate'})
+	event.remove({id: 'twilightforest:equipment/yeti_helmet'})
 	
 	// Remove Occultism item recipes
 	event.remove({output: 'occultism:dictionary_of_spirits'})
