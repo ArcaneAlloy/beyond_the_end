@@ -109,7 +109,7 @@ ServerEvents.recipes(event => {
 	event.remove({output: 'minecraft:golden_apple'})
 
 	// Remove Experience Obelisk items recipes
-	event.remove({output: 'experienceobelisk:xpobelisk'})
+	event.remove({output: 'experienceobelisk:experience_obelisk'})
 	event.remove({output: 'experienceobelisk:cognitive_flux'})
 	event.remove({output: 'experienceobelisk:cognitive_amalgam'})
 	event.remove({output: 'experienceobelisk:cognitive_alloy'})
