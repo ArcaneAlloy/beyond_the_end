@@ -109,7 +109,7 @@ ServerEvents.recipes(event => {
 	event.remove({output: 'minecraft:golden_apple'})
 
 	// Remove Experience Obelisk items recipes
-	event.remove({output: 'experienceobelisk:xpobelisk'})
+	event.remove({output: 'experienceobelisk:experience_obelisk'})
 	event.remove({output: 'experienceobelisk:cognitive_flux'})
 	event.remove({output: 'experienceobelisk:cognitive_amalgam'})
 	event.remove({output: 'experienceobelisk:cognitive_alloy'})
@@ -333,6 +333,8 @@ ServerEvents.recipes(event => {
 	event.remove({output: 'minecraft:smithing_table'})
 	event.remove({output: 'cataclysm:mechanical_fusion_anvil'})
 	event.remove({output: 'cataclysm:abyssal_sacrifice'})
+	event.remove({output: 'cataclysm:ancient_metal_ingot'})
+	event.remove({output: 'cataclysm:ancient_metal_block'})
 	event.remove({id: 'cataclysm:smithing/ignitium_helmet'})
 	event.remove({id: 'cataclysm:smithing/ignitium_chestplate'})
 	event.remove({id: 'cataclysm:smithing/ignitium_leggings'})
