@@ -454,6 +454,7 @@ ServerEvents.recipes(event => {
 	event.remove({id: 'alexsmobs:squid_grapple'})
 	event.remove({id: 'alexsmobs:flying_fish_boots'})
 	event.remove({id: 'alexsmobs:tendon_whip'})
+	event.remove({id: 'alexsmobs:moose_headgear'})
 
 	// Remove Jumbo Furnace Mod recipes
 	event.remove({id: 'jumbofurnace:jumbo_furnace'})
