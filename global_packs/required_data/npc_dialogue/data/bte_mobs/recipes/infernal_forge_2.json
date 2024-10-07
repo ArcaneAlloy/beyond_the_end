@@ -1,0 +1,18 @@
+{
+  "type": "bte_mobs:blacksmith_upgrade",
+  "category": "WEAPONS",
+  "tier": 4,
+  "base": {
+    "item": "mutantmore:husk_hammer"
+  },
+  "ingredients": [
+    {
+      "type": "bte_mobs:item",
+      "item": "cataclysm:heater_engine",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "cataclysm:infernal_forge"
+  }
+}

@@ -707,6 +707,10 @@ JEIEvents.hideItems(event => {
 	event.hide('mutantmore:mutant_shulker_spawn_egg'),
 	event.hide('mutantmore:mutant_wither_skeleton_spawn_egg'),
 	event.hide('mutantmore:rodling_spawn_egg'),
+	event.hide('mutantmore:mutant_frozen_zombie_spawn_egg'),
+	event.hide('mutantmore:mutant_hoglin_spawn_egg'),
+	event.hide('mutantmore:mutant_husk_spawn_egg'),
+	event.hide('mutantmore:mutant_jungle_zombie_spawn_egg'),
 	event.hide('pots_and_mimics:end_pot_crab_spawn_egg'),
 	event.hide('pots_and_mimics:nether_pot_crab_spawn_egg'),
 	event.hide('pots_and_mimics:poison_pot_crab_spawn_egg'),
@@ -993,6 +997,10 @@ JEIEvents.hideItems(event => {
 	// Hide Mutant More items
 	event.hide('mutantmore:mutant_wither_skeleton_rib_cage'),
 	event.hide('mutantmore:mutant_wither_skeleton_arms'),
+	event.hide('mutantmore:mutant_jungle_zombie_arm'),
+	event.hide('mutantmore:sentry_vine'),
+	event.hide('mutantmore:adaptive_crossbow'),
+	event.hide('mutantmore:icicle_ammo_charge'),
 
 	// Hide Create Items
 	event.hide('create:schematicannon'),

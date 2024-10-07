@@ -1,0 +1,23 @@
+{
+    "type": "bte_mobs:blacksmith_upgrade",
+    "category": "WEAPONS",
+    "tier": 3,
+    "base": {
+      "item": "dungeons_gear:stormlander"
+    },
+    "ingredients": [
+      {
+        "type": "bte_mobs:item",
+        "item": "mutantmore:mutant_husk_vocal_cords",
+        "count": 1
+      },
+      {
+        "type": "bte_mobs:item",
+        "item": "minecraft:sandstone",
+        "count": 5
+      }
+    ],
+    "result": {
+      "item": "mutantmore:husk_hammer"
+    }
+  }
