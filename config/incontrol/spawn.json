@@ -264,6 +264,7 @@
 		"gamestage": "hard",
 		"result": "allow",
 		"healthmultiply": 5.0,
+		"damagemultiply": 1.50,
 		"onjoin": true
 	},
 	{
@@ -271,6 +272,7 @@
 		"gamestage": "hard",
 		"result": "allow",
 		"healthmultiply": 3,
+		"damagemultiply": 1.50,
 		"onjoin": true
 	},
 	{
@@ -278,6 +280,7 @@
 		"gamestage": "hard",
 		"result": "allow",
 		"healthmultiply": 1.6666667,
+		"damagemultiply": 1.50,
 		"onjoin": true
 	},
 	{
@@ -285,6 +288,7 @@
 		"gamestage": "hard",
 		"result": "allow",
 		"healthmultiply": 1.4,
+		"damagemultiply": 1.50,
 		"onjoin": true
 	},
 	{
@@ -1894,6 +1898,7 @@
 		"gamestage": "nightmare",
 		"result": "allow",
 		"healthmultiply": 2.5,
+		"damagemultiply": 2.0,
 		"onjoin": true
 	},
 	{
@@ -1935,6 +1940,7 @@
 		"gamestage": "nightmare",
 		"result": "allow",
 		"healthmultiply": 6.666667,
+		"damagemultiply": 2.0,
 		"onjoin": true
 	},
 	{
@@ -1942,6 +1948,7 @@
 		"gamestage": "nightmare",
 		"result": "allow",
 		"healthmultiply": 4,
+		"damagemultiply": 2.0,
 		"onjoin": true
 	},
 	{
@@ -1949,6 +1956,7 @@
 		"gamestage": "nightmare",
 		"result": "allow",
 		"healthmultiply": 2.222223,
+		"damagemultiply": 2.0,
 		"onjoin": true
 	},
 	{
@@ -1956,6 +1964,7 @@
 		"gamestage": "nightmare",
 		"result": "allow",
 		"healthmultiply": 1.8,
+		"damagemultiply": 2.0,
 		"onjoin": true
 	},
 	{
