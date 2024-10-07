@@ -52,14 +52,35 @@
 		"mob": ["mutantmore:mutant_wither_skeleton"],
 		"gamestage": "normal",
 		"result": "allow",
-		"healthmultiply": 1.76470588235,
+		"healthmultiply": 1.5,
 		"onjoin": true
 	},
 	{
 		"mob": ["mutantmore:mutant_blaze"],
 		"gamestage": "normal",
 		"result": "allow",
-		"healthmultiply": 1.16666666667,
+		"healthmultiply": 1.2,
+		"onjoin": true
+	},
+	{
+		"mob": ["mutantmore:mutant_jungle_zombie"],
+		"gamestage": "normal",
+		"result": "allow",
+		"healthmultiply": 3.33333333333,
+		"onjoin": true
+	},
+	{
+		"mob": ["mutantmore:mutant_frozen_zombie"],
+		"gamestage": "normal",
+		"result": "allow",
+		"healthmultiply": 2,
+		"onjoin": true
+	},
+	{
+		"mob": ["mutantmore:mutant_husk"],
+		"gamestage": "normal",
+		"result": "allow",
+		"healthmultiply": 1.1111112,
 		"onjoin": true
 	},
 	{
@@ -234,8 +255,36 @@
 		"mob": ["mutantmore:mutant_wither_skeleton"],
 		"gamestage": "hard",
 		"result": "allow",
-		"healthmultiply": 2.20588235294,
+		"healthmultiply": 2.00,
 		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["mutantmore:mutant_jungle_zombie"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 5.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["mutantmore:mutant_frozen_zombie"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 3,
+		"onjoin": true
+	},
+	{
+		"mob": ["mutantmore:mutant_husk"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.6666667,
+		"onjoin": true
+	},
+	{
+		"mob": ["mutantmore:mutant_hoglin"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.4,
 		"onjoin": true
 	},
 	{
@@ -276,7 +325,7 @@
 		"mob": ["mutantmore:mutant_blaze"],
 		"gamestage": "hard",
 		"result": "allow",
-		"healthmultiply": 1.75,
+		"healthmultiply": 1.80,
 		"damagemultiply": 1.50,
 		"onjoin": true
 	},
@@ -1844,7 +1893,7 @@
 		"mob": ["mutantmore:mutant_wither_skeleton"],
 		"gamestage": "nightmare",
 		"result": "allow",
-		"healthmultiply": 2.64705882352,
+		"healthmultiply": 2.5,
 		"onjoin": true
 	},
 	{
@@ -1877,8 +1926,36 @@
 		"mob": ["mutantmore:mutant_blaze"],
 		"gamestage": "nightmare",
 		"result": "allow",
-		"healthmultiply": 2.33333333334,
+		"healthmultiply": 2.20,
 		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["mutantmore:mutant_jungle_zombie"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 6.666667,
+		"onjoin": true
+	},
+	{
+		"mob": ["mutantmore:mutant_frozen_zombie"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 4,
+		"onjoin": true
+	},
+	{
+		"mob": ["mutantmore:mutant_husk"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.222223,
+		"onjoin": true
+	},
+	{
+		"mob": ["mutantmore:mutant_hoglin"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 1.8,
 		"onjoin": true
 	},
 	{
