@@ -488,6 +488,13 @@ ServerEvents.recipes(event => {
 	event.remove({id: 'mutantmore:mutant_wither_skeleton_boots'})
 	event.remove({id: 'mutantmore:mutant_blaze_shields'})
 	event.remove({id: 'mutantmore:mutant_shulker_shield'})
+	event.remove({id: 'mutantmore:husk_hammer'})
+	event.remove({id: 'mutantmore:sand_cannon'})
+	event.remove({id: 'mutantmore:mutant_jungle_zombie_arm'})
+	event.remove({id: 'mutantmore:sentry_vine'})
+	event.remove({id: 'mutantmore:leafblower'})
+	event.remove({id: 'mutantmore:adaptive_crossbow'})
+	event.remove({id: 'mutantmore:icicle_ammo_charge'})
 
 	// Remove Shieldexp item recipes
 	event.remove({id: 'shieldexp:golden_shield'})
