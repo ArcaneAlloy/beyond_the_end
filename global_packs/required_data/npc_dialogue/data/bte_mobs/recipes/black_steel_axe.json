@@ -1,11 +1,11 @@
 {
   "type": "bte_mobs:blacksmith",
   "category": "WEAPONS",
-  "tier": 0,
+  "tier": 2,
   "ingredients": [
     {
       "type": "bte_mobs:item",
-      "item": "minecraft:iron_ingot",
+      "item": "cataclysm:black_steel_ingot",
       "count": 3
     },
     {
@@ -15,6 +15,6 @@
     }
   ],
   "result": {
-    "item": "minecraft:iron_axe"
+    "item": "cataclysm:black_steel_axe"
   }
 }

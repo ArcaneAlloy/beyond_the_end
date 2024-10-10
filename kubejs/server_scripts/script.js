@@ -89,6 +89,7 @@ ServerEvents.recipes(event => {
 	event.remove({output: 'cataclysm:abyss_eye'})
 	event.remove({output: 'cataclysm:void_eye'})
 	event.remove({output: 'cataclysm:desert_eye'})
+	event.remove({output: 'cataclysm:cursed_eye'})
 
 	// Remove Celestisynth craft recipes
 	event.remove({id: 'celestisynth:supernal_netherite_ingot_smithing_from_core'})
@@ -335,6 +336,17 @@ ServerEvents.recipes(event => {
 	event.remove({output: 'cataclysm:abyssal_sacrifice'})
 	event.remove({output: 'cataclysm:ancient_metal_ingot'})
 	event.remove({output: 'cataclysm:ancient_metal_block'})
+	event.remove({output: 'cataclysm:black_steel_sword'})
+	event.remove({output: 'cataclysm:black_steel_axe'})
+	event.remove({output: 'cataclysm:black_steel_pickaxe'})
+	event.remove({output: 'cataclysm:black_steel_axe'})
+	event.remove({output: 'cataclysm:black_steel_hoe'})
+	event.remove({output: 'cataclysm:black_steel_shovel'})
+	event.remove({output: 'cataclysm:black_steel_targe'})
+	event.remove({output: 'cataclysm:ancient_spear'})
+	event.remove({output: 'cataclysm:soul_render'})
+	event.remove({output: 'cataclysm:the_annihilator'})
+	event.remove({output: 'cataclysm:cursed_bow'})
 	event.remove({id: 'cataclysm:smithing/ignitium_helmet'})
 	event.remove({id: 'cataclysm:smithing/ignitium_chestplate'})
 	event.remove({id: 'cataclysm:smithing/ignitium_leggings'})
@@ -348,6 +360,10 @@ ServerEvents.recipes(event => {
 	event.remove({id: 'cataclysm:bloom_stone_pauldrons'})
 	event.remove({id: 'cataclysm:bone_reptile_helmet'})
 	event.remove({id: 'cataclysm:bone_reptile_chestplate'})
+	event.remove({id: 'cataclysm:smithing/cursium_helmet'})
+	event.remove({id: 'cataclysm:smithing/cursium_chestplate'})
+	event.remove({id: 'cataclysm:smithing/cursium_leggings'})
+	event.remove({id: 'cataclysm:smithing/cursium_boots'})
 
 	// Remove Monsters & Mushrooms recipes
 	event.remove({output: 'monstersandmushrooms:bugsy_helmet'})
