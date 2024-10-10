@@ -17,6 +17,7 @@ JEIEvents.hideItems(event => {
 	event.hide('cataclysm:monstrous_eye'),
 	event.hide('cataclysm:abyss_eye'),
 	event.hide('cataclysm:desert_eye'),
+	event.hide('cataclysm:cursed_eye'),
 	event.hide('endrem:wither_eye'),
 	event.hide('endrem:old_eye'),
 	event.hide('alexsmobs:void_worm_eye'),
@@ -616,6 +617,11 @@ JEIEvents.hideItems(event => {
 	event.hide('cataclysm:ignited_berserker_spawn_egg'),
 	event.hide('cataclysm:kobolediator_spawn_egg'),
 	event.hide('cataclysm:wadjet_spawn_egg'),
+	event.hide('cataclysm:aptrgangr_spawn_egg'),
+	event.hide('cataclysm:draugr_spawn_egg'),
+	event.hide('cataclysm:elite_draugr_spawn_egg'),
+	event.hide('cataclysm:maledictus_spawn_egg'),
+	event.hide('cataclysm:royal_draugr_spawn_egg'),
 	event.hide('guardvillagers:guard_spawn_egg'),
 	event.hide('guardvillagers:illusioner_spawn_egg'),
 	event.hide('guardvillagers:iron_golem_spawn_egg'),
@@ -874,6 +880,7 @@ JEIEvents.hideItems(event => {
 	event.hide('cataclysm:ancient_metal_nugget'),
 	event.hide('cataclysm:ancient_metal_ingot'),
 	event.hide('cataclysm:ancient_metal_block'),
+	event.hide('cataclysm:black_steel_targe'),
 	
 	// Hide Monsters & Mushrooms items
 	event.hide('monstersandmushrooms:bugsy_helmet'),

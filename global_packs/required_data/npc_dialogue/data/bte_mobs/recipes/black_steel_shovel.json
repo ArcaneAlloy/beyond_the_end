@@ -1,12 +1,12 @@
 {
   "type": "bte_mobs:blacksmith",
-  "category": "WEAPONS",
-  "tier": 0,
+  "category": "OTHERS",
+  "tier": 2,
   "ingredients": [
     {
       "type": "bte_mobs:item",
-      "item": "minecraft:iron_ingot",
-      "count": 3
+      "item": "cataclysm:black_steel_ingot",
+      "count": 1
     },
     {
       "type": "bte_mobs:item",
@@ -15,6 +15,6 @@
     }
   ],
   "result": {
-    "item": "minecraft:iron_axe"
+    "item": "cataclysm:black_steel_shovel"
   }
 }

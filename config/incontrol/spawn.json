@@ -1000,6 +1000,46 @@
 		"onjoin": true
 	},
 	{
+		"mob": ["cataclysm:aptrgangr"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:draugr"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:elite_draugr"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:maledictus"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:royal_draugr"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
 		"mob": ["minecraft:illusioner"],
 		"gamestage": "hard",
 		"result": "allow",
@@ -2639,6 +2679,46 @@
 		"result": "allow",
 		"healthmultiply": 2.0,
 		"damagemultiply": 2.0,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:aptrgangr"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.00,
+		"damagemultiply": 2.00,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:draugr"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.00,
+		"damagemultiply": 2.00,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:elite_draugr"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.00,
+		"damagemultiply": 2.00,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:maledictus"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.00,
+		"damagemultiply": 2.00,
+		"onjoin": true
+	},
+	{
+		"mob": ["cataclysm:royal_draugr"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.00,
+		"damagemultiply": 2.00,
 		"onjoin": true
 	},
 	{

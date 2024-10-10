@@ -696,7 +696,19 @@
     "attackSpeed": 1.2
   },
   "mutantmore:husk_hammer": {
-    "attackDamage": 13.0,
-    "attackSpeed": 0.8
+    "attackDamage": 8.0,
+    "attackSpeed": 1.4
+  },
+  "cataclysm:soul_render": {
+    "attackDamage": 8.5,
+    "attackSpeed": 1.5
+  },
+  "cataclysm:ancient_spear": {
+    "attackDamage": 7.5,
+    "attackSpeed": 1.7
+  },
+  "cataclysm:the_annihilator": {
+    "attackDamage": 9.0,
+    "attackSpeed": 1.4
   }
 }
