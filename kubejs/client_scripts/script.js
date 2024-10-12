@@ -20,6 +20,7 @@ JEIEvents.hideItems(event => {
 	event.hide('cataclysm:cursed_eye'),
 	event.hide('endrem:wither_eye'),
 	event.hide('endrem:old_eye'),
+	event.hide('endrem:undead_soul')
 	event.hide('alexsmobs:void_worm_eye'),
 	
 	// Hide Altar of Summoning
