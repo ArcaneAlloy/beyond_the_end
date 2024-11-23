@@ -172,8 +172,8 @@
     "attackSpeed": 1.9
   },
   "cataclysm:gauntlet_of_bulwark": {
-    "attackDamage": 6.0,
-    "attackSpeed": 2.4
+    "attackDamage": 5.0,
+    "attackSpeed": 2.5
   },
   "monstersandmushrooms:maggartstaff": {
     "attackDamage": 9.50,
@@ -710,5 +710,13 @@
   "cataclysm:the_annihilator": {
     "attackDamage": 9.0,
     "attackSpeed": 1.4
+  },
+  "cataclysm:the_immolator": {
+    "attackDamage": 9.0,
+    "attackSpeed": 1.4
+  },
+  "cataclysm:gauntlet_of_maelstrom": {
+    "attackDamage": 5.5,
+    "attackSpeed": 2.3
   }
 }
