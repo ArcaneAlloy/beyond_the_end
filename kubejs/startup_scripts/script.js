@@ -9,19 +9,19 @@ StartupEvents.registry('item', event => {
 		.tooltip('\u00A77\u00A7oIt is rough and hard to the touch, but the light it emits is soft and comforting')
 		.fireResistant(true)
 	
-	event.create('endrem:soul_eye')
-		.displayName('\u00A7dSoul Eye')
+	event.create('endrem:carminite_eye')
+		.displayName('\u00A7dCarminite Eye')
 		.tooltip('\u00A77\u00A7oElegant and spooky. Who does this bell call?')
 		.fireResistant(true)
 	
-	event.create('endrem:lucky_eye')
-		.displayName('\u00A7dLucky Eye')
-		.tooltip('\u00A77\u00A7oThis eye shines so much... How many emeralds will it be worth?')
+	event.create('endrem:aurora_eye')
+		.displayName('\u00A7dAurora Eye')
+		.tooltip('\u00A77\u00A7oAn overwhelming cold can be felt from his gaze.')
 		.fireResistant(true)
 	
-	event.create('endrem:mossy_eye')
-		.displayName('\u00A7dMossy Eye')
-		.tooltip('\u00A77\u00A7oBetween the cracks and the mold the soft whisper of the sea can be heard')
+	event.create('endrem:fiery_eye')
+		.displayName('\u00A7dFiery Eye')
+		.tooltip('\u00A77\u00A7oIt looks like it might split apart at any moment.')
 		.fireResistant(true)
 
 	event.create('endrem:abyss_eye')
