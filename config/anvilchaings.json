@@ -1,0 +1,1810 @@
+{
+  "objectChaings": [
+    {
+      "base": "cataclysm:ancient_spear",
+      "newrepair": "cataclysm:cursium_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "celestisynth:aquaflora",
+      "newrepair": "celestisynth:zephyr_deposit",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:arctic_helmet",
+      "newrepair": "twilightforest:arctic_fur",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:arctic_chestplate",
+      "newrepair": "twilightforest:arctic_fur",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:arctic_leggings",
+      "newrepair": "twilightforest:arctic_fur",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:arctic_boots",
+      "newrepair": "twilightforest:arctic_fur",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:avala_helmet",
+      "newrepair": "alexsmobs:ectoplasm",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:avala_chestplate",
+      "newrepair": "alexsmobs:ectoplasm",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:avala_leggings",
+      "newrepair": "alexsmobs:ectoplasm",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:avala_boots",
+      "newrepair": "alexsmobs:ectoplasm",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:battle_robes_helmet",
+      "newrepair": "minecraft:black_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:battle_robes_chestplate",
+      "newrepair": "minecraft:black_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:battle_robes_leggings",
+      "newrepair": "minecraft:black_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:battle_robes_boots",
+      "newrepair": "minecraft:black_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:battlestaff",
+      "newrepair": "minecraft:leather",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:battlestaff_of_terror",
+      "newrepair": "savage_and_ravage:creeper_spores",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:beenest_helmet",
+      "newrepair": "minecraft:honey_bottle",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:beenest_chestplate",
+      "newrepair": "minecraft:honey_bottle",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:beenest_leggings",
+      "newrepair": "minecraft:honey_bottle",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:beenest_boots",
+      "newrepair": "minecraft:honey_bottle",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:beehive_helmet",
+      "newrepair": "minecraft:honeycomb",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:beehive_chestplate",
+      "newrepair": "minecraft:honeycomb",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:beehive_leggings",
+      "newrepair": "minecraft:honeycomb",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:beehive_boots",
+      "newrepair": "minecraft:honeycomb",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:bee_stinger",
+      "newrepair": "minecraft:honey_block",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "mutantmore:withered_scimitar",
+      "newrepair": "mutantmore:mutant_wither_skeleton_limb",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:blazewand",
+      "newrepair": "dungeons_mobs:wildfire_core",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "twilightforest:block_and_chain",
+      "newrepair": "twilightforest:knightmetal_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "alexsmobs:blood_sprayer",
+      "newrepair": "alexsmobs:blood_sac",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:bone_cudgel",
+      "newrepair": "minecraft:bone",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:boneclub",
+      "newrepair": "minecraft:bone",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:bonebow",
+      "newrepair": "minecraft:bone",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:bow_of_lost_souls",
+      "newrepair": "bygonenether:withered_debris",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "celestisynth:breezebreaker",
+      "newrepair": "celestisynth:zephyr_deposit",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:broadsword",
+      "newrepair": "minecraft:iron_block",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:spelunker_helmet",
+      "newrepair": "minecraft:deepslate",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:spelunker_chestplate",
+      "newrepair": "minecraft:deepslate",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:spelunker_leggings",
+      "newrepair": "minecraft:deepslate",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:spelunker_boots",
+      "newrepair": "minecraft:deepslate",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:chill_gale_knife",
+      "newrepair": "quark:green_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:climbing_helmet",
+      "newrepair": "quark:bonded_leather",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:climbing_chestplate",
+      "newrepair": "quark:bonded_leather",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:climbing_leggings",
+      "newrepair": "quark:bonded_leather",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:climbing_boots",
+      "newrepair": "quark:bonded_leather",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:corrupted_crossbow",
+      "newrepair": "quark:soul_bead",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "celestisynth:crescentia",
+      "newrepair": "celestisynth:lunar_scrap",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:curious_helmet",
+      "newrepair": "minecraft:ender_pearl",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:curious_chestplate",
+      "newrepair": "minecraft:ender_pearl",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:curious_leggings",
+      "newrepair": "minecraft:ender_pearl",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:curious_boots",
+      "newrepair": "minecraft:ender_pearl",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:cursed_axe",
+      "newrepair": "minecraft:netherite_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "cataclysm:cursed_bow",
+      "newrepair": "cataclysm:cursium_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:dark_helmet",
+      "newrepair": "quark:red_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:dark_chestplate",
+      "newrepair": "quark:red_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:dark_leggings",
+      "newrepair": "quark:red_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:dark_boots",
+      "newrepair": "quark:red_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:dark_katana",
+      "newrepair": "minecraft:crying_obsidian",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:echo_of_the_valley",
+      "newrepair": "minecraft:emerald",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:elite_power_bow",
+      "newrepair": "minecraft:gold_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:ember_robes_helmet",
+      "newrepair": "minecraft:red_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:ember_robes_chestplate",
+      "newrepair": "minecraft:red_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:ember_robes_leggings",
+      "newrepair": "minecraft:red_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:ember_robes_boots",
+      "newrepair": "minecraft:red_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:emerald_helmet",
+      "newrepair": "minecraft:emerald",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:emerald_chestplate",
+      "newrepair": "minecraft:emerald",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:emerald_leggings",
+      "newrepair": "minecraft:emerald",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:emerald_boots",
+      "newrepair": "minecraft:emerald",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:encrusted_anchor",
+      "newrepair": "minecraft:gold_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:eternal_knife",
+      "newrepair": "minecraft:crying_obsidian",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:evocation_robes_helmet",
+      "newrepair": "minecraft:cyan_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:evocation_robes_chestplate",
+      "newrepair": "minecraft:cyan_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:evocation_robes_leggings",
+      "newrepair": "minecraft:cyan_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:evocation_robes_boots",
+      "newrepair": "minecraft:cyan_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:evoker_helmet",
+      "newrepair": "minecraft:gilded_blackstone",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:evoker_chestplate",
+      "newrepair": "minecraft:gilded_blackstone",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:evoker_leggings",
+      "newrepair": "minecraft:gilded_blackstone",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:evoker_boots",
+      "newrepair": "minecraft:gilded_blackstone",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:fang_of_frost",
+      "newrepair": "alexsmobs:froststalker_horn",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "twilightforest:fiery_helmet",
+      "newrepair": "twilightforest:fiery_blood",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "twilightforest:fiery_chestplate",
+      "newrepair": "twilightforest:fiery_blood",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "twilightforest:fiery_leggings",
+      "newrepair": "twilightforest:fiery_blood",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "twilightforest:fiery_boots",
+      "newrepair": "twilightforest:fiery_blood",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "twilightforest:fiery_sword",
+      "newrepair": "twilightforest:fiery_blood",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "twilightforest:fiery_pickaxe",
+      "newrepair": "twilightforest:fiery_blood",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:fortune_spear",
+      "newrepair": "minecraft:gold_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:freezing_foil",
+      "newrepair": "alexsmobs:froststalker_horn",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:frost_slayer",
+      "newrepair": "alexsmobs:froststalker_horn",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:frost_scythe",
+      "newrepair": "alexsmobs:froststalker_horn",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:frost_helmet",
+      "newrepair": "alexsmobs:froststalker_horn",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:frost_chestplate",
+      "newrepair": "alexsmobs:froststalker_horn",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:frost_leggings",
+      "newrepair": "alexsmobs:froststalker_horn",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:frost_boots",
+      "newrepair": "alexsmobs:froststalker_horn",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "alexsmobs:froststalker_helmet",
+      "newrepair": "alexsmobs:froststalker_horn",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:full_metal_helmet",
+      "newrepair": "quark:yellow_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:full_metal_chestplate",
+      "newrepair": "quark:yellow_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:full_metal_leggings",
+      "newrepair": "quark:yellow_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:full_metal_boots",
+      "newrepair": "quark:yellow_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:gauntlet",
+      "newrepair": "minecraft:leather",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:gilded_glory_helmet",
+      "newrepair": "minecraft:deepslate",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:gilded_glory_chestplate",
+      "newrepair": "minecraft:deepslate",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:gilded_glory_leggings",
+      "newrepair": "minecraft:deepslate",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:gilded_glory_boots",
+      "newrepair": "minecraft:deepslate",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:gnome_helmet",
+      "newrepair": "alexsmobs:chorus_dust",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:gnome_chestplate",
+      "newrepair": "alexsmobs:chorus_dust",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:gnome_leggings",
+      "newrepair": "alexsmobs:chorus_dust",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:gnome_boots",
+      "newrepair": "alexsmobs:chorus_dust",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:goat_helmet",
+      "newrepair": "minecraft:goat_hide",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:goat_chestplate",
+      "newrepair": "minecraft:goat_hide",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:goat_leggings",
+      "newrepair": "minecraft:goat_hide",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:goat_boots",
+      "newrepair": "minecraft:goat_hide",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:grave_bane",
+      "newrepair": "minecraft:gold_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:great_hammer",
+      "newrepair": "minecraft:cobblestone",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "savage_and_ravage:griefer_helmet",
+      "newrepair": "savage_and_ravage:creeper_spores",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "savage_and_ravage:griefer_chestplate",
+      "newrepair": "savage_and_ravage:creeper_spores",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "savage_and_ravage:griefer_leggings",
+      "newrepair": "savage_and_ravage:creeper_spores",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "savage_and_ravage:griefer_boots",
+      "newrepair": "savage_and_ravage:creeper_spores",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "shieldexp:griefer_shield",
+      "newrepair": "savage_and_ravage:creeper_spores",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:grim_helmet",
+      "newrepair": "minecraft:bone",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:grim_chestplate",
+      "newrepair": "minecraft:bone",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:grim_leggings",
+      "newrepair": "minecraft:bone",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:grim_boots",
+      "newrepair": "minecraft:bone",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:growing_staff",
+      "newrepair": "minecraft:netherite_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:gnome_boots",
+      "newrepair": "alexsmobs:chorus_dust",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:guardian_helmet",
+      "newrepair": "minecraft:prismarine_shard",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:guardian_chestplate",
+      "newrepair": "minecraft:prismarine_shard",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:guardian_leggings",
+      "newrepair": "minecraft:prismarine_shard",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:guardian_boots",
+      "newrepair": "minecraft:prismarine_shard",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:haunted_bow",
+      "newrepair": "alexsmobs:void_worm_mandible",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:hawkbrand",
+      "newrepair": "minecraft:emerald_block",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:heartstealer",
+      "newrepair": "minecraft:netherite_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "alexsmobs:hemolymph_blaster",
+      "newrepair": "alexsmobs:hemolymph_sac",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:heros_helmet",
+      "newrepair": "quark:orange_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:heros_chestplate",
+      "newrepair": "quark:orange_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:heros_leggings",
+      "newrepair": "quark:orange_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:heros_boots",
+      "newrepair": "quark:orange_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:highland_helmet",
+      "newrepair": "quark:green_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:highland_chestplate",
+      "newrepair": "quark:green_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:highland_leggings",
+      "newrepair": "quark:green_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:highland_boots",
+      "newrepair": "quark:green_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:hungry_horror_helmet",
+      "newrepair": "alexsmobs:blood_sac",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:hungry_horror_chestplate",
+      "newrepair": "alexsmobs:blood_sac",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:hungry_horror_leggings",
+      "newrepair": "alexsmobs:blood_sac",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:hungry_horror_boots",
+      "newrepair": "alexsmobs:blood_sac",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "mutantmore:husk_hammer",
+      "newrepair": "minecraft:netherite_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:imploding_crossbow",
+      "newrepair": "quark:violet_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:jailors_scythe",
+      "newrepair": "minecraft:netherite_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:jailors_scythe",
+      "newrepair": "minecraft:netherite_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "cataclysm:laser_gatling",
+      "newrepair": "minecraft:redstone",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:lightning_harp_crossbow",
+      "newrepair": "bygonenether:withered_debris",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:magmacubestaff",
+      "newrepair": "mutantmore:mutant_blaze_core_fragment",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:masters_katana",
+      "newrepair": "minecraft:netherite_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:mauler",
+      "newrepair": "alexsmobs:dropbear_claw",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:meangreenwand",
+      "newrepair": "minecraft:slime_core",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:mercenary_helmet",
+      "newrepair": "quark:orange_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:mercenary_chestplate",
+      "newrepair": "quark:orange_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:mercenary_leggings",
+      "newrepair": "quark:orange_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:mercenary_boots",
+      "newrepair": "quark:orange_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:moon_dagger",
+      "newrepair": "illagerrevolutionmod:illagium",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "mutantmore:mutant_shulker_shield",
+      "newrepair": "mutantmore:mutant_shulker_shell",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "mutantmore:mutant_wither_skeleton_skull",
+      "newrepair": "mutantmore:mutant_wither_skeleton_limb",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "mutantmore:mutant_wither_skeleton_chestplate",
+      "newrepair": "mutantmore:mutant_wither_skeleton_limb",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "mutantmore:mutant_wither_skeleton_leggings",
+      "newrepair": "mutantmore:mutant_wither_skeleton_limb",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "mutantmore:mutant_wither_skeleton_boots",
+      "newrepair": "mutantmore:mutant_wither_skeleton_limb",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:nameless_blade",
+      "newrepair": "minecraft:soul_sand",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:nautical_crossbow",
+      "newrepair": "alexsmobs:cachalot_whale_tooth",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:nightmares_bite",
+      "newrepair": "minecraft:netherite_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:opulent_helmet",
+      "newrepair": "minecraft:gold_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:opulent_chestplate",
+      "newrepair": "minecraft:gold_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:opulent_leggings",
+      "newrepair": "minecraft:gold_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:opulent_boots",
+      "newrepair": "minecraft:gold_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:phantom_helmet",
+      "newrepair": "minecraft:phantom_membrane",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:phantom_chestplate",
+      "newrepair": "minecraft:phantom_membrane",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:phantom_leggings",
+      "newrepair": "minecraft:phantom_membrane",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:phantom_boots",
+      "newrepair": "minecraft:phantom_membrane",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:plate_helmet",
+      "newrepair": "quark:red_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:plate_chestplate",
+      "newrepair": "quark:red_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:plate_leggings",
+      "newrepair": "quark:red_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:plate_boots",
+      "newrepair": "quark:red_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "alexsmobs:pocket_sand",
+      "newrepair": "alexsmobs:guster_eye",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "celestisynth:poltergeist",
+      "newrepair": "alexsmobs:ectoplasm",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "celestisynth:rainfall_serenity",
+      "newrepair": "celestisynth:lunar_scrap",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:red_snake",
+      "newrepair": "minecraft:redstone",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:reinforced_mail_helmet",
+      "newrepair": "minecraft:diamond",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:reinforced_mail_chestplate",
+      "newrepair": "minecraft:diamond",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:reinforced_mail_leggings",
+      "newrepair": "minecraft:diamond",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:reinforced_mail_boots",
+      "newrepair": "minecraft:diamond",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:renegade_helmet",
+      "newrepair": "quark:violet_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:renegade_chestplate",
+      "newrepair": "quark:violet_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:renegade_leggings",
+      "newrepair": "quark:violet_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:renegade_boots",
+      "newrepair": "quark:violet_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:resolute_tempest_knife",
+      "newrepair": "quark:green_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:rugged_climbing_helmet",
+      "newrepair": "minecraft:white_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:rugged_climbing_chestplate",
+      "newrepair": "minecraft:white_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:rugged_climbing_leggings",
+      "newrepair": "minecraft:white_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:rugged_climbing_boots",
+      "newrepair": "minecraft:white_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:sabrewing",
+      "newrepair": "alexsmobs:ectoplasm",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:scale_mail_helmet",
+      "newrepair": "quark:indigo_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:scale_mail_chestplate",
+      "newrepair": "quark:indigo_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:scale_mail_leggings",
+      "newrepair": "quark:indigo_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:scale_mail_boots",
+      "newrepair": "quark:indigo_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "alexsmobs:shield_of_the_deep",
+      "newrepair": "minecraft:heart_of_the_sea",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:shivering_bow",
+      "newrepair": "minecraft:netherite_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:slayer_crossbow",
+      "newrepair": "quark:violet_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:snow_helmet",
+      "newrepair": "minecraft:diamond",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:snow_chestplate",
+      "newrepair": "minecraft:diamond",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:snow_leggings",
+      "newrepair": "minecraft:diamond",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:snow_boots",
+      "newrepair": "minecraft:diamond",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "celestisynth:solaris",
+      "newrepair": "celestisynth:solar_crystal",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:soul_helmet",
+      "newrepair": "minecraft:gray_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:soul_chestplate",
+      "newrepair": "minecraft:gray_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:soul_leggings",
+      "newrepair": "minecraft:gray_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:soul_boots",
+      "newrepair": "minecraft:gray_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:soul_fist",
+      "newrepair": "minecraft:netherite_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:soul_hunter_crossbow",
+      "newrepair": "alexsmobs:soul_heart",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:souldancer_helmet",
+      "newrepair": "minecraft:blue_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:souldancer_chestplate",
+      "newrepair": "minecraft:blue_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:souldancer_leggings",
+      "newrepair": "minecraft:blue_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:souldancer_boots",
+      "newrepair": "minecraft:blue_wool",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:spelunker_helmet",
+      "newrepair": "minecraft:copper_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:spelunker_chestplate",
+      "newrepair": "minecraft:copper_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:spelunker_leggings",
+      "newrepair": "minecraft:copper_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:spelunker_boots",
+      "newrepair": "minecraft:copper_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:spider_helmet",
+      "newrepair": "quark:yellow_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:spider_chestplate",
+      "newrepair": "quark:yellow_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:spider_leggings",
+      "newrepair": "quark:yellow_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:spider_boots",
+      "newrepair": "quark:yellow_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:stalwart_helmet",
+      "newrepair": "minecraft:diamond",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:stalwart_chestplate",
+      "newrepair": "minecraft:diamond",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:stalwart_leggings",
+      "newrepair": "minecraft:diamond",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:stalwart_boots",
+      "newrepair": "minecraft:diamond",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:stormlander",
+      "newrepair": "minecraft:dark_prismarine",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:suns_grace",
+      "newrepair": "minecraft:blaze_rod",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:the_last_laugh",
+      "newrepair": "illagerrevolutionmod:illagium",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:the_pink_scoundrel",
+      "newrepair": "minecraft:crimson_planks",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:thief_helmet",
+      "newrepair": "quark:yellow_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:thief_chestplate",
+      "newrepair": "quark:yellow_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:thief_leggings",
+      "newrepair": "quark:yellow_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:thief_boots",
+      "newrepair": "quark:yellow_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:titans_shroud_helmet",
+      "newrepair": "quark:blue_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:titans_shroud_chestplate",
+      "newrepair": "quark:blue_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:titans_shroud_leggings",
+      "newrepair": "quark:blue_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:titans_shroud_boots",
+      "newrepair": "quark:blue_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:twin_bow",
+      "newrepair": "minecraft:netherite_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:venom_glaive",
+      "newrepair": "minecraft:netherite_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:warden_helmeta",
+      "newrepair": "minecraft:sculk",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:warden_chestplate",
+      "newrepair": "minecraft:sculk",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:warden_leggings",
+      "newrepair": "minecraft:sculk",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:warden_boots",
+      "newrepair": "minecraft:sculk",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:whirlwind",
+      "newrepair": "minecraft:dark_prismarine",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:whispering_spear",
+      "newrepair": "minecraft:netherite_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:wither_helmet",
+      "newrepair": "quark:black_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:wither_chestplate",
+      "newrepair": "quark:black_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:wither_leggings",
+      "newrepair": "quark:black_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_gear:wither_boots",
+      "newrepair": "quark:black_corundum_cluster",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:wither_helmet",
+      "newrepair": "bygonenether:withered_debris",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:wither_chestplate",
+      "newrepair": "bygonenether:withered_debris",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:wither_leggings",
+      "newrepair": "bygonenether:withered_debris",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "monstersandmushrooms:wither_boots",
+      "newrepair": "bygonenether:withered_debris",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    }
+  ]
+}
