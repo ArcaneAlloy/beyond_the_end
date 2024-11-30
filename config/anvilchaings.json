@@ -1709,7 +1709,7 @@
       "repair": "100"
     },
     {
-      "base": "monstersandmushrooms:warden_helmeta",
+      "base": "monstersandmushrooms:warden_helmet",
       "newrepair": "minecraft:sculk",
       "oldrepair": "minecraft:diamond",
       "exp": "1",
