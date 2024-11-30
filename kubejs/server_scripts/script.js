@@ -499,7 +499,7 @@ ServerEvents.recipes(event => {
 	event.remove({id: 'savage_and_ravage:blast_proof_plating'})
 
 	// Remove Mutant More item recipes
-	event.remove({id: 'mutantmore:blazing_scimitar'})
+	event.remove({id: 'mutantmore:withered_scimitar'})
 	event.remove({id: 'mutantmore:wither_bomb'})
 	event.remove({id: 'mutantmore:mutant_wither_skeleton_rib_cage'})
 	event.remove({id: 'mutantmore:mutant_wither_skeleton_arms'})
