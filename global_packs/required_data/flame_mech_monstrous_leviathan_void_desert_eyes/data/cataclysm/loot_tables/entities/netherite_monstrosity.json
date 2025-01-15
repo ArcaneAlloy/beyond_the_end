@@ -33,6 +33,16 @@
       ]
     },
     {
+      "name": "cell",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cataclysm:lava_power_cell"
+        }
+      ]
+    },
+    {
       "name": "disc",
       "conditions": [
         {
