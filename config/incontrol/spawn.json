@@ -203,6 +203,30 @@
 
 	// Bosses
 	{
+		"mob": ["beyond_the_end:fallen_dragon"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["beyond_the_end:jellyfish_minion"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
+		"mob": ["beyond_the_end:jellyfish"],
+		"gamestage": "hard",
+		"result": "allow",
+		"healthmultiply": 1.50,
+		"damagemultiply": 1.50,
+		"onjoin": true
+	},
+	{
 		"mob": ["cataclysm:amethyst_crab"],
 		"gamestage": "hard",
 		"result": "allow",
@@ -1884,6 +1908,30 @@
 	// Difficulty Nightmare Game Stages
 
 	// Bosses
+	{
+		"mob": ["beyond_the_end:fallen_dragon"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.00,
+		"damagemultiply": 2.00,
+		"onjoin": true
+	},
+	{
+		"mob": ["beyond_the_end:jellyfish_minion"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.00,
+		"damagemultiply": 2.00,
+		"onjoin": true
+	},
+	{
+		"mob": ["beyond_the_end:jellyfish"],
+		"gamestage": "nightmare",
+		"result": "allow",
+		"healthmultiply": 2.00,
+		"damagemultiply": 2.00,
+		"onjoin": true
+	},
 	{
 		"mob": ["cataclysm:amethyst_crab"],
 		"gamestage": "nightmare",
