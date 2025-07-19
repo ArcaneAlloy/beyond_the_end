@@ -4,10 +4,12 @@
 /////////////////////////////////////
 
 //Common//
-#ifdef THE_FORGOTTEN
-	#include "/lib/common_the_forgotten.glsl"
+#if defined(THE_FORGOTTEN)
+    #include "/lib/common_the_forgotten.glsl"
+#elif defined(NEW_END)
+    #include "/lib/common_new_end.glsl"
 #else
-	#include "/lib/common.glsl"
+    #include "/lib/common.glsl"
 #endif
 #include "/lib/shaderSettings/wavingBlocks.glsl"
 #define WATER_CAUSTIC_STRENGTH 1.0 //[0.7 0.8 0.9 1.0 1.1 1.2 1.3 1.4 1.5 1.6 1.7 1.8 1.9 2.0]

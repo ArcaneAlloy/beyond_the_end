@@ -4,10 +4,12 @@
 /////////////////////////////////////
 
 //Common//
-#ifdef THE_FORGOTTEN
-	#include "/lib/common_the_forgotten.glsl"
+#if defined(THE_FORGOTTEN)
+    #include "/lib/common_the_forgotten.glsl"
+#elif defined(NEW_END)
+    #include "/lib/common_new_end.glsl"
 #else
-	#include "/lib/common.glsl"
+    #include "/lib/common.glsl"
 #endif
 
 #include "/lib/shaderSettings/composite.glsl"
