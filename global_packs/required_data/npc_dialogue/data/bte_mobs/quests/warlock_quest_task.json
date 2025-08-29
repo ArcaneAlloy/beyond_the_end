@@ -6,12 +6,8 @@
   ],
   "answers": [
     {
-      "formattedText": "Craft an item!",
+      "formattedText": "Enchant an item!",
       "action": "open_craft"
-    },
-    {
-      "formattedText": "Repair an item!",
-      "action": "open_repair"
     },
     {
       "formattedText": "Maybe later",
