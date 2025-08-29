@@ -73,6 +73,16 @@ ServerEvents.recipes(event => {
 	event.remove({id: 'minecraft:shield'})
 	event.remove({id: 'minecraft:shears'})
 
+	event.remove({id: 'minecraft:carrot_on_a_stick'});
+	event.remove({id: 'minecraft:diamond_horse_armor'});
+	event.remove({id: 'minecraft:golden_horse_armor'});
+	event.remove({id: 'minecraft:iron_horse_armor'});
+	event.remove({id: 'minecraft:lead'});
+	event.remove({id: 'minecraft:leather_horse_armor'});
+	event.remove({id: 'minecraft:name_tag'});
+	event.remove({id: 'minecraft:saddle'});
+	event.remove({id: 'minecraft:warped_fungus_on_a_stick'});
+
 	// Remove Bigextras recipes
 	event.remove({id: 'bigextras:strong_bow'})
 	event.remove({id: 'bigextras:strong_crossbow'})
@@ -144,6 +154,21 @@ ServerEvents.recipes(event => {
 	event.remove({output: 'experienceobelisk:nightmare_bottle'})
 	event.remove({output: 'experienceobelisk:forgotten_dust'})
 	event.remove({output: 'experienceobelisk:primordial_assembly'})
+	event.remove({output: 'experienceobelisk:calcarine_matrix'})
+	event.remove({output: 'experienceobelisk:cognitive_helmet'})
+	event.remove({output: 'experienceobelisk:cognitive_chestplate'})
+	event.remove({output: 'experienceobelisk:cognitive_leggings'})
+	event.remove({output: 'experienceobelisk:cognitive_boots'})
+	event.remove({output: 'experienceobelisk:cognitive_rod'})
+	event.remove({output: 'experienceobelisk:cognitive_shears'})
+	event.remove({output: 'experienceobelisk:flask_of_poseidon'})
+	event.remove({output: 'experienceobelisk:flask_of_hades'})
+	event.remove({output: 'experienceobelisk:flask_of_chaos'})
+	event.remove({output: 'experienceobelisk:transforming_focus'})
+	event.remove({output: 'experienceobelisk:fluorescent_agar'})
+	event.remove({output: 'experienceobelisk:nutrient_agar'})
+	event.remove({output: 'experienceobelisk:insightful_agar'})
+	event.remove({output: 'experienceobelisk:extravagant_agar'})
 
 	// Remove Target Dummy recipe
 	event.remove({output: 'dummmmmmy:dummy_crafting'})
@@ -270,11 +295,19 @@ ServerEvents.recipes(event => {
 	event.remove({id: 'supplementaries:safe'})
 	event.remove({id: 'supplementaries:key'})
 	event.remove({id: 'suppsquared:heavy_key'})
+	event.remove({id: 'supplementaries:cage'});
+	event.remove({id: 'supplementaries:doormat'});
+	event.remove({id: 'supplementaries:doormat_2'});
+	event.remove({id: 'supplementaries:flute'});
+	event.remove({id: 'supplementaries:fodder'});
+	event.remove({id: 'supplementaries:planter'});
 
 	// Remove Quark recipes
+	event.remove({id: 'quark:automation/crafting/feeding_trough'});
 	event.remove({id: 'quark:tools/crafting/pickarang_heart'})
 	event.remove({id: 'quark:tools/smithing/flamerang_smithing'})
 	event.remove({id: 'quark:tools/smithing/echorang_smithing'})
+	event.remove({id: 'quark:tools/crafting/seed_pouch'});
 
 	// Remove Waystones recipes
 	event.remove({output: 'waystones:waystone'})
@@ -475,6 +508,14 @@ ServerEvents.recipes(event => {
 	event.remove({id: 'alexsmobs:flying_fish_boots'})
 	event.remove({id: 'alexsmobs:tendon_whip'})
 	event.remove({id: 'alexsmobs:moose_headgear'})
+	event.remove({id: 'alexsmobs:chorus_on_a_stick'});
+	event.remove({id: 'alexsmobs:falconry_glove'});
+	event.remove({id: 'alexsmobs:falconry_hood'});
+	event.remove({id: 'alexsmobs:falconry_hood_alt'});
+	event.remove({id: 'alexsmobs:hummingbird_feeder'});
+	event.remove({id: 'alexsmobs:maraca'});
+	event.remove({id: 'alexsmobs:stink_ray'});
+	event.remove({id: 'alexsmobs:straddle_saddle'});
 
 	// Remove Jumbo Furnace Mod recipes
 	event.remove({id: 'jumbofurnace:jumbo_furnace'})
@@ -484,6 +525,35 @@ ServerEvents.recipes(event => {
 	event.remove({id: 'illagerrevolutionmod:bone_undying_rune'})
 	event.remove({id: 'illagerrevolutionmod:rune_table'})
 	event.remove({id: 'illagerrevolutionmod:illagium_apple'})
+	event.remove({id: 'illagerrevolutionmod:beast_staff'});
+	event.remove({id: 'illagerrevolutionmod:raker_claw_diamond'});
+	event.remove({id: 'illagerrevolutionmod:raker_claw_gold'});
+	event.remove({id: 'illagerrevolutionmod:raker_claw_illagium'});
+	event.remove({id: 'illagerrevolutionmod:raker_claw_iron'});
+	event.remove({id: 'illagerrevolutionmod:raker_claw_netherite'});
+	event.remove({id: 'illagerrevolutionmod:mauler_jaw_diamond'});
+	event.remove({id: 'illagerrevolutionmod:mauler_jaw_gold'});
+	event.remove({id: 'illagerrevolutionmod:mauler_jaw_illagium'});
+	event.remove({id: 'illagerrevolutionmod:mauler_jaw_iron'});
+	event.remove({id: 'illagerrevolutionmod:mauler_jaw_netherite'});
+	event.remove({id: 'illagerrevolutionmod:raker_armor_diamond'});
+	event.remove({id: 'illagerrevolutionmod:raker_armor_gold'});
+	event.remove({id: 'illagerrevolutionmod:raker_armor_illagium'});
+	event.remove({id: 'illagerrevolutionmod:raker_armor_iron'});
+	event.remove({id: 'illagerrevolutionmod:raker_armor_netherite'});
+	event.remove({id: 'illagerrevolutionmod:ravager_saddle_diamond'});
+	event.remove({id: 'illagerrevolutionmod:ravager_saddle_gold'});
+	event.remove({id: 'illagerrevolutionmod:ravager_saddle_illagium'});
+	event.remove({id: 'illagerrevolutionmod:ravager_saddle_iron'});
+	event.remove({id: 'illagerrevolutionmod:ravager_saddle_netherite'});
+	event.remove({id: 'illagerrevolutionmod:scrounger_pouch'});
+	
+	// Remove Revamped Wolf Armor recipes
+	event.remove({id: 'revampedwolf:diamond_wolf_armor'});
+	event.remove({id: 'revampedwolf:golden_wolf_armor'});
+	event.remove({id: 'revampedwolf:iron_wolf_armor'});
+	event.remove({id: 'revampedwolf:leather_wolf_armor'});
+	event.remove({id: 'revampedwolf:netherite_wolf_armor'});
 
 	// Remove Full Turtle Armor recipes
 	event.remove({id: 'minecraft:turtle_helmet'})
@@ -515,6 +585,8 @@ ServerEvents.recipes(event => {
 	event.remove({id: 'mutantmore:leafblower'})
 	event.remove({id: 'mutantmore:adaptive_crossbow'})
 	event.remove({id: 'mutantmore:icicle_ammo_charge'})
+	event.remove({id: 'mutantmore:incomplete_formula_y'})
+	event.remove({id: 'mutantmore:incomplete_compound_z'})
 
 	// Remove Shieldexp item recipes
 	event.remove({id: 'shieldexp:golden_shield'})

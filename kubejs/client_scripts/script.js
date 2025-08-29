@@ -72,6 +72,23 @@ JEIEvents.hideItems(event => {
 	event.hide('experienceobelisk:nightmare_bottle'),
 	event.hide('experienceobelisk:forgotten_dust'),
 	event.hide('experienceobelisk:primordial_assembly'),
+	event.hide('experienceobelisk:cognitive_helmet'),
+	event.hide('experienceobelisk:cognitive_chestplate'),
+	event.hide('experienceobelisk:cognitive_leggings'),
+	event.hide('experienceobelisk:cognitive_boots'),
+	event.hide('experienceobelisk:cognitive_rod'),
+	event.hide('experienceobelisk:cognitive_shears'),
+	event.hide('experienceobelisk:flask_of_poseidon'),
+	event.hide('experienceobelisk:flask_of_hades'),
+	event.hide('experienceobelisk:flask_of_chaos'),
+	event.hide('experienceobelisk:transforming_focus'),
+	event.hide('experienceobelisk:fluorescent_agar'),
+	event.hide('experienceobelisk:nutrient_agar'),
+	event.hide('experienceobelisk:insightful_agar'),
+	event.hide('experienceobelisk:extravagant_agar'),
+	event.hide('experienceobelisk:mending_neurogel'),
+	event.hide('experienceobelisk:calcarine_matrix'),
+
 	
 	// Hide Target Dummy
 	event.hide('jumbofurnace:jumbo_furnace'),
@@ -1009,6 +1026,8 @@ JEIEvents.hideItems(event => {
 	event.hide('mutantmore:sentry_vine'),
 	event.hide('mutantmore:adaptive_crossbow'),
 	event.hide('mutantmore:icicle_ammo_charge'),
+	event.hide('mutantmore:incomplete_formula_y'),
+	event.hide('mutantmore:incomplete_compound_z'),
 
 	// Hide Create Items
 	event.hide('create:schematicannon'),
