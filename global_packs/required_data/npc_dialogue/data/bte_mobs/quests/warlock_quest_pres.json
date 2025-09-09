@@ -9,8 +9,12 @@
   ],
   "answers": [
     {
-      "formattedText": "Craft an item!",
+      "formattedText": "Enchant an item!",
       "action": "open_craft"
+    },
+    {
+      "formattedText": "Alquimia",
+      "action": "potion"
     },
     {
       "formattedText": "Maybe later",

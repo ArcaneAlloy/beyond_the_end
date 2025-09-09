@@ -1023,6 +1023,9 @@ ServerEvents.recipes(event => {
 	event.remove({output: 'occultism:stable_wormhole'})
 	event.remove({output: 'occultism:familiar_ring'})
 
+	// Remove Nature's Compass item recipes
+	event.remove({id: 'naturescompass:natures_compass'})
+
 // ====================================================================================================================
 // =============================================== Create Craft Recipes ===============================================
 // ====================================================================================================================

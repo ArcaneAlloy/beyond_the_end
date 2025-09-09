@@ -9,7 +9,12 @@
     {
       "type": "bte_mobs:item",
       "item": "minecraft:goat_horn",
-      "count": 4
+      "count": 1
+    },
+    {
+      "type": "bte_mobs:item",
+      "item": "dungeons_gear:goat_boots",
+      "count": 5
     }
   ],
   "result": {
