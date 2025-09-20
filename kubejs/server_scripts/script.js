@@ -1244,6 +1244,42 @@ ServerEvents.recipes(event => {
 	.itemOutput('1x minecraft:iron_ingot')
 	.recipeTime(25)
 
+	event.recipes.summoningrituals.altar("minecraft:furnace_minecart")
+	.itemOutput('1x minecraft:iron_ingot')
+	.recipeTime(25)
+
+	event.recipes.summoningrituals.altar("minecraft:chest_minecart")
+	.itemOutput('1x minecraft:iron_ingot')
+	.recipeTime(25)
+
+	event.recipes.summoningrituals.altar("minecraft:hopper_minecart")
+	.itemOutput('1x minecraft:iron_ingot')
+	.recipeTime(25)
+
+	event.recipes.summoningrituals.altar("minecraft:tnt_minecart")
+	.itemOutput('1x minecraft:iron_ingot')
+	.recipeTime(25)
+
+	event.recipes.summoningrituals.altar("minecraft:command_block_minecart")
+	.itemOutput('1x minecraft:iron_ingot')
+	.recipeTime(25)
+
+	event.recipes.summoningrituals.altar("supplementaries:dispenser_minecart")
+	.itemOutput('1x minecraft:iron_ingot')
+	.recipeTime(25)
+
+	event.recipes.summoningrituals.altar("minecraft:rail")
+	.itemOutput('1x minecraft:iron_ingot')
+	.recipeTime(25)
+
+	event.recipes.summoningrituals.altar("minecraft:detector_rail")
+	.itemOutput('1x minecraft:iron_ingot')
+	.recipeTime(25)
+
+	event.recipes.summoningrituals.altar("minecraft:activator_rail")
+	.itemOutput('1x minecraft:iron_ingot')
+	.recipeTime(25)
+
 	// Golden
 	event.recipes.summoningrituals.altar("minecraft:golden_helmet")
 	.itemOutput('1x minecraft:gold_ingot')
@@ -1282,6 +1318,10 @@ ServerEvents.recipes(event => {
 	.recipeTime(25)
 
 	event.recipes.summoningrituals.altar("minecraft:golden_horse_armor")
+	.itemOutput('1x minecraft:gold_ingot')
+	.recipeTime(25)
+
+	event.recipes.summoningrituals.altar("minecraft:powered_rail")
 	.itemOutput('1x minecraft:gold_ingot')
 	.recipeTime(25)
 
