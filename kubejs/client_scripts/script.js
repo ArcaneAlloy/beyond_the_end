@@ -640,6 +640,7 @@ JEIEvents.hideItems(event => {
 	event.hide('cataclysm:elite_draugr_spawn_egg'),
 	event.hide('cataclysm:maledictus_spawn_egg'),
 	event.hide('cataclysm:royal_draugr_spawn_egg'),
+	event.hide('cataclysm:netherite_ministrosity_spawn_egg'),
 	event.hide('guardvillagers:guard_spawn_egg'),
 	event.hide('guardvillagers:illusioner_spawn_egg'),
 	event.hide('guardvillagers:iron_golem_spawn_egg'),
