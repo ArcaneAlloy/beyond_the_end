@@ -1,8 +1,0 @@
-{
-  "type": "bte_mobs:warlock_potion_recipe",
-  "potion_effect": "quark:stability",
-  "tier": 1,
-  "ingredient": {
-    "item": "quark:crab_shell"
-  }
-}
