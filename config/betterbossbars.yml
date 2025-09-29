@@ -1,0 +1,275 @@
+bosses:
+    cataclysm:ender_golem:
+        color: purple
+    alexsmobs:warped_mosco:
+        color: blue
+    mutantmore:mutant_blaze:
+        color: yellow
+    mutantmore:mutant_shulker:
+        color: purple
+    mutantmore:mutant_wither_skeleton:
+        color: purple
+    mutantmore:mutant_husk:
+        color: yellow
+    mutantmore:mutant_hoglin:
+        color: red
+    mutantmore:mutant_jungle_zombie:
+        color: green
+    mutantmore:mutant_frozen_zombie:
+        color: blue
+    minecraft:warden:
+        color: blue
+
+bars:
+    
+    # MeetYourFight Bosses
+
+    meetyourfight:swampjaw:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+    meetyourfight:bellringer:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+    meetyourfight:dame_fortuna:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+    meetyourfight:rosalyne:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+
+    # Cataclysm Bosses
+    
+    cataclysm:ender_golem:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+
+    # AlexMobs Bosses
+
+    alexsmobs:warped_mosco:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+    alexsmobs:void_worm:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+
+    # Minecraft Bosses
+
+    minecraft:wither:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+    minecraft:ender_dragon:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+    minecraft:warden:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+
+    # MutantMore Bosses
+
+    mutantmore:mutant_blaze:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+    mutantmore:mutant_shulker:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+    mutantmore:mutant_wither_skeleton:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+    mutantmore:mutant_husk:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+    mutantmore:mutant_hoglin:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+    mutantmore:mutant_jungle_zombie:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+    mutantmore:mutant_frozen_zombie:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+
+    # Twilight Forest Bosses
+
+    twilightforest:ur_ghast:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+
+    twilightforest:snow_queen:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+
+    twilightforest:lich:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+
+    twilightforest:alpha_yeti:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+
+    twilightforest:hydra:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+
+    twilightforest:naga:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+
+    # Beyond The End Bosses
+
+    beyond_the_end:fallen_dragon:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
+
+    beyond_the_end:jellyfish:
+        textureWidth: 200
+        textureHeight: 55
+        xOffset: -9
+        yOffset: -15
+        name:
+            show: false
+            xOffset: 0
+            yOffset: 0
