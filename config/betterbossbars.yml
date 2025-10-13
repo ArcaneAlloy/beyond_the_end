@@ -254,7 +254,7 @@ bars:
 
     # Beyond The End Bosses
 
-    beyond_the_end:fallen_dragon:
+    beyondtheend:fallen_dragon:
         textureWidth: 200
         textureHeight: 55
         xOffset: -9
@@ -264,7 +264,7 @@ bars:
             xOffset: 0
             yOffset: 0
 
-    beyond_the_end:jellyfish:
+    beyondtheend:jellyfish:
         textureWidth: 200
         textureHeight: 55
         xOffset: -9

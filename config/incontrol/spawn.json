@@ -203,7 +203,7 @@
 
 	// Bosses
 	{
-		"mob": ["beyond_the_end:fallen_dragon"],
+		"mob": ["beyondtheend:fallen_dragon"],
 		"gamestage": "hard",
 		"result": "allow",
 		"healthmultiply": 1.50,
@@ -211,7 +211,7 @@
 		"onjoin": true
 	},
 	{
-		"mob": ["beyond_the_end:jellyfish_minion"],
+		"mob": ["beyondtheend:jellyfish_minion"],
 		"gamestage": "hard",
 		"result": "allow",
 		"healthmultiply": 1.50,
@@ -219,7 +219,7 @@
 		"onjoin": true
 	},
 	{
-		"mob": ["beyond_the_end:jellyfish"],
+		"mob": ["beyondtheend:jellyfish"],
 		"gamestage": "hard",
 		"result": "allow",
 		"healthmultiply": 1.50,
@@ -1909,7 +1909,7 @@
 
 	// Bosses
 	{
-		"mob": ["beyond_the_end:fallen_dragon"],
+		"mob": ["beyondtheend:fallen_dragon"],
 		"gamestage": "nightmare",
 		"result": "allow",
 		"healthmultiply": 2.00,
@@ -1917,7 +1917,7 @@
 		"onjoin": true
 	},
 	{
-		"mob": ["beyond_the_end:jellyfish_minion"],
+		"mob": ["beyondtheend:jellyfish_minion"],
 		"gamestage": "nightmare",
 		"result": "allow",
 		"healthmultiply": 2.00,
@@ -1925,7 +1925,7 @@
 		"onjoin": true
 	},
 	{
-		"mob": ["beyond_the_end:jellyfish"],
+		"mob": ["beyondtheend:jellyfish"],
 		"gamestage": "nightmare",
 		"result": "allow",
 		"healthmultiply": 2.00,
