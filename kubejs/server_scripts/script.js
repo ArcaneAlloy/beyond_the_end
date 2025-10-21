@@ -1030,21 +1030,6 @@ ServerEvents.recipes(event => {
 // =============================================== Create Craft Recipes ===============================================
 // ====================================================================================================================
 
-    // Witch Eye
-	event.recipes.summoningrituals.altar("minecraft:ender_pearl")
-	.input(Ingredient.of('endrem:witch_pupil', 1))
-	.itemOutput('1x endrem:witch_eye')
-
-	//Exotic Eye
-	event.recipes.summoningrituals.altar("minecraft:ender_pearl")
-	.input(Ingredient.of('minecraft:bubble_coral', 1))
-	.input(Ingredient.of('minecraft:fire_coral', 1))
-	.input(Ingredient.of('minecraft:horn_coral', 1))
-	.input(Ingredient.of('minecraft:tube_coral', 1))
-	.input(Ingredient.of('minecraft:conduit', 2))
-	.input(Ingredient.of('minecraft:glow_ink_sac', 2))
-	.itemOutput('1x endrem:exotic_eye')
-
 	// Bottle o' Enchanting
 	event.recipes.summoningrituals.altar("minecraft:glass_bottle")
 	.input(Ingredient.of('minecraft:lapis_lazuli', 6))
@@ -1067,8 +1052,8 @@ ServerEvents.recipes(event => {
 	// Enchanted Golden Apple
 	event.recipes.summoningrituals.altar("minecraft:enchanted_iron_apple")
 	.input(Ingredient.of('minecraft:experience_bottle', 24))
-	.input(Ingredient.of('minecraft:gold_block', 8))
-	.input(Ingredient.of('minecraft:diamond_block', 1))
+	.input(Ingredient.of('minecraft:gold_ingot', 64))
+	.input(Ingredient.of('minecraft:diamond', 9))
 	.itemOutput('1x minecraft:enchanted_golden_apple')
 	.recipeTime(25)
 
@@ -1081,7 +1066,7 @@ ServerEvents.recipes(event => {
 	// Enchanted Iron Apple
 	event.recipes.summoningrituals.altar("minecraft:apple")
 	.input(Ingredient.of('minecraft:experience_bottle', 12))
-	.input(Ingredient.of('minecraft:iron_block', 8))
+	.input(Ingredient.of('minecraft:iron_ingot', 64))
 	.itemOutput('1x minecraft:enchanted_iron_apple')
 	.recipeTime(25)
 
