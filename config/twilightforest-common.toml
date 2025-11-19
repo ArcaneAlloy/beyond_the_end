@@ -1,5 +1,5 @@
 #The dimension you can always travel to the Twilight Forest from, as well as the dimension you will return to. Defaults to the overworld. (domain:regname).
-originDimension = "beyondtheend:the_forgotten_realm"
+originDimension = "ender_journey:the_forgotten_realm"
 #Allow portals to the Twilight Forest to be made outside of the 'origin' dimension. May be considered an exploit.
 allowPortalsInOtherDimensions = false
 #Allow portals only for admins (Operators). This severely reduces the range in which the mod usually scans for valid portal conditions, and it scans near ops only.

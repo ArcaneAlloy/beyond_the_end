@@ -1030,6 +1030,17 @@ ServerEvents.recipes(event => {
 // =============================================== Create Craft Recipes ===============================================
 // ====================================================================================================================
 
+	// Backpack
+	event.shaped('backpacked:backpack', [
+		'LLL',
+		'SIS',
+		'LLL'
+	], {
+		L: 'minecraft:leather',
+		S: 'minecraft:string',
+		I: 'minecraft:iron_ingot'
+	})
+
 	// Bottle o' Enchanting
 	event.recipes.summoningrituals.altar("minecraft:glass_bottle")
 	.input(Ingredient.of('minecraft:lapis_lazuli', 6))
