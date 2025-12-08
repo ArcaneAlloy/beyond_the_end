@@ -871,16 +871,16 @@ JEIEvents.hideItems(event => {
 	event.hide('strawstatues:straw_statue'),
 
 	// Hide Potions
-	event.hide('minecraft:potion'),
-	event.hide('minecraft:splash_potion'),
-	event.hide('minecraft:lingering_potion'),
-	event.hide('revised_phantoms:levitation_potion'),
-	event.hide('revised_phantoms:levitation_potion_ext'),
+	//event.hide('minecraft:potion'),
+	//event.hide('minecraft:splash_potion'),
+	//event.hide('minecraft:lingering_potion'),
+	//event.hide('revised_phantoms:levitation_potion'),
+	//event.hide('revised_phantoms:levitation_potion_ext'),
 	event.hide('dynamictrees:dendro_potion'),
 
 	// Hide Enchanted Books & Ancient Tomes
-	event.hide('minecraft:enchanted_book'),
-	event.hide('quark:ancient_tome'),
+	//event.hide('minecraft:enchanted_book'),
+	//event.hide('quark:ancient_tome'),
 
 	// Hide Banned Blocks GUI
 	event.hide('minecraft:anvil'),
