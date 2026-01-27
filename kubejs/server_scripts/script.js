@@ -1041,6 +1041,26 @@ ServerEvents.recipes(event => {
 		I: 'minecraft:iron_ingot'
 	})
 
+	// Exotic Eye
+	event.shaped('endrem:exotic_eye', [
+		'F B',
+		'GEN',
+		'H T'
+	], {
+		F: 'minecraft:fire_coral',
+		B: 'minecraft:bubble_coral',
+		G: 'minecraft:glow_ink_sac',
+		E: 'minecraft:ender_pearl',
+		N: 'minecraft:nautilus_shell',
+		H: 'minecraft:horn_coral',
+		T: 'minecraft:tube_coral'
+	})
+
+	// Witch Eye
+	event.recipes.summoningrituals.altar("minecraft:ender_pearl")
+	.input(Ingredient.of('endrem:witch_pupil', 1))
+	.itemOutput('1x endrem:witch_eye')
+
 	// Bottle o' Enchanting
 	event.recipes.summoningrituals.altar("minecraft:glass_bottle")
 	.input(Ingredient.of('minecraft:lapis_lazuli', 6))
