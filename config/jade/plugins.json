@@ -46,6 +46,12 @@
     "mob_spawner": true,
     "redstone": true
   },
+  "chunkymcchunkface": {
+    "show_time": true
+  },
+  "twilightforest": {
+    "quest_ram_wool": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
