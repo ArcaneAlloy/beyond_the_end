@@ -11,8 +11,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 3.0,
-                "min": 1.0
+                "max": 35.0,
+                "min": 5.0
               },
               "function": "minecraft:set_count"
             },
@@ -25,10 +25,10 @@
               "function": "minecraft:looting_enchant"
             }
           ],
-          "name": "twilightforest:carminite"
+          "name": "twilightforest:hydra_chop"
         }
       ],
-      "rolls": 4.0
+      "rolls": 1.0
     },
     {
       "bonus_rolls": 0.0,
@@ -40,15 +40,15 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 5.0,
-                "min": 1.0
+                "max": 10.0,
+                "min": 7.0
               },
               "function": "minecraft:set_count"
             },
             {
               "count": {
                 "type": "minecraft:uniform",
-                "max": 1.0,
+                "max": 2.0,
                 "min": 0.0
               },
               "function": "minecraft:looting_enchant"
@@ -57,14 +57,14 @@
           "name": "twilightforest:fiery_blood"
         }
       ],
-      "rolls": 2.0
+      "rolls": 1.0
     },
     {
       "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "twilightforest:ur_ghast_trophy"
+          "name": "twilightforest:hydra_trophy"
         }
       ],
       "rolls": 1.0
@@ -75,7 +75,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "endrem:carminite_eye"
+          "name": "endrem:fiery_eye"
         }
       ]
     }

@@ -6,14 +6,24 @@
       "entries": [
         {
           "type": "minecraft:item",
+          "name": "twilightforest:triple_bow"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "twilightforest:seeker_bow"
+        }
+      ],
+      "rolls": 1.0
+    },
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
           "functions": [
             {
               "add": false,
-              "count": {
-                "type": "minecraft:uniform",
-                "max": 3.0,
-                "min": 1.0
-              },
+              "count": 7.0,
               "function": "minecraft:set_count"
             },
             {
@@ -25,10 +35,14 @@
               "function": "minecraft:looting_enchant"
             }
           ],
-          "name": "twilightforest:carminite"
+          "name": "minecraft:packed_ice"
         }
       ],
-      "rolls": 4.0
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 4.0,
+        "min": 1.0
+      }
     },
     {
       "bonus_rolls": 0.0,
@@ -38,33 +52,25 @@
           "functions": [
             {
               "add": false,
-              "count": {
-                "type": "minecraft:uniform",
-                "max": 5.0,
-                "min": 1.0
-              },
+              "count": 16.0,
               "function": "minecraft:set_count"
-            },
-            {
-              "count": {
-                "type": "minecraft:uniform",
-                "max": 1.0,
-                "min": 0.0
-              },
-              "function": "minecraft:looting_enchant"
             }
           ],
-          "name": "twilightforest:fiery_blood"
+          "name": "minecraft:snowball"
         }
       ],
-      "rolls": 2.0
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 5.0,
+        "min": 2.0
+      }
     },
     {
       "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "twilightforest:ur_ghast_trophy"
+          "name": "twilightforest:snow_queen_trophy"
         }
       ],
       "rolls": 1.0
@@ -75,7 +81,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "endrem:carminite_eye"
+          "name": "endrem:aurora_eye"
         }
       ]
     }
