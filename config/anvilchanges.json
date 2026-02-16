@@ -813,8 +813,64 @@
       "repair": "100"
     },
     {
+      "base": "dungeons_mobs:royal_guard_shield",
+      "newrepair": "minecraft:iron_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "dungeons_mobs:vanguard_shield",
+      "newrepair": "minecraft:iron_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "bygonenether:gilded_netherite_shield",
+      "newrepair": "minecraft:netherite_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
       "base": "shieldexp:griefer_shield",
       "newrepair": "savage_and_ravage:creeper_spores",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "shieldexp:golden_shield",
+      "newrepair": "minecraft:gold_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "shieldexp:iron_shield",
+      "newrepair": "minecraft:iron_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "shieldexp:diamond_shield",
+      "newrepair": "minecraft:diamond",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "shieldexp:netherite_shield",
+      "newrepair": "minecraft:netherite_ingot",
+      "oldrepair": "minecraft:diamond",
+      "exp": "1",
+      "repair": "100"
+    },
+    {
+      "base": "minecraft:shield",
+      "newrepair": "minecraft:iron_ingot",
       "oldrepair": "minecraft:diamond",
       "exp": "1",
       "repair": "100"
