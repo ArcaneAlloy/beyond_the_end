@@ -490,13 +490,13 @@
 
 	[tweaks.placeable_sticks]
 		#Allow placeable sticks
-		sticks = true
+		sticks = false
 		#Allow placeable blaze rods
-		blaze_rods = true
+		blaze_rods = false
 
 	[tweaks.placeable_gunpowder]
 		#Allow placeable gunpowder
-		enabled = true
+		enabled = false
 		#Number of ticks it takes for gunpowder to burn 1 stage (out of 8). Increase to slow it down
 		#Range: 0 ~ 20
 		speed = 2
@@ -547,7 +547,7 @@
 
 	[tweaks.placeable_books]
 		#Allow books and enchanted books to be placed on the ground
-		enabled = true
+		enabled = false
 		#Enchantment power bonus given by normal book piles with 4 books. Piles with less books will have their respective fraction of this total. For reference a vanilla bookshelf provides 1
 		#Range: 0.0 ~ 5.0
 		book_power = 1.0
