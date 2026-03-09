@@ -1120,7 +1120,7 @@ ServerEvents.recipes(event => {
 
 	// Haunted Bell
 	event.recipes.summoningrituals.altar("minecraft:bell")
-	.input(Ingredient.of('minecraft:soul_sand', 8))
+	.input(Ingredient.of('quark:soul_bead', 1))
 	.itemOutput('1x altar_of_summoning:hauntedbell')
 
 	// Devil's Ante
