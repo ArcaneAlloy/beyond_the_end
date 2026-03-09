@@ -10,7 +10,7 @@
 	#X of the left edge of the button
 	#[Default: 140]
 	#Range: -500 ~ 500
-	buttonLeftX = 135
+	buttonLeftX = 137
 	#Y of the top edge of the button
 	#[Default: 61]
 	#Range: -500 ~ 500
