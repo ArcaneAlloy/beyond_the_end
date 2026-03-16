@@ -1,0 +1,16 @@
+{
+  "__comment": "This is a blocklist for the target of Jade. You can add registry ids to the \"values\" list. Restart the game to apply changes.",
+  "values": [
+    "minecraft:barrier",
+    "bte_mobs:explorer_table",
+    "bte_mobs:magma_forge",
+    "bte_mobs:oriana_oak",
+    "meaddon:button_block_middle",
+    "ender_journey:the_new_end_portal",
+    "ender_journey:column",
+    "ender_journey:portal_end",
+    "ender_journey:portal_nether",
+    "ender_journey:portal_overworld"
+  ],
+  "version": 1
+}
