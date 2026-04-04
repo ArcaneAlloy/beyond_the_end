@@ -1,4 +1,5 @@
 {
+
   "item.endrem.old_eye": "Old Eye",
   "item.endrem.old_eye.description": "§7§oLegends say this eye once belonged to one of the great Sandworms",
 
@@ -144,5 +145,71 @@
   "advancements.main.parasite_eye.description": "§7§oFree the void from its parasitic menace.",
 
   "advancements.main.desert_eye.title": "This belongs in a museum",
-  "advancements.main.desert_eye.description": "§7§oDefeat the Ancient Remnant and extinguish it forever."
+  "advancements.main.desert_eye.description": "§7§oDefeat the Ancient Remnant and extinguish it forever.",
+
+  "item.endrem.sculk_eye": "Sculk Eye",
+  "tooltip.endrem.sculk_eye": "§7§oIt is rough and hard to the touch, but the light it emits is soft and comforting",
+
+  "item.endrem.carminite_eye": "Carminite Eye",
+  "tooltip.endrem.carminite_eye": "§7§oIt gives off a horrible, ghostly feeling",
+
+  "item.endrem.aurora_eye": "Aurora Eye",
+  "tooltip.endrem.aurora_eye": "§7§oAn overwhelming cold can be felt from its gaze.",
+
+  "item.endrem.fiery_eye": "Fiery Eye",
+  "tooltip.endrem.fiery_eye": "§7§oIt looks like it might split apart at any moment.",
+
+  "item.endrem.abyss_eye": "Abyss Eye",
+  "tooltip.endrem.abyss_eye": "§7§oA symbol of dominance over the deep waters, it exudes an enigmatic power",
+
+  "item.endrem.mech_eye": "Mech Eye",
+  "tooltip.endrem.mech_eye": "§7§oA glimmering artifact that twists and resonates at its inner core",
+
+  "item.endrem.monstrous_eye": "Monstrous Eye",
+  "tooltip.endrem.monstrous_eye": "§7§oYou can feel a pulsating heat along with the whisper of the fire",
+
+  "item.endrem.void_eye": "Void Eye",
+  "tooltip.endrem.void_eye": "§7§oThe void's pulsing energy emanates from within. Threatening.",
+
+  "item.endrem.flame_eye": "Flame Eye",
+  "tooltip.endrem.flame_eye": "§7§oThe Flame Eye, a symbol of strength and honor. Use it with dignity.",
+
+  "item.endrem.parasite_eye": "Parasite Eye",
+  "tooltip.endrem.parasite_eye": "§7§oAn eye with an empty look that rumbles and vibrates in your hand.",
+
+  "item.endrem.desert_eye": "Desert Eye",
+  "tooltip.endrem.desert_eye": "§7§oIts bright pupil reflects the vestiges of a very ancient era.",
+
+  "item.minecraft.shulker_head": "Shulker Head",
+  "tooltip.minecraft.shulker_head": "§7§oA remnant of the armored creature, its hollow interior seems to whisper of the Void.",
+
+  "item.dungeons_mobs.wildfire_core": "Wildfire Core",
+  "tooltip.dungeons_mobs.wildfire_core": "§7§oForged in scorched flames, this core pulses with the wrath of a ruler who once ruled the Nether Fortress.",
+
+  "item.minecraft.slime_core": "Slime Core",
+  "tooltip.minecraft.slime_core": "§7§oThough inert, it trembles as if eager to split and multiply once more.",
+
+  "item.alexsmobs.chorus_dust": "Chorus Dust",
+  "tooltip.alexsmobs.chorus_dust": "§7§oCollected from the drifting wake of a fallen Endergrade, this dust pulses with the gentle hum of End energy.",
+
+  "item.alexsmobs.ectoplasm": "Ectoplasm",
+  "tooltip.alexsmobs.ectoplasm": "§7§oA formless essence, neither solid nor air, lingering from a ghostly being.",
+
+  "item.mutantmore.mutant_blaze_core_fragment": "Mutant Blaze Core Fragment",
+  "tooltip.mutantmore.mutant_blaze_core_fragment": "§7§oEven divided, each fragment pulses with the wrath of a fallen Mutant Blaze.",
+
+  "item.cataclysm.void_core_fragment": "Void Core Fragment",
+  "tooltip.cataclysm.void_core_fragment": "§7§oFragmented from a greater core, it radiates a dangerous pull toward nothingness.",
+
+  "item.dungeons_mobs.wind_essence": "Wind Essence",
+  "tooltip.dungeons_mobs.wind_essence": "§7§oInvisible currents whirl within, a bottled breath of storm and sky.",
+
+  "item.cataclysm.ender_guardian_arm": "Ender Guardian Arm",
+  "tooltip.cataclysm.ender_guardian_arm": "§7§oHeavy and unyielding, this arm carries the essence of the titan it once belonged to.",
+
+  "item.cataclysm.heater_engine": "Heater Engine",
+  "tooltip.cataclysm.heater_engine": "§7§oA blazing relic of the Monstrosity, its inner fire still roars like a furnace unquenched.",
+
+  "item.minecraft.goat_hide": "Goat Hide",
+  "tooltip.minecraft.goat_hide": "§7§oThe hide of a sure-footed climber, still echoing the chill of the mountains."
 }
