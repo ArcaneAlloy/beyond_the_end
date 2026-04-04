@@ -47,6 +47,12 @@ ServerEvents.recipes(event => {
 	event.remove({id: 'minecraft:golden_leggings'})
 	event.remove({id: 'minecraft:golden_boots'})
 
+	event.remove({id: 'minecraft:stone_sword'})
+	event.remove({id: 'minecraft:stone_shovel'})
+	event.remove({id: 'minecraft:stone_pickaxe'})
+	event.remove({id: 'minecraft:stone_axe'})
+	event.remove({id: 'minecraft:stone_hoe'})
+	
 	event.remove({id: 'minecraft:iron_sword'})
 	event.remove({id: 'minecraft:iron_shovel'})
 	event.remove({id: 'minecraft:iron_pickaxe'})
