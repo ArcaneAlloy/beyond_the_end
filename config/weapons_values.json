@@ -75,6 +75,26 @@
     "attackDamage": 8.0,
     "attackSpeed": 1.0
   },
+  "cataclysm:black_steel_axe": {
+    "attackDamage": 8.0,
+    "attackSpeed": 1.0
+  },
+  "twilightforest:knightmetal_axe": {
+    "attackDamage": 8.0,
+    "attackSpeed": 1.0
+  },
+  "twilightforest:steeleaf_axe": {
+    "attackDamage": 7.0,
+    "attackSpeed": 1.0
+  },
+  "twilightforest:golden_minotaur_axe": {
+    "attackDamage": 10.0,
+    "attackSpeed": 0.9
+  },
+  "twilightforest:diamond_minotaur_axe": {
+    "attackDamage": 10.50,
+    "attackSpeed": 1.0
+  },
   "phantasm:stellium_axe": {
     "attackDamage": 13.0,
     "attackSpeed": 0.9
@@ -244,6 +264,10 @@
     "attackSpeed": 3.0
   },
   "phantasm:stellium_pickaxe": {
+    "attackDamage": 0.0,
+    "attackSpeed": 3.0
+  },
+   "cataclysm:black_steel_pickaxe": {
     "attackDamage": 0.0,
     "attackSpeed": 3.0
   },
@@ -659,17 +683,13 @@
     "attackDamage": 0,
     "attackSpeed": 1
   },
-  "twilightforest:ironwood_pickaxe": {
-    "attackDamage": 0,
-    "attackSpeed": 1.2
-  },
   "twilightforest:ironwood_hoe": {
     "attackDamage": 0,
     "attackSpeed": 3
   },
   "twilightforest:fiery_pickaxe": {
     "attackDamage": 0,
-    "attackSpeed": 1.2
+    "attackSpeed": 3
   },
   "twilightforest:steeleaf_shovel": {
     "attackDamage": 0,
@@ -677,15 +697,19 @@
   },
   "twilightforest:steeleaf_pickaxe": {
     "attackDamage": 0,
-    "attackSpeed": 1.2
+    "attackSpeed": 3
   },
   "twilightforest:steeleaf_hoe": {
     "attackDamage": 0,
     "attackSpeed": 3
   },
+  "twilightforest:ironwood_pickaxe": {
+    "attackDamage": 0,
+    "attackSpeed": 3
+  },
   "twilightforest:mazebreaker_pickaxe": {
     "attackDamage": 0,
-    "attackSpeed": 1.2
+    "attackSpeed": 3
   },
   "twilightforest:giant_pickaxe": {
     "attackDamage": 0,
@@ -693,7 +717,7 @@
   },
   "twilightforest:knightmetal_pickaxe": {
     "attackDamage": 0,
-    "attackSpeed": 1.2
+    "attackSpeed": 3
   },
   "mutantmore:husk_hammer": {
     "attackDamage": 8.0,
