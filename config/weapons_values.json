@@ -87,6 +87,10 @@
     "attackDamage": 6.5,
     "attackSpeed": 1.6
   },
+    "twilightforest:steeleaf_sword": {
+    "attackDamage": 6,
+    "attackSpeed": 1.6
+  },
   "twilightforest:steeleaf_axe": {
     "attackDamage": 7.0,
     "attackSpeed": 1.0
@@ -685,7 +689,7 @@
   },
   "twilightforest:ironwood_shovel": {
     "attackDamage": 0,
-    "attackSpeed": 1
+    "attackSpeed": 3
   },
   "twilightforest:ironwood_hoe": {
     "attackDamage": 0,
@@ -697,7 +701,7 @@
   },
   "twilightforest:steeleaf_shovel": {
     "attackDamage": 0,
-    "attackSpeed": 1
+    "attackSpeed": 3
   },
   "twilightforest:steeleaf_pickaxe": {
     "attackDamage": 0,
