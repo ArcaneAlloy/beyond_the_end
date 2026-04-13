@@ -83,6 +83,10 @@
     "attackDamage": 8.0,
     "attackSpeed": 1.0
   },
+    "twilightforest:knightmetal_sword": {
+    "attackDamage": 6.5,
+    "attackSpeed": 1.6
+  },
   "twilightforest:steeleaf_axe": {
     "attackDamage": 7.0,
     "attackSpeed": 1.0
