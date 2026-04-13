@@ -1352,11 +1352,11 @@
 
 		[mobs.crabs.spawn_config]
 			#Allowed values: (0,)
-			"Spawn Weight" = 5
+			"Spawn Weight" = 15
 			#Allowed values: [1,)
-			"Min Group Size" = 1
+			"Min Group Size" = 3
 			#Allowed values: [1,)
-			"Max Group Size" = 3
+			"Max Group Size" = 5
 
 			[mobs.crabs.spawn_config.biomes]
 
