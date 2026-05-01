@@ -1047,21 +1047,6 @@ ServerEvents.recipes(event => {
 		I: 'minecraft:iron_ingot'
 	})
 
-	// Exotic Eye
-	event.shaped('endrem:exotic_eye', [
-		'F B',
-		'GEN',
-		'H T'
-	], {
-		F: 'minecraft:fire_coral',
-		B: 'minecraft:bubble_coral',
-		G: 'minecraft:glow_ink_sac',
-		E: 'minecraft:ender_pearl',
-		N: 'minecraft:nautilus_shell',
-		H: 'minecraft:horn_coral',
-		T: 'minecraft:tube_coral'
-	})
-
 	// Witch Eye
 	event.recipes.summoningrituals.altar("minecraft:ender_pearl")
 	.input(Ingredient.of('endrem:witch_pupil', 1))
@@ -1116,42 +1101,6 @@ ServerEvents.recipes(event => {
 	event.recipes.summoningrituals.altar("bygonenether:warped_ender_pearl")
 	.itemOutput('1x minecraft:ender_pearl')
 	.recipeTime(25)
-
-	// Fossil Bait
-	event.recipes.summoningrituals.altar("minecraft:tropical_fish")
-	.input(Ingredient.of('minecraft:rotten_flesh', 4))
-	.input(Ingredient.of('minecraft:bone', 2))
-	.input(Ingredient.of('minecraft:spider_eye', 2))
-	.itemOutput('1x altar_of_summoning:fossilbait')
-
-	// Haunted Bell
-	event.recipes.summoningrituals.altar("minecraft:bell")
-	.input(Ingredient.of('quark:soul_bead', 1))
-	.itemOutput('1x altar_of_summoning:hauntedbell')
-
-	// Devil's Ante
-	event.recipes.summoningrituals.altar("alexsmobs:blood_sac")
-	.input(Ingredient.of('minecraft:quartz', 8))
-	.itemOutput('1x altar_of_summoning:devilsante')
-
-	// Dusk Key
-	event.recipes.summoningrituals.altar("mimic:mimic_key")
-	.input(Ingredient.of('minecraft:amethyst_shard', 2))
-	.input(Ingredient.of('minecraft:blackstone', 2))
-	.input(Ingredient.of('minecraft:allium', 1))
-	.itemOutput('1x altar_of_summoning:duskkey')
-
-	// Abyssal Sacrifice
-	event.recipes.summoningrituals.altar("minecraft:heart_of_the_sea")
-	.input(Ingredient.of('cataclysm:athame', 1))
-	.input(Ingredient.of('minecraft:nautilus_shell', 1))
-	.input(Ingredient.of('cataclysm:crystallized_coral', 1))
-	.input(Ingredient.of('minecraft:diamond_block', 1))
-	.input(Ingredient.of('minecraft:iron_block', 1))
-	.input(Ingredient.of('minecraft:emerald_block', 1))
-	.input(Ingredient.of('minecraft:gold_block', 1))
-	.input(Ingredient.of('minecraft:amethyst_block', 1))
-	.itemOutput('1x cataclysm:abyssal_sacrifice')
 
 	// Chests
 	event.shapeless('minecraft:chest', ['1x upgrade_aquatic:driftwood_chest']),
@@ -1262,46 +1211,6 @@ ServerEvents.recipes(event => {
 	.itemOutput('1x minecraft:iron_ingot')
 	.recipeTime(25)
 
-	event.recipes.summoningrituals.altar("minecraft:minecart")
-	.itemOutput('1x minecraft:iron_ingot')
-	.recipeTime(25)
-
-	event.recipes.summoningrituals.altar("minecraft:furnace_minecart")
-	.itemOutput('1x minecraft:iron_ingot')
-	.recipeTime(25)
-
-	event.recipes.summoningrituals.altar("minecraft:chest_minecart")
-	.itemOutput('1x minecraft:iron_ingot')
-	.recipeTime(25)
-
-	event.recipes.summoningrituals.altar("minecraft:hopper_minecart")
-	.itemOutput('1x minecraft:iron_ingot')
-	.recipeTime(25)
-
-	event.recipes.summoningrituals.altar("minecraft:tnt_minecart")
-	.itemOutput('1x minecraft:iron_ingot')
-	.recipeTime(25)
-
-	event.recipes.summoningrituals.altar("minecraft:command_block_minecart")
-	.itemOutput('1x minecraft:iron_ingot')
-	.recipeTime(25)
-
-	event.recipes.summoningrituals.altar("supplementaries:dispenser_minecart")
-	.itemOutput('1x minecraft:iron_ingot')
-	.recipeTime(25)
-
-	event.recipes.summoningrituals.altar("minecraft:rail")
-	.itemOutput('1x minecraft:iron_ingot')
-	.recipeTime(25)
-
-	event.recipes.summoningrituals.altar("minecraft:detector_rail")
-	.itemOutput('1x minecraft:iron_ingot')
-	.recipeTime(25)
-
-	event.recipes.summoningrituals.altar("minecraft:activator_rail")
-	.itemOutput('1x minecraft:iron_ingot')
-	.recipeTime(25)
-
 	// Golden
 	event.recipes.summoningrituals.altar("minecraft:golden_helmet")
 	.itemOutput('1x minecraft:gold_ingot')
@@ -1340,10 +1249,6 @@ ServerEvents.recipes(event => {
 	.recipeTime(25)
 
 	event.recipes.summoningrituals.altar("minecraft:golden_horse_armor")
-	.itemOutput('1x minecraft:gold_ingot')
-	.recipeTime(25)
-
-	event.recipes.summoningrituals.altar("minecraft:powered_rail")
 	.itemOutput('1x minecraft:gold_ingot')
 	.recipeTime(25)
 
