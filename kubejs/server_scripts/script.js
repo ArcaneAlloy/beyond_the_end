@@ -1047,6 +1047,23 @@ ServerEvents.recipes(event => {
 		I: 'minecraft:iron_ingot'
 	})
 
+	// Abyssal Sacrifice
+	event.shaped('cataclysm:abyssal_sacrifice', [
+		'ANC',
+		'DIE',
+		'GMH'
+	], {
+		A: 'cataclysm:athame',
+		N: 'minecraft:nautilus_shell',
+		C: 'cataclysm:crystallized_coral',
+		D: 'minecraft:diamond_block',
+		I: 'minecraft:iron_block',
+		E: 'minecraft:emerald_block',
+		G: 'minecraft:gold_block',
+		M: 'minecraft:amethyst_block',
+		H: 'minecraft:heart_of_the_sea',
+	})
+
 	// Witch Eye
 	event.recipes.summoningrituals.altar("minecraft:ender_pearl")
 	.input(Ingredient.of('endrem:witch_pupil', 1))
