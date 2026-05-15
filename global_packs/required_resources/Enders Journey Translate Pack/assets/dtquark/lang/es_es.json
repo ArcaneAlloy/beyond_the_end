@@ -1,0 +1,22 @@
+{
+  "block.dtquark.ancient_branch": "Árbol Ancestral",
+  "block.dtquark.blossom_branch": "Árbol Floreciente",
+  "block.dtquark.azalea_branch": "Árbol de Azalea",
+  "block.dtquark.glow_shroom_branch": "Hongo Luminoso",
+  "species.dtquark.fiery_blossom": "Ígnea",
+  "species.dtquark.frosty_blossom": "Helada",
+  "species.dtquark.serene_blossom": "Serena",
+  "species.dtquark.sunny_blossom": "Soleada",
+  "species.dtquark.sweet_blossom": "Dulce",
+  "species.dtquark.warm_blossom": "Cálida",
+  "species.dtquark.glow_shroom": "Hongo Luminoso",
+  "species.dtquark.ancient": "Ancestral",
+  "item.dtquark.fiery_blossom_seed": "Semilla de Flor Ígnea",
+  "item.dtquark.frosty_blossom_seed": "Semilla de Flor Helada",
+  "item.dtquark.serene_blossom_seed": "Semilla de Flor Serena",
+  "item.dtquark.sunny_blossom_seed": "Semilla de Flor Soleada",
+  "item.dtquark.sweet_blossom_seed": "Semilla de Flor Dulce",
+  "item.dtquark.warm_blossom_seed": "Semilla de Flor Cálida",
+  "item.dtquark.glow_shroom_seed": "Sombrero de Hongo Luminoso",
+  "item.dtquark.ancient_seed": "Semillas Ancestrales"
+}

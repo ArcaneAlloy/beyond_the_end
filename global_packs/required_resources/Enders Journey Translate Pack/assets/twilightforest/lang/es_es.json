@@ -1,0 +1,8 @@
+{
+  "enchantment.twilightforest.fire_react": "Reacción al Fuego",
+  "enchantment.twilightforest.fire_react.desc": "Añade una probabilidad de prender fuego al atacante cuando golpea al portador.",
+  "enchantment.twilightforest.chill_aura": "Aura Gélida",
+  "enchantment.twilightforest.chill_aura.desc": "Añade una probabilidad de que el atacante quede congelado al golpear al portador.",
+  "enchantment.twilightforest.destruction": "Destrucción",
+  "enchantment.twilightforest.destruction.desc": "Permite a la Bola y Cadena romper bloques con un nivel de minería superior."
+}

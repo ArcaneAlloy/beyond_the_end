@@ -1,0 +1,13 @@
+{
+  "backpacked.button.show_enchantment_glint.tooltip": "Mostrar brillo de encantamiento",
+  "enchantment.backpacked.funnelling": "Embudo",
+  "enchantment.backpacked.funnelling.desc": "Envía directamente a la Mochila los objetos obtenidos al minar o recolectar ciertos recursos.",
+  "enchantment.backpacked.repairman": "Reparador",
+  "enchantment.backpacked.repairman.desc": "Repara todos los objetos con Reparación que haya en la Mochila al recoger experiencia.",
+  "enchantment.backpacked.looted": "Saqueado",
+  "enchantment.backpacked.looted.desc": "El botín que sueltan los mobs al morir se coloca directamente en la Mochila.",
+  "enchantment.backpacked.imbued_hide": "Cuero Imbuido",
+  "enchantment.backpacked.imbued_hide.desc": "Refuerza el material de la Mochila para protegerla del daño por fuego.",
+  "enchantment.backpacked.marksman": "Tirador de Élite",
+  "enchantment.backpacked.marksman.desc": "Permite a los arcos recuperar flechas de la Mochila. También funciona con otros objetos lanzables y sus proyectiles correspondientes."
+}
