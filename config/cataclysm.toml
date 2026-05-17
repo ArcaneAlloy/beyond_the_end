@@ -11,7 +11,7 @@
 	"custombossbar(on/off)" = false
 	#BossMusic(on/off)
 	"BossMusic(on/off)" = true
-	#BossMusicVolume
+	#BossMusicVolume(denominator)
 	#Range: 1 ~ 1000000
 	BossMusicVolume = 2
 
@@ -26,9 +26,9 @@
 	#Range: 0.0 ~ 1000000.0
 	DeathLaserdamage = 5.0
 	#Death Laser's Hp Damage
-	#Range: 0.0 ~ 1.0
+	#Range: 0.0 ~ 100.0
 	DeathLaserHpdamage = 0.05
-	#Laser's Damage
+	#Player's Laser's Damage
 	#Range: 0.0 ~ 1000000.0
 	Laserdamage = 4.0
 	#Blazing Bone's Damage
@@ -91,10 +91,10 @@
 	#Range: 0.0 ~ 1000000.0
 	EnderGuardianDamageMultiplier = 1.0
 	#EnderGuardian's DamageCap
-	#Range: 0 ~ 1000000
+	#Range: 0.0 ~ 1000000.0
 	EnderGuardianDamageCap = 1000000
 	#Ender guardian's block breaking ignore the MobGriefing
-	EnderguardianBlockBreaking = true
+	EnderguardianBlockBreaking = false
 	#Guardian's Immune to Long distance attack range.
 	#Range: 1.0 ~ 1000000.0
 	"Guardian's prevent attacks from far away Range" = 12.0
@@ -143,7 +143,7 @@
 	#Range: 0.0 ~ 1000000.0
 	MonstrosityDamageMultiplier = 1.0
 	#Monstrosity's DamageCap
-	#Range: 0 ~ 1000000
+	#Range: 0.0 ~ 1000000.0
 	MonstrosityDamageCap = 1000000
 	#Monstrosity's bodyBlocking verdict
 	NetheritemonstrosityBodyBloking = true
@@ -160,7 +160,7 @@
 	#Range: 0.0 ~ 1000000.0
 	MonstrosityNatureHealing = 10.0
 	#Monstrosity's block breaking ignore the MobGriefing
-	monstrosityBlockBreaking = true
+	monstrosityBlockBreaking = false
 
 ["Ender Golem"]
 	#Ender Golem's block breaking ignore the MobGriefing
@@ -186,10 +186,10 @@
 	#Range: 1.0 ~ 1000000.0
 	"Ignis's prevent attacks from far away Range" = 15.0
 	#Ignis's DamageCap
-	#Range: 0 ~ 1000000
+	#Range: 0.0 ~ 1000000.0
 	IgnisDamageCap = 1000000
 	#Ignis's cracked block breaking ignore the MobGriefing
-	IgnisBlockBreaking = true
+	IgnisBlockBreaking = false
 	#Ignis's Healing Multiplier
 	#Range: 0.0 ~ 1000000.0
 	IgnisHealingMultiplier = 1.0
@@ -216,7 +216,7 @@
 	#Range: 1.0 ~ 1000000.0
 	"The Harbinger's prevent attacks from far away Range" = 35.0
 	#Harbinger's DamageCap
-	#Range: 0 ~ 1000000
+	#Range: 0.0 ~ 1000000.0
 	"The Harbinger DamageCap" = 1000000
 	#Harbinger's lasers can light a fire in MobGriefing
 	"The Harbinger Light A Fire" = true
@@ -266,9 +266,18 @@
 	#WASW's Wither Missile's Damage
 	#Range: 0.0 ~ 1000000.0
 	"WASW's WitherMissiledamage" = 16.0
-	#Sandstorm's Timer
+	#Sandstorm's cooldown
 	#Range: 0 ~ 1000000
-	SandstormTimer = 160
+	Sandstormcooldown = 300
+	#Soul Render's Timer
+	#Range: 0 ~ 1000000
+	SoulRenderCooldown = 100
+	#Gauntlet of Maelstrom's Timer
+	#Range: 0 ~ 1000000
+	gauntletofMaelstromCooldown = 180
+	#The Immolator's Timer
+	#Range: 0 ~ 1000000
+	immolatorCooldown = 300
 
 ["The Leviathan"]
 	#Leviathan's Health Multiplier
@@ -293,10 +302,10 @@
 	#Range: 0.0 ~ 1.0
 	"Leviathan's Tentacle Hp Damage" = 0.03
 	#Leviathan's DamageCap
-	#Range: 0 ~ 1000000
+	#Range: 0.0 ~ 1000000.0
 	LeviathanDamageCap = 1000000
 	#Leviathan's block breaking ignore the MobGriefing
-	LeviathanBlockBreaking = true
+	LeviathanBlockBreaking = false
 	#Leviathan Immune Out of Water
 	LeviathanImmuneOutofWater = true
 	#Leviathan's Healing with out target
@@ -408,10 +417,10 @@
 	#Range: 1.0 ~ 1000000.0
 	"Ancient Remnant's prevent attacks from far away Range" = 15.0
 	#Ancient Remnant's DamageCap
-	#Range: 0 ~ 1000000
+	#Range: 0.0 ~ 1000000.0
 	AncientRemnantCap = 1000000
 	#Ancient Remnant's block breaking ignore the MobGriefing
-	AncientRemnantBlockBreaking = true
+	AncientRemnantBlockBreaking = false
 	#Remnant's Charge Hp Damage
 	#Range: 0.0 ~ 1.0
 	"Remnant's Charge Hp Damage" = 0.07
@@ -489,7 +498,7 @@
 	#Range: 0.0 ~ 1000000.0
 	"Maledictus's Phantom Arrow Damage" = 5.0
 	#Maledictus's cracked block breaking ignore the MobGriefing
-	MaledictusBlockBreaking = true
+	MaledictusBlockBreaking = false
 
 [Block]
 	#Cursed Tombstone Summon cooldown Minute
