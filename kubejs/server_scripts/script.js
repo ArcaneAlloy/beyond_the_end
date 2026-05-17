@@ -96,7 +96,7 @@ ServerEvents.recipes(event => {
 	// Remove End Remastered Ender Eyes craft recipes
 	event.remove({output: 'endrem:witch_eye'})
 	event.remove({output: 'endrem:undead_eye'})
-	event.remove({output: 'endrem:exotic_eye'})
+	event.remove({id: 'endrem:exotic_eye'})
 
 	// Remove Cataclysm Ender Eyes craft recipes
 	event.remove({output: 'cataclysm:mech_eye'})
@@ -1035,6 +1035,10 @@ ServerEvents.recipes(event => {
 // ====================================================================================================================
 // =============================================== Create Craft Recipes ===============================================
 // ====================================================================================================================
+
+	// Poisonous Essence
+	event.shapeless('alexsmobs:poison_bottle', ['1x alexsmobs:centipede_leg', 'minecraft:glass_bottle']),
+	event.shapeless('alexsmobs:poison_bottle', ['1x alexsmobs:rattlesnake_rattle', 'minecraft:glass_bottle']),
 
 	// Backpack
 	event.shaped('backpacked:backpack', [
