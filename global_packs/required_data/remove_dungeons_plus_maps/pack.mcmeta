@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Remove Dungeon Maps from Dungeons Plus to avoid perfomance problems",
+        "pack_format": 15
+    }
+}
