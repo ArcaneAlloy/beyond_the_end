@@ -1,6 +1,13 @@
 [
 	// Dimension Game Stages
 
+	// Ban Phantoms in Twilight Forest
+	{
+		"mob": ["minecraft:phantom"],
+		"dimension": "twilightforest:twilightforest",
+		"result": "deny"
+	},
+
 	// Banned because its animation is totally messed up
     {
 		"mob": ["dungeons_mobs:skeleton_vanguard"],
