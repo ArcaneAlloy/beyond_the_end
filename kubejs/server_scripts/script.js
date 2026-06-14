@@ -1059,7 +1059,7 @@ ServerEvents.recipes(event => {
 	], {
 		A: 'cataclysm:athame',
 		N: 'minecraft:nautilus_shell',
-		C: 'cataclysm:crystallized_coral',
+		C: 'cataclysm:coral_chunk',
 		D: 'minecraft:diamond_block',
 		I: 'minecraft:iron_block',
 		E: 'minecraft:emerald_block',
