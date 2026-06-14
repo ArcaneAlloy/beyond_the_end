@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "description": "Fix: empty BDT processor_lists for RS compatibility without BDT mod",
+    "pack_format": 10
+  }
+}
